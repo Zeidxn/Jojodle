@@ -1,0 +1,333 @@
+body {
+  user-select: none;
+  overflow-x: hidden;
+}
+
+.m_x_0 {
+  margin-left: 0;
+  margin-right: 0;
+}
+.m_y_0 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.m_x_auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.m_y_auto {
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.m_1 { margin: 0.25rem; }
+.m_2 { margin: 0.5rem; }
+.m_3 { margin: 0.75rem; }
+.m_4 { margin: 1rem; }
+.m_5 { margin: 1.25rem; }
+.m_6 { margin: 1.5rem; }
+.m_7 { margin: 1.75rem; }
+.m_8 { margin: 2rem; }
+
+.gap_1 { gap: 0.25rem; }
+.gap_2 { gap: 0.5rem; }
+.gap_3 { gap: 0.75rem; }
+.gap_4 { gap: 1rem; }
+.gap_5 { gap: 1.25rem; }
+.gap_6 { gap: 1.5rem; }
+.gap_7 { gap: 1.75rem; }
+.gap_8 { gap: 2rem; }
+
+
+.bold {
+  font-weight: bold;
+}
+
+.font_sans {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.f_w_0 {
+  font-weight: 0;
+}
+
+.fs_1 { font-size: 0.75rem; }
+.fs_2 { font-size: 0.875rem; }
+.fs_3 { font-size: 1rem; }
+.fs_4 { font-size: 1.125rem; }
+.fs_5 { font-size: 1.25rem; }
+.fs_6 { font-size: 1.5rem; }
+.fs_7 { font-size: 1.875rem; }
+.fs_8 { font-size: 2.25rem; }
+.fs_9 { font-size: 3rem; }
+
+
+.w_100 {
+  width: 100vw;
+}
+
+.w_75 {
+  width: 75vw;
+}
+
+.w_50 {
+  width: 50vw;
+}
+
+.w_375 {
+  width: 37.5vw;
+}
+
+.w_25 {
+  width: 25vw;
+}
+
+.w_15 {
+  width: 15vw;
+}
+
+.w_10 {
+  width: 10vw;
+}
+
+.w_auto {
+  width: auto;
+}
+
+.h_100 {
+  min-height: 100vh;
+}
+
+.h_75 {
+  height: 75vh;
+}
+
+.h_50 {
+  height: 50vh;
+}
+
+.h_375 {
+  height: 37.5vh;
+}
+
+.h_25 {
+  height: 25vh;
+}
+
+.h_15 {
+  height: 15vh;
+}
+
+.h_10 {
+  height: 10vh;
+}
+
+.h_auto {
+    height: auto;
+}
+
+
+.flex {
+  display: flex;
+}
+
+.grid {
+  display: grid;
+}
+
+.inline_flex {
+  display: inline-flex;
+}
+
+.inline_grid {
+  display: inline-grid;
+}
+
+.block {
+  display: block;
+}
+
+.inline_block {
+  display: inline-block;
+}
+
+.hidden {
+  display: none;
+}
+.place_items_center {
+  place-items: center;
+}
+
+.justify_center {
+  justify-content: center;
+}
+
+.justify_start {
+  justify-content: flex-start;
+}
+
+.justify_end {
+  justify-content: flex-end;
+}
+
+.justify_between {
+  justify-content: space-between;
+}
+
+.justify_around {
+  justify-content: space-around;
+}
+
+.justify_evenly {
+  justify-content: space-evenly;
+}
+
+.items_center {
+  align-items: center;
+}
+
+.items_start {
+  align-items: flex-start;
+}
+
+.items_end {
+  align-items: flex-end;
+}
+
+.items_stretch {
+  align-items: stretch;
+}
+
+.items_baseline {
+  align-items: baseline;
+}
+
+.self_center {
+  align-self: center;
+}
+
+.self_start {
+  align-self: flex-start;
+}
+
+.self_end {
+  align-self: flex-end;
+}
+
+.self_stretch {
+  align-self: stretch;
+}
+
+.self_baseline {
+  align-self: baseline;
+}
+
+.flex_col {
+  flex-direction: column;
+}
+
+.flex_row {
+  flex-direction: row;
+}
+
+.flex_wrap {
+  flex-wrap: wrap;
+}
+
+.flex_nowrap {
+  flex-wrap: nowrap;
+}
+
+.scale_hover {
+  transition: transform 0.3s ease;
+}
+
+.scale_hover:hover {
+  transform: scale(1.1);
+}
+
+.cursor_pointer {
+  cursor: pointer;
+}
+
+.text_center {
+  text-align: center;
+}
+.text_left {
+  text-align: left;
+}
+
+.text_right {
+  text-align: right;
+}
+
+.text_underline {
+  text-decoration: underline;
+}
+.text_no_underline {
+  text-decoration: none;
+}
+.text_uppercase {
+  text-transform: uppercase;
+}
+
+.button {
+  cursor: pointer;
+  padding: 0.5em 1em;
+  font-family: 'Arial', sans-serif;
+  font-size: 1.5em;
+  font-weight: bold;
+  border-left: none;
+  border-right: none;
+  border-top: white 1px solid;
+  border-bottom: white 1px solid;
+  background-color: rgba(0, 0, 0, 0.6);
+  color: white;
+  text-shadow: 0 0 5px black;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  background: rgba(225, 55, 176, 0.6);
+}
+
+.cascade-container {
+  position: relative;
+  height: 100vh;
+  width: 25vw;
+  overflow: hidden;
+}
+
+.floating-text {
+  position: absolute;
+  animation: floatUp linear forwards;
+  opacity: 0.9;
+  pointer-events: none;
+}
+
+@keyframes floatUp {
+  0% {
+    transform: translateY(0) scale(1);
+    opacity: 1;
+  }
+  80% {
+    opacity: 0.6;
+  }
+  100% {
+    transform: translateY(-120vh) scale(0.8);
+    opacity: 0;
+  }
+}
+
+.game_clues_title {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 10px;
+  color: #fff;
+  text-shadow: 0 0 5px black;
+}
+
+
