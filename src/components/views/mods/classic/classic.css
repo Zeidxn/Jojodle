@@ -2,8 +2,10 @@
     display: flex;
     flex-direction: row;
     align-items: center;
+    text-align: center;
     gap: 12px;
     width: 100%;
+    height: 120px;
     background-color: rgba(0, 0, 0, 0.6);
     color: #fff;
     border-radius: 12px;
@@ -55,39 +57,38 @@
 
 /* Style de base appliqué à TOUS les spans */
 .character_info_item {
+    width: 88px;
+    height: 88px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     background-color: rgba(0, 0, 0, 0.9);
-    border: 1px solid #e137b0;
-    border-radius: 5px;
-    padding: 3px 6px;
+    border: 1.5px solid #e137b0;
+    border-radius: 8px;
+    padding: 0;
     color: #fff;
+    font-size: 15px;
+    font-weight: bold;
+    box-sizing: border-box;
+}
+.character_info_item strong {
+    display: none;
+}
+.character_info {
+    gap: 10px;
 }
 
-/* Texte en fuchsia pour le label */
-.character_info_item strong {
-    color: #fff;
-}
 
 /* États spécifiques */
-.character_info_true {
+.match  {
     background-color: #4caf50; /* vert */
     border-color: #388e3c;
     color: #fff;
 }
 
-.character_info_false {
+.no-match {
     background-color: #f44336; /* rouge */
     border-color: #d32f2f;
     color: #fff;
 }
 
-.character_info_unknown {
-    background-color: #9e9e9e; /* gris */
-    border-color: #616161;
-    color: #fff;
-}
-
-.character_info_half {
-    background-color: #ff9800; /* orange */
-    border-color: #f57c00;
-    color: #fff;
-}
