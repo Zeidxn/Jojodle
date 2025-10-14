@@ -75,6 +75,18 @@ export default function Classic({ characters = [] }) {
                     </p>
                 )}
 
+                <div className="character-attributes-container w_75 flex flex_row flex_wrap justify_center gap_2 m-4">
+                    <span className="character-attribute status">Status</span>
+                    <span className="character-attribute stand">Stand</span>
+                    <span className="character-attribute standType">Stand Type</span>
+                    <span className="character-attribute age">Age</span>
+                    <span className="character-attribute gender">Gender</span>
+                    <span className="character-attribute nationality">Nationality</span>
+                    <span className="character-attribute hair_color">Hair Color</span>
+                    <span className="character-attribute occupation">Occupation</span>
+                    <span className="character-attribute part">Part</span>
+                </div>
+
                 <div className="character-cards-container w_75 flex flex_col flex_wrap justify_center gap_2 m-4">
                     {[...selectedChars].reverse().map((char) => (
                         <CharacterCard key={char.id} character={char} randomChar={randomChar}/>
