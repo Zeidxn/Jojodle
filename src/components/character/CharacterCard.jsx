@@ -12,7 +12,7 @@ export default function CharacterCard({ character, randomChar }) {
 
 
     return (
-        <div className="character_card scale_hover">
+        <div className="character_card scale_hover place_items_center justify_center">
             {character.imageUrl && (
                 <img
                     src={character.imageUrl}
@@ -22,7 +22,7 @@ export default function CharacterCard({ character, randomChar }) {
             )}
 
             <div className="character_info">
-                <span className={`character_info_item ${getClass("status")}`}>
+                <span className={`character_info_item text_center ${getClass("status")}`}>
                     {formatValue(character.status)}
                 </span>
                 <span className={`character_info_item ${getClass("stand")}`}>

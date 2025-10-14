@@ -1,0 +1,1076 @@
+[
+  {
+    "name": "Jonathan Joestar",
+    "stand": null,
+    "hamon": true,
+    "part": "Phantom Blood"
+  },
+  {
+    "name": "Dio Brando",
+    "stand": "The World",
+    "hamon": false,
+    "part": "Phantom Blood"
+  },
+  {
+    "name": "Will Anthonio Zeppeli",
+    "stand": null,
+    "hamon": true,
+    "part": "Phantom Blood"
+  },
+  {
+    "name": "Dire",
+    "stand": null,
+    "hamon": true,
+    "part": "Phantom Blood"
+  },
+  {
+    "name": "Jack the Ripper",
+    "stand": null,
+    "hamon": false,
+    "part": "Phantom Blood"
+  },
+  {
+    "name": "Tarkus",
+    "stand": null,
+    "hamon": false,
+    "part": "Phantom Blood"
+  },
+  {
+    "name": "Bruford",
+    "stand": null,
+    "hamon": false,
+    "part": "Phantom Blood"
+  },
+  {
+    "name": "Tonpetty",
+    "stand": null,
+    "hamon": true,
+    "part": "Phantom Blood"
+  },
+  {
+    "name": "Straizo",
+    "stand": null,
+    "hamon": true,
+    "part": "Phantom Blood"
+  },
+  {
+    "name": "Robert E. O. Speedwagon",
+    "stand": null,
+    "hamon": false,
+    "part": "Phantom Blood"
+  },
+  {
+    "name": "Wang Chan",
+    "stand": null,
+    "hamon": false,
+    "part": "Phantom Blood"
+  },
+  {
+    "name": "Dario Brando",
+    "stand": null,
+    "hamon": false,
+    "part": "Phantom Blood"
+  },
+  {
+    "name": "Erina Pendleton",
+    "stand": null,
+    "hamon": false,
+    "part": "Phantom Blood"
+  },
+  {
+    "name": "Danny",
+    "stand": null,
+    "hamon": false,
+    "part": "Phantom Blood"
+  },
+  {
+    "name": "Joseph Joestar",
+    "stand": "Hermit Purple",
+    "hamon": true,
+    "part": "Battle Tendency"
+  },
+  {
+    "name": "Caesar Anthonio Zeppeli",
+    "stand": null,
+    "hamon": true,
+    "part": "Battle Tendency"
+  },
+  {
+    "name": "Lisa Lisa",
+    "stand": null,
+    "hamon": true,
+    "part": "Battle Tendency"
+  },
+  {
+    "name": "Rudol von Stroheim",
+    "stand": null,
+    "hamon": false,
+    "part": "Battle Tendency"
+  },
+  {
+    "name": "Santana",
+    "stand": null,
+    "hamon": false,
+    "part": "Battle Tendency"
+  },
+  {
+    "name": "Wamuu",
+    "stand": null,
+    "hamon": false,
+    "part": "Battle Tendency"
+  },
+  {
+    "name": "Esidisi",
+    "stand": null,
+    "hamon": false,
+    "part": "Battle Tendency"
+  },
+  {
+    "name": "Kars",
+    "stand": null,
+    "hamon": false,
+    "part": "Battle Tendency"
+  },
+  {
+    "name": "Smokey Brown",
+    "stand": null,
+    "hamon": false,
+    "part": "Battle Tendency"
+  },
+  {
+    "name": "Messina",
+    "stand": null,
+    "hamon": true,
+    "part": "Battle Tendency"
+  },
+  {
+    "name": "Loggins",
+    "stand": null,
+    "hamon": true,
+    "part": "Battle Tendency"
+  },
+  {
+    "name": "Suzi Q",
+    "stand": null,
+    "hamon": false,
+    "part": "Battle Tendency"
+  },
+  {
+    "name": "Jotaro Kujo",
+    "stand": "Star Platinum",
+    "hamon": false,
+    "part": "Stardust Crusaders"
+  },
+  {
+    "name": "Muhammad Avdol",
+    "stand": "Magician's Red",
+    "hamon": false,
+    "part": "Stardust Crusaders"
+  },
+  {
+    "name": "Noriaki Kakyoin",
+    "stand": "Hierophant Green",
+    "hamon": false,
+    "part": "Stardust Crusaders"
+  },
+  {
+    "name": "Jean Pierre Polnareff",
+    "stand": "Silver Chariot",
+    "hamon": false,
+    "part": "Stardust Crusaders"
+  },
+  {
+    "name": "Iggy",
+    "stand": "The Fool",
+    "hamon": false,
+    "part": "Stardust Crusaders"
+  },
+  {
+    "name": "Gray Fly",
+    "stand": "Tower of Gray",
+    "hamon": false,
+    "part": "Stardust Crusaders"
+  },
+  {
+    "name": "Imposter Captain Tennille",
+    "stand": "Dark Blue Moon",
+    "hamon": false,
+    "part": "Stardust Crusaders"
+  },
+  {
+    "name": "Forever",
+    "stand": "Strength",
+    "hamon": false,
+    "part": "Stardust Crusaders"
+  },
+  {
+    "name": "Devo the Cursed",
+    "stand": "Ebony Devil",
+    "hamon": false,
+    "part": "Stardust Crusaders"
+  },
+  {
+    "name": "Rubber Soul",
+    "stand": "Yellow Temperance",
+    "hamon": false,
+    "part": "Stardust Crusaders"
+  },
+  {
+    "name": "J. Geil",
+    "stand": "Hanged Man",
+    "hamon": false,
+    "part": "Stardust Crusaders"
+  },
+  {
+    "name": "Hol Horse",
+    "stand": "Emperor",
+    "hamon": false,
+    "part": "Stardust Crusaders"
+  },
+  {
+    "name": "Nena",
+    "stand": "Empress",
+    "hamon": false,
+    "part": "Stardust Crusaders"
+  },
+  {
+    "name": "ZZ",
+    "stand": "Wheel of Fortune",
+    "hamon": false,
+    "part": "Stardust Crusaders"
+  },
+  {
+    "name": "Enya the Hag",
+    "stand": "Justice",
+    "hamon": false,
+    "part": "Stardust Crusaders"
+  },
+  {
+    "name": "Steely Dan",
+    "stand": "Lovers",
+    "hamon": false,
+    "part": "Stardust Crusaders"
+  },
+  {
+    "name": "Arabia Fats",
+    "stand": "Sun",
+    "hamon": false,
+    "part": "Stardust Crusaders"
+  },
+  {
+    "name": "Mannish Boy",
+    "stand": "Death Thirteen",
+    "hamon": false,
+    "part": "Stardust Crusaders"
+  },
+  {
+    "name": "Cameo",
+    "stand": "Judgement",
+    "hamon": false,
+    "part": "Stardust Crusaders"
+  },
+  {
+    "name": "Midler",
+    "stand": "High Priestess",
+    "hamon": false,
+    "part": "Stardust Crusaders"
+  },
+  {
+    "name": "N'Doul",
+    "stand": "Geb",
+    "hamon": false,
+    "part": "Stardust Crusaders"
+  },
+  {
+    "name": "Boingo",
+    "stand": null,
+    "hamon": false,
+    "part": "Stardust Crusaders"
+  },
+  {
+    "name": "Anubis",
+    "stand": "Userless Stand",
+    "hamon": false,
+    "part": "Stardust Crusaders"
+  },
+  {
+    "name": "Mariah",
+    "stand": "Bastet",
+    "hamon": false,
+    "part": "Stardust Crusaders"
+  },
+  {
+    "name": "Alessi",
+    "stand": "Sethan",
+    "hamon": false,
+    "part": "Stardust Crusaders"
+  },
+  {
+    "name": "Daniel J. D'Arby",
+    "stand": "Osiris",
+    "hamon": false,
+    "part": "Stardust Crusaders"
+  },
+  {
+    "name": "Pet Shop",
+    "stand": "Horus",
+    "hamon": false,
+    "part": "Stardust Crusaders"
+  },
+  {
+    "name": "Telence T. D'Arby",
+    "stand": "Atum",
+    "hamon": false,
+    "part": "Stardust Crusaders"
+  },
+  {
+    "name": "Vanilla Ice",
+    "stand": "Cream",
+    "hamon": false,
+    "part": "Stardust Crusaders"
+  },
+  {
+    "name": "Holy Kujo",
+    "stand": "Holy's Stand",
+    "hamon": false,
+    "part": "Stardust Crusaders"
+  },
+  {
+    "name": "Josuke Higashikata",
+    "stand": "Crazy Diamond",
+    "hamon": false,
+    "part": "Diamond is Unbreakable"
+  },
+  {
+    "name": "Koichi Hirose",
+    "stand": "Echoes",
+    "hamon": false,
+    "part": "Diamond is Unbreakable"
+  },
+  {
+    "name": "Okuyasu Nijimura",
+    "stand": "The Hand",
+    "hamon": false,
+    "part": "Diamond is Unbreakable"
+  },
+  {
+    "name": "Rohan Kishibe",
+    "stand": "Heaven's Door",
+    "hamon": false,
+    "part": "Diamond is Unbreakable"
+  },
+  {
+    "name": "Yoshikage Kira",
+    "stand": "King Crimson",
+    "hamon": false,
+    "part": "Diamond is Unbreakable"
+  },
+  {
+    "name": "Anjuro Katagiri",
+    "stand": "Aqua Necklace",
+    "hamon": false,
+    "part": "Diamond is Unbreakable"
+  },
+  {
+    "name": "Keicho Nijimura",
+    "stand": "Bad Company",
+    "hamon": false,
+    "part": "Diamond is Unbreakable"
+  },
+  {
+    "name": "Tamami Kobayashi",
+    "stand": "The Lock",
+    "hamon": false,
+    "part": "Diamond is Unbreakable"
+  },
+  {
+    "name": "Toshikazu Hazamada",
+    "stand": "Surface",
+    "hamon": false,
+    "part": "Diamond is Unbreakable"
+  },
+  {
+    "name": "Yukako Yamagishi",
+    "stand": "Love Deluxe",
+    "hamon": false,
+    "part": "Diamond is Unbreakable"
+  },
+  {
+    "name": "Akira Otoishi",
+    "stand": "Red Hot Chili Pepper",
+    "hamon": false,
+    "part": "Diamond is Unbreakable"
+  },
+  {
+    "name": "Bug-Eaten",
+    "stand": "Ratt",
+    "hamon": false,
+    "part": "Diamond is Unbreakable"
+  },
+  {
+    "name": "Shigekiyo Yangu",
+    "stand": "Harvest",
+    "hamon": false,
+    "part": "Diamond is Unbreakable"
+  },
+  {
+    "name": "Yoshihiro Kira",
+    "stand": "Atom Heart Father",
+    "hamon": false,
+    "part": "Diamond is Unbreakable"
+  },
+  {
+    "name": "Ken Oyanagi",
+    "stand": "Boy II Man",
+    "hamon": false,
+    "part": "Diamond is Unbreakable"
+  },
+  {
+    "name": "Yuya Fungami",
+    "stand": "Highway Star",
+    "hamon": false,
+    "part": "Diamond is Unbreakable"
+  },
+  {
+    "name": "Toyohiro Kanedaichi",
+    "stand": "Super Fly",
+    "hamon": false,
+    "part": "Diamond is Unbreakable"
+  },
+  {
+    "name": "Terunosuke Miyamoto",
+    "stand": "Enigma",
+    "hamon": false,
+    "part": "Diamond is Unbreakable"
+  },
+  {
+    "name": "Masazo Kinoto",
+    "stand": "Cheap Trick",
+    "hamon": false,
+    "part": "Diamond is Unbreakable"
+  },
+  {
+    "name": "Tomoko Higashikata",
+    "stand": null,
+    "hamon": false,
+    "part": "Diamond is Unbreakable"
+  },
+  {
+    "name": "Ryohei Higashikata",
+    "stand": null,
+    "hamon": false,
+    "part": "Diamond is Unbreakable"
+  },
+  {
+    "name": "Tonio Trussardi",
+    "stand": "Pearl Jam",
+    "hamon": false,
+    "part": "Diamond is Unbreakable"
+  },
+  {
+    "name": "Shizuka Joestar",
+    "stand": "Achtung Baby",
+    "hamon": false,
+    "part": "Diamond is Unbreakable"
+  },
+  {
+    "name": "Aya Tsuji",
+    "stand": "Cinderella",
+    "hamon": false,
+    "part": "Diamond is Unbreakable"
+  },
+  {
+    "name": "Mikitaka Hazekura",
+    "stand": "Earth Wind & Fire",
+    "hamon": false,
+    "part": "Diamond is Unbreakable"
+  },
+  {
+    "name": "Giorno Giovanna",
+    "stand": "Gold Experience",
+    "hamon": false,
+    "part": "Vento Aureo"
+  },
+  {
+    "name": "Bruno Bucciarati",
+    "stand": "Sticky Fingers",
+    "hamon": false,
+    "part": "Vento Aureo"
+  },
+  {
+    "name": "Leone Abbacchio",
+    "stand": "Moody Blues",
+    "hamon": false,
+    "part": "Vento Aureo"
+  },
+  {
+    "name": "Guido Mista",
+    "stand": "Sex Pistols",
+    "hamon": false,
+    "part": "Vento Aureo"
+  },
+  {
+    "name": "Narancia Ghirga",
+    "stand": "Aerosmith",
+    "hamon": false,
+    "part": "Vento Aureo"
+  },
+  {
+    "name": "Pannacotta Fugo",
+    "stand": "Purple Haze",
+    "hamon": false,
+    "part": "Vento Aureo"
+  },
+  {
+    "name": "Trish Una",
+    "stand": "Spice Girl",
+    "hamon": false,
+    "part": "Vento Aureo"
+  },
+  {
+    "name": "Coco Jumbo",
+    "stand": "Mr.President",
+    "hamon": false,
+    "part": "Vento Aureo"
+  },
+  {
+    "name": "Diavolo",
+    "stand": "King Crimson",
+    "hamon": false,
+    "part": "Vento Aureo"
+  },
+  {
+    "name": "Vinegar Doppio",
+    "stand": "King Crimson",
+    "hamon": false,
+    "part": "Vento Aureo"
+  },
+  {
+    "name": "Polpo",
+    "stand": "Black Sabbath",
+    "hamon": false,
+    "part": "Vento Aureo"
+  },
+  {
+    "name": "Mario Zucchero",
+    "stand": "Soft Machine",
+    "hamon": false,
+    "part": "Vento Aureo"
+  },
+  {
+    "name": "Sale",
+    "stand": "Kraft Work",
+    "hamon": false,
+    "part": "Vento Aureo"
+  },
+  {
+    "name": "Risotto Nero",
+    "stand": "Metallica",
+    "hamon": false,
+    "part": "Vento Aureo"
+  },
+  {
+    "name": "Formaggio",
+    "stand": "Little Feet",
+    "hamon": false,
+    "part": "Vento Aureo"
+  },
+  {
+    "name": "Illuso",
+    "stand": "Man in the Mirror",
+    "hamon": false,
+    "part": "Vento Aureo"
+  },
+  {
+    "name": "Prosciutto",
+    "stand": "The Grateful Dead",
+    "hamon": false,
+    "part": "Vento Aureo"
+  },
+  {
+    "name": "Pesci",
+    "stand": "Beach Boy",
+    "hamon": false,
+    "part": "Vento Aureo"
+  },
+  {
+    "name": "Melone",
+    "stand": "Baby Face",
+    "hamon": false,
+    "part": "Vento Aureo"
+  },
+  {
+    "name": "Ghiaccio",
+    "stand": "White Album",
+    "hamon": false,
+    "part": "Vento Aureo"
+  },
+  {
+    "name": "Squalo",
+    "stand": "Aerosmith",
+    "hamon": false,
+    "part": "Vento Aureo"
+  },
+  {
+    "name": "Carne",
+    "stand": "Notorious B.I.G.",
+    "hamon": false,
+    "part": "Vento Aureo"
+  },
+  {
+    "name": "Cioccolata",
+    "stand": "Green Day",
+    "hamon": false,
+    "part": "Vento Aureo"
+  },
+  {
+    "name": "Secco",
+    "stand": "Oasis",
+    "hamon": false,
+    "part": "Vento Aureo"
+  },
+  {
+    "name": "Jolyne Cujoh",
+    "stand": "Stone Free",
+    "hamon": false,
+    "part": "Stone Ocean"
+  },
+  {
+    "name": "Ermes Costello",
+    "stand": "Kiss",
+    "hamon": false,
+    "part": "Stone Ocean"
+  },
+  {
+    "name": "Emporio Alnino",
+    "stand": "Burning Down the House",
+    "hamon": false,
+    "part": "Stone Ocean"
+  },
+  {
+    "name": "Foo Fighters",
+    "stand": "Foo Fighters",
+    "hamon": false,
+    "part": "Stone Ocean"
+  },
+  {
+    "name": "Weather Report",
+    "stand": "Weather Report",
+    "hamon": false,
+    "part": "Stone Ocean"
+  },
+  {
+    "name": "Narciso Anasui",
+    "stand": "Diver Down",
+    "hamon": false,
+    "part": "Stone Ocean"
+  },
+  {
+    "name": "Enrico Pucci",
+    "stand": "Made in Heaven",
+    "hamon": false,
+    "part": "Stone Ocean"
+  },
+  {
+    "name": "Gwess",
+    "stand": "Goo Goo Dolls",
+    "hamon": false,
+    "part": "Stone Ocean"
+  },
+  {
+    "name": "Johngalli A.",
+    "stand": "Manhattan Transfer",
+    "hamon": false,
+    "part": "Stone Ocean"
+  },
+  {
+    "name": "Thunder McQueen",
+    "stand": "Highway to Hell",
+    "hamon": false,
+    "part": "Stone Ocean"
+  },
+  {
+    "name": "Miraschon",
+    "stand": "Marilyn Manson",
+    "hamon": false,
+    "part": "Stone Ocean"
+  },
+  {
+    "name": "Lang Rangler",
+    "stand": "Jumpin' Jack Flash",
+    "hamon": false,
+    "part": "Stone Ocean"
+  },
+  {
+    "name": "Sports Maxx",
+    "stand": "Sports Maxx",
+    "hamon": false,
+    "part": "Stone Ocean"
+  },
+  {
+    "name": "Viviano Westwood",
+    "stand": "Planet Waves",
+    "hamon": false,
+    "part": "Stone Ocean"
+  },
+  {
+    "name": "Kenzou",
+    "stand": "Dragon's Dream",
+    "hamon": false,
+    "part": "Stone Ocean"
+  },
+  {
+    "name": "D an G",
+    "stand": "Yo-Yo Ma",
+    "hamon": false,
+    "part": "Stone Ocean"
+  },
+  {
+    "name": "Guccio",
+    "stand": "Survivor",
+    "hamon": false,
+    "part": "Stone Ocean"
+  },
+  {
+    "name": "The Green Baby",
+    "stand": "Green, Green Grass of Home",
+    "hamon": false,
+    "part": "Stone Ocean"
+  },
+  {
+    "name": "Miuccia Miuller",
+    "stand": "Jail House Lock",
+    "hamon": false,
+    "part": "Stone Ocean"
+  },
+  {
+    "name": "Ungalo",
+    "stand": "Bohemian Rhapsody",
+    "hamon": false,
+    "part": "Stone Ocean"
+  },
+  {
+    "name": "Rikiel",
+    "stand": "Sky High",
+    "hamon": false,
+    "part": "Stone Ocean"
+  },
+  {
+    "name": "Donatello Versus",
+    "stand": "Under World",
+    "hamon": false,
+    "part": "Stone Ocean"
+  },
+  {
+    "name": "Johnny Joestar",
+    "stand": "Tusk",
+    "hamon": false,
+    "part": "Jojolion"
+  },
+  {
+    "name": "Gyro Zeppeli",
+    "stand": "Ball Breaker",
+    "hamon": false,
+    "part": "Steel Ball Run"
+  },
+  {
+    "name": "Lucy Steel",
+    "stand": "Ticket to Ride",
+    "hamon": false,
+    "part": "Steel Ball Run"
+  },
+  {
+    "name": "Diego Brando",
+    "stand": "Scary Monsters",
+    "hamon": false,
+    "part": "Steel Ball Run"
+  },
+  {
+    "name": "Hot Pants",
+    "stand": "Cream Starter",
+    "hamon": false,
+    "part": "Steel Ball Run"
+  },
+  {
+    "name": "Funny Valentine",
+    "stand": "Dirty Deeds Done Dirt Cheap",
+    "hamon": false,
+    "part": "Steel Ball Run"
+  },
+  {
+    "name": "Sandman",
+    "stand": "In a Silent Way",
+    "hamon": false,
+    "part": "Steel Ball Run"
+  },
+  {
+    "name": "Benjamin Boomboom",
+    "stand": "Tomb of the Boom 1",
+    "hamon": false,
+    "part": "Steel Ball Run"
+  },
+  {
+    "name": "Andre Boomboom",
+    "stand": "Tomb of the Boom 2",
+    "hamon": false,
+    "part": "Steel Ball Run"
+  },
+  {
+    "name": "L.A. Boomboom",
+    "stand": "Tomb of the Boom 3",
+    "hamon": false,
+    "part": "Steel Ball Run"
+  },
+  {
+    "name": "Oyecomova",
+    "stand": "Boku no Rhythm wo Kiitekure",
+    "hamon": false,
+    "part": "Steel Ball Run"
+  },
+  {
+    "name": "Pork Pie Hat Kid",
+    "stand": "Wired",
+    "hamon": false,
+    "part": "Steel Ball Run"
+  },
+  {
+    "name": "Dr. Ferdinand",
+    "stand": "Scary Monsters",
+    "hamon": false,
+    "part": "Steel Ball Run"
+  },
+  {
+    "name": "Ringo Roadagain",
+    "stand": "Mandom",
+    "hamon": false,
+    "part": "Steel Ball Run"
+  },
+  {
+    "name": "Blackmore",
+    "stand": "Catch the Rainbow",
+    "hamon": false,
+    "part": "Steel Ball Run"
+  },
+  {
+    "name": "Eleven Men",
+    "stand": "Tatoo You",
+    "hamon": false,
+    "part": "Steel Ball Run"
+  },
+  {
+    "name": "Mike O.",
+    "stand": "Tubular Bells",
+    "hamon": false,
+    "part": "Steel Ball Run"
+  },
+  {
+    "name": "Magent Magent",
+    "stand": "20th Century Boy",
+    "hamon": false,
+    "part": "Steel Ball Run"
+  },
+  {
+    "name": "Axl RO",
+    "stand": "Civil War",
+    "hamon": false,
+    "part": "Steel Ball Run"
+  },
+  {
+    "name": "D-I-S-C-O",
+    "stand": "Chocolate Disco",
+    "hamon": false,
+    "part": "Steel Ball Run"
+  },
+  {
+    "name": "Mountain Tim",
+    "stand": "Oh! Lonesome Me",
+    "hamon": false,
+    "part": "Steel Ball Run"
+  },
+  {
+    "name": "Pocoloco",
+    "stand": "Hey Ya!",
+    "hamon": false,
+    "part": "Steel Ball Run"
+  },
+  {
+    "name": "Yasuho Hirose",
+    "stand": "Paisley Park",
+    "hamon": false,
+    "part": "Jojolion"
+  },
+  {
+    "name": "Norisuke Higashikata IV",
+    "stand": "King Nothing",
+    "hamon": false,
+    "part": "Jojolion"
+  },
+  {
+    "name": "Jobin Higashikata",
+    "stand": "Speed King",
+    "hamon": false,
+    "part": "Jojolion"
+  },
+  {
+    "name": "Tsurugi Higashikata",
+    "stand": "Paper Moon King",
+    "hamon": false,
+    "part": "Jojolion"
+  },
+  {
+    "name": "Daiya Higashikata",
+    "stand": "California King Bed",
+    "hamon": false,
+    "part": "Jojolion"
+  },
+  {
+    "name": "Hato Higashikata",
+    "stand": "Walking Heart",
+    "hamon": false,
+    "part": "Jojolion"
+  },
+  {
+    "name": "Mitsuba Higashikata",
+    "stand": "Awaking III Leaves",
+    "hamon": false,
+    "part": "Jojolion"
+  },
+  {
+    "name": "Kaato Higashikata",
+    "stand": "Space Trucking",
+    "hamon": false,
+    "part": "Jojolion"
+  },
+  {
+    "name": "Rai Mamezuku",
+    "stand": "Doggy Style",
+    "hamon": false,
+    "part": "Jojolion"
+  },
+  {
+    "name": "Toru",
+    "stand": "Wonder of U",
+    "hamon": false,
+    "part": "Jojolion"
+  },
+  {
+    "name": "Ojiro Sasame",
+    "stand": "Fun Fun Fun",
+    "hamon": false,
+    "part": "Jojolion"
+  },
+  {
+    "name": "Kei Nijimura",
+    "stand": "Born This Way",
+    "hamon": false,
+    "part": "Jojolion"
+  },
+  {
+    "name": "Tamaki Damo",
+    "stand": "Vitamin C",
+    "hamon": false,
+    "part": "Jojolion"
+  },
+  {
+    "name": "Yotsuyu Yagiyama",
+    "stand": "I Am a Rock",
+    "hamon": false,
+    "part": "Jojolion"
+  },
+  {
+    "name": "Aisho Dainenjiyama",
+    "stand": "Doobie Wah!",
+    "hamon": false,
+    "part": "Jojolion"
+  },
+  {
+    "name": "A. Phex Brothers",
+    "stand": "Schott Key No.1 and No.2",
+    "hamon": false,
+    "part": "Jojolion"
+  },
+  {
+    "name": "Dolomite",
+    "stand": "Blue Hawaii",
+    "hamon": false,
+    "part": "Jojolion"
+  },
+  {
+    "name": "Urban Guerrilla",
+    "stand": "Brain Storm",
+    "hamon": false,
+    "part": "Jojolion"
+  },
+  {
+    "name": "Poor Tom",
+    "stand": "Ozon Baby",
+    "hamon": false,
+    "part": "Jojolion"
+  },
+  {
+    "name": "Wu Tomoki",
+    "stand": "Doctor Wu",
+    "hamon": false,
+    "part": "Jojolion"
+  },
+  {
+    "name": "Holy Joestar-Kira",
+    "stand": "Unamed Stand",
+    "hamon": false,
+    "part": "Jojolion"
+  },
+  {
+    "name": "Karera Sakunami",
+    "stand": "Love Love Deluxe",
+    "hamon": false,
+    "part": "Jojolion"
+  },
+  {
+    "name": "Josefumi Kujo",
+    "stand": "Soft & Wet",
+    "hamon": false,
+    "part": "Jojolion"
+  },
+  {
+    "name": "Jodio Joestar",
+    "stand": "November Rain",
+    "hamon": false,
+    "part": "The JOJOLands"
+  },
+  {
+    "name": "Dragona Joestar",
+    "stand": "Smooth Operators",
+    "hamon": false,
+    "part": "The JOJOLands"
+  },
+  {
+    "name": "Paco Laburantes",
+    "stand": "THE Hustle",
+    "hamon": false,
+    "part": "The JOJOLands"
+  },
+  {
+    "name": "Usagi Alohaoe",
+    "stand": "THE MATTEKUDASAI",
+    "hamon": false,
+    "part": "The JOJOLands"
+  },
+  {
+    "name": "Charming Man",
+    "stand": "Bigmouth Strikes Again",
+    "hamon": false,
+    "part": "The JOJOLands"
+  },
+  {
+    "name": "Wild Cat Size",
+    "stand": "Cat_Size",
+    "hamon": false,
+    "part": "The JOJOLands"
+  },
+  {
+    "name": "Barbara Ann Joestar",
+    "stand": null,
+    "hamon": false,
+    "part": "The JOJOLands"
+  }
+]

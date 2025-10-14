@@ -4,6 +4,7 @@ import './App.css';
 import Home from "./components/views/Home.jsx";
 import Classic from "./components/views/mods/classic/Classic.jsx";
 import Stand from "./components/views/mods/Stand.jsx";
+import { createTheme } from "@mui/material";
 
 function App() {
     const [characters, setCharacters] = useState([]);
@@ -15,6 +16,16 @@ function App() {
             .catch((err) => console.error("Erreur JSON:", err));
     }, []);
 
+    createTheme({
+        palette: {
+            primary: {
+                main: 'rgba(0, 0, 0, 0.6)'
+            },
+            secondary: {
+                main: '#e137b0'
+            },
+        },
+    });
     return (
         <Router>
             <Routes>

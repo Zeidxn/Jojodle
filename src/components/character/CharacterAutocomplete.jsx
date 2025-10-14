@@ -42,7 +42,7 @@ export default function CharacterAutocomplete({ characters, onSelect }) {
                         sx={{ display: "flex", alignItems: "center", gap: 1 }}
                     >
                         <Avatar
-                            src={option.image}
+                            src={option.imageUrl}
                             alt={option.name}
                             sx={{ width: 32, height: 32 }}
                         />

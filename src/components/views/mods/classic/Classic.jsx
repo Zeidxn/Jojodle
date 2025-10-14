@@ -38,6 +38,7 @@ export default function Classic({ characters = [] }) {
         // Vérifier si c'est le gagnant
         if (randomChar && char.id === randomChar.id) {
             setWinner(char);
+            setAvailableChars([]);
         }
     };
 
@@ -60,7 +61,7 @@ export default function Classic({ characters = [] }) {
                 )}
 
                 <CharacterAutocomplete
-                    characters={availableChars} // Passez la nouvelle liste de personnages
+                    characters={availableChars}
                     onSelect={handleSelect}
                 />
 
@@ -74,7 +75,7 @@ export default function Classic({ characters = [] }) {
                     </p>
                 )}
 
-                <div className="character-cards-container w_75 flex flex_col flex_wrap justify_center gap-4 m-4">
+                <div className="character-cards-container w_75 flex flex_col flex_wrap justify_center gap_2 m-4">
                     {[...selectedChars].reverse().map((char) => (
                         <CharacterCard key={char.id} character={char} randomChar={randomChar}/>
                     ))}
