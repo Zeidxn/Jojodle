@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Jonathan Joestar",
-    "imageUrl": "/assets/jjba/img/Jonathan_Joestar.png",
+    "imageUrl": "/assets/jjba/img/jonathan_joestar.png",
     "status": "Deceased",
     "stand": null,
     "standType": "",
@@ -17,7 +17,7 @@
   {
     "id": 2,
     "name": "Dio Brando",
-    "imageUrl": "/assets/jjba/img/Dio_Brando.png",
+    "imageUrl": "/assets/jjba/img/dio_brando.png",
     "status": "Deceased",
     "stand": "The World",
     "standType": "Close-Range",
@@ -32,7 +32,7 @@
   {
     "id": 3,
     "name": "Will Anthonio Zeppeli",
-    "imageUrl": "/assets/jjba/img/Will_Anthonio_Zeppeli.png",
+    "imageUrl": "/assets/jjba/img/will_anthonio_zeppeli.png",
     "status": "Deceased",
     "stand": null,
     "standType": "",
@@ -47,7 +47,7 @@
   {
     "id": 4,
     "name": "Dire",
-    "imageUrl": "/assets/jjba/img/Dire.png",
+    "imageUrl": "/assets/jjba/img/dire.png",
     "status": "Deceased",
     "stand": null,
     "standType": "",
@@ -62,7 +62,7 @@
   {
     "id": 5,
     "name": "Jack the Ripper",
-    "imageUrl": "/assets/jjba/img/Jack_the_Ripper.png",
+    "imageUrl": "/assets/jjba/img/jack_the_ripper.png",
     "status": "Deceased",
     "stand": null,
     "standType": "",
@@ -77,7 +77,7 @@
   {
     "id": 6,
     "name": "Tarkus",
-    "imageUrl": "/assets/jjba/img/Tarkus.png",
+    "imageUrl": "/assets/jjba/img/tarkus.png",
     "status": "Deceased",
     "stand": null,
     "standType": "",
@@ -92,7 +92,7 @@
   {
     "id": 7,
     "name": "Bruford",
-    "imageUrl": "/assets/jjba/img/Bruford.png",
+    "imageUrl": "/assets/jjba/img/bruford.png",
     "status": "Deceased",
     "stand": null,
     "standType": "",
@@ -107,7 +107,7 @@
   {
     "id": 8,
     "name": "Tonpetty",
-    "imageUrl": "/assets/jjba/img/Tonpetty.png",
+    "imageUrl": "/assets/jjba/img/tonpetty.png",
     "status": "Deceased",
     "stand": null,
     "standType": "",
@@ -122,7 +122,7 @@
   {
     "id": 9,
     "name": "Straizo",
-    "imageUrl": "/assets/jjba/img/Straizo.png",
+    "imageUrl": "/assets/jjba/img/straizo.png",
     "status": "Deceased",
     "stand": null,
     "standType": "",
@@ -137,7 +137,7 @@
   {
     "id": 10,
     "name": "Robert E. O. Speedwagon",
-    "imageUrl": "/assets/jjba/img/Robert_E._O._Speedwagon.png",
+    "imageUrl": "/assets/jjba/img/robert_e._o._speedwagon.png",
     "status": "Deceased",
     "stand": null,
     "standType": "",
@@ -152,7 +152,7 @@
   {
     "id": 11,
     "name": "Wang Chan",
-    "imageUrl": "/assets/jjba/img/Wang_Chan.png",
+    "imageUrl": "/assets/jjba/img/wang_chan.png",
     "status": "Deceased",
     "stand": null,
     "standType": "",
@@ -167,7 +167,7 @@
   {
     "id": 12,
     "name": "Dario Brando",
-    "imageUrl": "/assets/jjba/img/Dario_Brando.png",
+    "imageUrl": "/assets/jjba/img/dario_brando.png",
     "status": "Deceased",
     "stand": null,
     "standType": "",
@@ -182,7 +182,7 @@
   {
     "id": 13,
     "name": "Erina Pendleton",
-    "imageUrl": "/assets/jjba/img/Erina_Pendleton.png",
+    "imageUrl": "/assets/jjba/img/erina_pendleton.png",
     "status": "Alive",
     "stand": null,
     "standType": "",
@@ -197,7 +197,7 @@
   {
     "id": 14,
     "name": "Danny",
-    "imageUrl": "/assets/jjba/img/Danny.png",
+    "imageUrl": "/assets/jjba/img/danny.png",
     "status": "Deceased",
     "stand": null,
     "standType": "",
@@ -212,7 +212,7 @@
   {
     "id": 15,
     "name": "Joseph Joestar",
-    "imageUrl": "/assets/jjba/img/Joseph_Joestar.png",
+    "imageUrl": "/assets/jjba/img/joseph_joestar.png",
     "status": "Alive",
     "stand": "Hermit Purple",
     "standType": "Close-Range",
@@ -227,7 +227,7 @@
   {
     "id": 16,
     "name": "Caesar Anthonio Zeppeli",
-    "imageUrl": "/assets/jjba/img/Caesar_Anthonio_Zeppeli.png",
+    "imageUrl": "/assets/jjba/img/caesar_anthonio_zeppeli.png",
     "status": "Deceased",
     "stand": null,
     "standType": "",
@@ -242,7 +242,7 @@
   {
     "id": 17,
     "name": "Lisa Lisa",
-    "imageUrl": "/assets/jjba/img/Lisa_Lisa.png",
+    "imageUrl": "/assets/jjba/img/lisa_lisa.png",
     "status": "Alive",
     "stand": null,
     "standType": "",
@@ -257,7 +257,7 @@
   {
     "id": 18,
     "name": "Rudol von Stroheim",
-    "imageUrl": "/assets/jjba/img/Rudol_von_Stroheim.png",
+    "imageUrl": "/assets/jjba/img/rudol_von_stroheim.png",
     "status": "Deceased",
     "stand": null,
     "standType": "",
@@ -272,7 +272,7 @@
   {
     "id": 19,
     "name": "Santana",
-    "imageUrl": "/assets/jjba/img/Santana.png",
+    "imageUrl": "/assets/jjba/img/santana.png",
     "status": "Retired",
     "stand": null,
     "standType": "",
@@ -287,7 +287,7 @@
   {
     "id": 20,
     "name": "Wamuu",
-    "imageUrl": "/assets/jjba/img/Wamuu.png",
+    "imageUrl": "/assets/jjba/img/wamuu.png",
     "status": "Deceased",
     "stand": null,
     "standType": "",
@@ -302,7 +302,7 @@
   {
     "id": 21,
     "name": "Esidisi",
-    "imageUrl": "/assets/jjba/img/Esidisi.png",
+    "imageUrl": "/assets/jjba/img/esidisi.png",
     "status": "Deceased",
     "stand": null,
     "standType": "",
@@ -317,7 +317,7 @@
   {
     "id": 22,
     "name": "Kars",
-    "imageUrl": "/assets/jjba/img/Kars.png",
+    "imageUrl": "/assets/jjba/img/kars.png",
     "status": "Retired",
     "stand": null,
     "standType": "",
@@ -332,7 +332,7 @@
   {
     "id": 23,
     "name": "Smokey Brown",
-    "imageUrl": "/assets/jjba/img/Smokey_Brown.png",
+    "imageUrl": "/assets/jjba/img/smokey_brown.png",
     "status": "Alive",
     "stand": null,
     "standType": "",
@@ -347,7 +347,7 @@
   {
     "id": 24,
     "name": "Messina",
-    "imageUrl": "/assets/jjba/img/Messina.png",
+    "imageUrl": "/assets/jjba/img/messina.png",
     "status": "Unknown",
     "stand": null,
     "standType": "",
@@ -362,7 +362,7 @@
   {
     "id": 25,
     "name": "Loggins",
-    "imageUrl": "/assets/jjba/img/Loggins.png",
+    "imageUrl": "/assets/jjba/img/loggins.png",
     "status": "Deceased",
     "stand": null,
     "standType": "",
@@ -377,7 +377,7 @@
   {
     "id": 26,
     "name": "Suzi Q",
-    "imageUrl": "/assets/jjba/img/Suzi_Q.png",
+    "imageUrl": "/assets/jjba/img/suzi_q.png",
     "status": "Alive",
     "stand": null,
     "standType": "",
@@ -392,7 +392,7 @@
   {
     "id": 27,
     "name": "Jotaro Kujo",
-    "imageUrl": "/assets/jjba/img/Jotaro_Kujo.png",
+    "imageUrl": "/assets/jjba/img/jotaro_kujo.png",
     "status": "Deceased",
     "stand": "Star Platinum",
     "standType": "Close-Range",
@@ -407,7 +407,7 @@
   {
     "id": 28,
     "name": "Muhammad Avdol",
-    "imageUrl": "/assets/jjba/img/Muhammad_Avdol.png",
+    "imageUrl": "/assets/jjba/img/muhammad_avdol.png",
     "status": "Deceased",
     "stand": "Magician's Red",
     "standType": "Close-Range",
@@ -422,7 +422,7 @@
   {
     "id": 29,
     "name": "Noriaki Kakyoin",
-    "imageUrl": "/assets/jjba/img/Noriaki_Kakyoin.png",
+    "imageUrl": "/assets/jjba/img/noriaki_kakyoin.png",
     "status": "Deceased",
     "stand": "Hierophant Green",
     "standType": "Long-Distance",
@@ -437,7 +437,7 @@
   {
     "id": 30,
     "name": "Jean Pierre Polnareff",
-    "imageUrl": "/assets/jjba/img/Jean_Pierre_Polnareff.png",
+    "imageUrl": "/assets/jjba/img/jean_pierre_polnareff.png",
     "status": "Deceased",
     "stand": "Silver Chariot",
     "standType": "Close-Range",
@@ -452,7 +452,7 @@
   {
     "id": 31,
     "name": "Iggy",
-    "imageUrl": "/assets/jjba/img/Iggy.png",
+    "imageUrl": "/assets/jjba/img/iggy.png",
     "status": "Deceased",
     "stand": "The Fool",
     "standType": "Close-Range",
@@ -467,7 +467,7 @@
   {
     "id": 32,
     "name": "Gray Fly",
-    "imageUrl": "/assets/jjba/img/Gray_Fly.png",
+    "imageUrl": "/assets/jjba/img/gray_fly.png",
     "status": "Deceased",
     "stand": "Tower of Gray",
     "standType": "Long-Distance",
@@ -482,7 +482,7 @@
   {
     "id": 33,
     "name": "Imposter Captain Tennille",
-    "imageUrl": "/assets/jjba/img/Imposter_Captain_Tennille.png",
+    "imageUrl": "/assets/jjba/img/imposter_captain_tennille.png",
     "status": "",
     "stand": "Dark Blue Moon",
     "standType": "Close-Range",
@@ -497,8 +497,8 @@
   {
     "id": 34,
     "name": "Forever",
-    "imageUrl": "/assets/jjba/img/Forever.png",
-    "status": "Retired",
+    "imageUrl": "/assets/jjba/img/forever.png",
+    "status": "Deceased",
     "stand": "Strength",
     "standType": "Artificial Non-Humanoid",
     "age": "",
@@ -512,7 +512,7 @@
   {
     "id": 35,
     "name": "Devo the Cursed",
-    "imageUrl": "/assets/jjba/img/Devo_the_Cursed.png",
+    "imageUrl": "/assets/jjba/img/devo_the_cursed.png",
     "status": "",
     "stand": "Ebony Devil",
     "standType": "Long-Distance",
@@ -527,7 +527,7 @@
   {
     "id": 36,
     "name": "Rubber Soul",
-    "imageUrl": "/assets/jjba/img/Rubber_Soul.png",
+    "imageUrl": "/assets/jjba/img/rubber_soul.png",
     "status": "Retired",
     "stand": "Yellow Temperance",
     "standType": "Close-Range",
@@ -542,7 +542,7 @@
   {
     "id": 37,
     "name": "J. Geil",
-    "imageUrl": "/assets/jjba/img/J._Geil.png",
+    "imageUrl": "/assets/jjba/img/j._geil.png",
     "status": "Deceased",
     "stand": "Hanged Man",
     "standType": "Long-Distance",
@@ -557,7 +557,7 @@
   {
     "id": 38,
     "name": "Hol Horse",
-    "imageUrl": "/assets/jjba/img/Hol_Horse.png",
+    "imageUrl": "/assets/jjba/img/hol_horse.png",
     "status": "Retired",
     "stand": "Emperor",
     "standType": "Close-Range",
@@ -572,7 +572,7 @@
   {
     "id": 39,
     "name": "Nena",
-    "imageUrl": "/assets/jjba/img/Nena.png",
+    "imageUrl": "/assets/jjba/img/nena.png",
     "status": "Deceased",
     "stand": "Empress",
     "standType": "Long-Distance",
@@ -587,7 +587,7 @@
   {
     "id": 40,
     "name": "ZZ",
-    "imageUrl": "/assets/jjba/img/ZZ.png",
+    "imageUrl": "/assets/jjba/img/zz.png",
     "status": "Retired",
     "stand": "Wheel of Fortune",
     "standType": "Close-Range",
@@ -602,7 +602,7 @@
   {
     "id": 41,
     "name": "Enya the Hag",
-    "imageUrl": "/assets/jjba/img/Enya_the_Hag.png",
+    "imageUrl": "/assets/jjba/img/enya_the_hag.png",
     "status": "Deceased",
     "stand": "Justice",
     "standType": "Long-Distance",
@@ -617,7 +617,7 @@
   {
     "id": 42,
     "name": "Steely Dan",
-    "imageUrl": "/assets/jjba/img/Steely_Dan.png",
+    "imageUrl": "/assets/jjba/img/steely_dan.png",
     "status": "Retired",
     "stand": "Lovers",
     "standType": "Long-Distance",
@@ -632,7 +632,7 @@
   {
     "id": 43,
     "name": "Arabia Fats",
-    "imageUrl": "/assets/jjba/img/Arabia_Fats.png",
+    "imageUrl": "/assets/jjba/img/arabia_fats.png",
     "status": "Retired",
     "stand": "Sun",
     "standType": "Long-Distance",
@@ -647,7 +647,7 @@
   {
     "id": 44,
     "name": "Mannish Boy",
-    "imageUrl": "/assets/jjba/img/Mannish_Boy.png",
+    "imageUrl": "/assets/jjba/img/mannish_boy.png",
     "status": "Retired",
     "stand": "Death Thirteen",
     "standType": "Close-Range",
@@ -662,7 +662,7 @@
   {
     "id": 45,
     "name": "Cameo",
-    "imageUrl": "/assets/jjba/img/Cameo.png",
+    "imageUrl": "/assets/jjba/img/cameo.png",
     "status": "Retired",
     "stand": "Judgement",
     "standType": "Automatic",
@@ -677,7 +677,7 @@
   {
     "id": 46,
     "name": "Midler",
-    "imageUrl": "/assets/jjba/img/Midler.png",
+    "imageUrl": "/assets/jjba/img/midler.png",
     "status": "Retired",
     "stand": "High Priestess",
     "standType": "Long-Distance",
@@ -692,7 +692,7 @@
   {
     "id": 47,
     "name": "N'Doul",
-    "imageUrl": "/assets/jjba/img/N_Doul.png",
+    "imageUrl": "/assets/jjba/img/n_doul.png",
     "status": "Deceased",
     "stand": "Geb",
     "standType": "Long-Distance",
@@ -707,7 +707,7 @@
   {
     "id": 48,
     "name": "Boingo",
-    "imageUrl": "/assets/jjba/img/Boingo.png",
+    "imageUrl": "/assets/jjba/img/boingo.png",
     "status": "Retired",
     "stand": null,
     "standType": "",
@@ -722,7 +722,7 @@
   {
     "id": 49,
     "name": "Anubis",
-    "imageUrl": "/assets/jjba/img/Anubis.png",
+    "imageUrl": "/assets/jjba/img/anubis.png",
     "status": "",
     "stand": "Userless Stand",
     "standType": "",
@@ -737,7 +737,7 @@
   {
     "id": 50,
     "name": "Mariah",
-    "imageUrl": "/assets/jjba/img/Mariah.png",
+    "imageUrl": "/assets/jjba/img/mariah.png",
     "status": "Retired",
     "stand": "Bastet",
     "standType": "Automatic",
@@ -752,7 +752,7 @@
   {
     "id": 51,
     "name": "Alessi",
-    "imageUrl": "/assets/jjba/img/Alessi.png",
+    "imageUrl": "/assets/jjba/img/alessi.png",
     "status": "Retired",
     "stand": "Sethan",
     "standType": "Bound",
@@ -767,7 +767,7 @@
   {
     "id": 52,
     "name": "Daniel J. D'Arby",
-    "imageUrl": "/assets/jjba/img/Daniel_J._D_Arby.png",
+    "imageUrl": "/assets/jjba/img/daniel_j._d_arby.png",
     "status": "Retired",
     "stand": "Osiris",
     "standType": "Automatic",
@@ -782,7 +782,7 @@
   {
     "id": 53,
     "name": "Pet Shop",
-    "imageUrl": "/assets/jjba/img/Pet_Shop.png",
+    "imageUrl": "/assets/jjba/img/pet_shop.png",
     "status": "Deceased",
     "stand": "Horus",
     "standType": "Close-Range",
@@ -797,7 +797,7 @@
   {
     "id": 54,
     "name": "Telence T. D'Arby",
-    "imageUrl": "/assets/jjba/img/Telence_T._D_Arby.png",
+    "imageUrl": "/assets/jjba/img/telence_t._d_arby.png",
     "status": "Retired",
     "stand": "Atum",
     "standType": "Close-Range",
@@ -812,7 +812,7 @@
   {
     "id": 55,
     "name": "Vanilla Ice",
-    "imageUrl": "/assets/jjba/img/Vanilla_Ice.png",
+    "imageUrl": "/assets/jjba/img/vanilla_ice.png",
     "status": "Deceased",
     "stand": "Cream",
     "standType": "Close-Range",
@@ -827,7 +827,7 @@
   {
     "id": 56,
     "name": "Holy Kujo",
-    "imageUrl": "/assets/jjba/img/Holy_Kujo.png",
+    "imageUrl": "/assets/jjba/img/holy_kujo.png",
     "status": "Alive",
     "stand": "Holy's Stand",
     "standType": "",
@@ -842,7 +842,7 @@
   {
     "id": 57,
     "name": "Josuke Higashikata",
-    "imageUrl": "/assets/jjba/img/Josuke_Higashikata.png",
+    "imageUrl": "/assets/jjba/img/josuke_higashikata.png",
     "status": "Alive",
     "stand": "Crazy Diamond",
     "standType": "Close-Range",
@@ -857,7 +857,7 @@
   {
     "id": 58,
     "name": "Koichi Hirose",
-    "imageUrl": "/assets/jjba/img/Koichi_Hirose.png",
+    "imageUrl": "/assets/jjba/img/koichi_hirose.png",
     "status": "Alive",
     "stand": "Echoes",
     "standType": "Close-Range",
@@ -872,7 +872,7 @@
   {
     "id": 59,
     "name": "Okuyasu Nijimura",
-    "imageUrl": "/assets/jjba/img/Okuyasu_Nijimura.png",
+    "imageUrl": "/assets/jjba/img/okuyasu_nijimura.png",
     "status": "Alive",
     "stand": "The Hand",
     "standType": "Close-Range",
@@ -887,7 +887,7 @@
   {
     "id": 60,
     "name": "Rohan Kishibe",
-    "imageUrl": "/assets/jjba/img/Rohan_Kishibe.png",
+    "imageUrl": "/assets/jjba/img/rohan_kishibe.png",
     "status": "Alive",
     "stand": "Heaven's Door",
     "standType": "Close-Range",
@@ -902,7 +902,7 @@
   {
     "id": 61,
     "name": "Yoshikage Kira",
-    "imageUrl": "/assets/jjba/img/Yoshikage_Kira.png",
+    "imageUrl": "/assets/jjba/img/yoshikage_kira.png",
     "status": "Deceased",
     "stand": "Killer Queen",
     "standType": "Close-Range",
@@ -917,7 +917,7 @@
   {
     "id": 62,
     "name": "Anjuro Katagiri",
-    "imageUrl": "/assets/jjba/img/Anjuro_Katagiri.png",
+    "imageUrl": "/assets/jjba/img/anjuro_katagiri.png",
     "status": "Retired",
     "stand": "Aqua Necklace",
     "standType": "Long-Distance",
@@ -932,7 +932,7 @@
   {
     "id": 63,
     "name": "Keicho Nijimura",
-    "imageUrl": "/assets/jjba/img/Keicho_Nijimura.png",
+    "imageUrl": "/assets/jjba/img/keicho_nijimura.png",
     "status": "Deceased",
     "stand": "Bad Company",
     "standType": "Colony",
@@ -947,7 +947,7 @@
   {
     "id": 64,
     "name": "Tamami Kobayashi",
-    "imageUrl": "/assets/jjba/img/Tamami_Kobayashi.png",
+    "imageUrl": "/assets/jjba/img/tamami_kobayashi.png",
     "status": "Alive",
     "stand": "The Lock",
     "standType": "Automatic",
@@ -962,7 +962,7 @@
   {
     "id": 65,
     "name": "Toshikazu Hazamada",
-    "imageUrl": "/assets/jjba/img/Toshikazu_Hazamada.png",
+    "imageUrl": "/assets/jjba/img/toshikazu_hazamada.png",
     "status": "Alive",
     "stand": "Surface",
     "standType": "Automatic",
@@ -977,7 +977,7 @@
   {
     "id": 66,
     "name": "Yukako Yamagishi",
-    "imageUrl": "/assets/jjba/img/Yukako_Yamagishi.png",
+    "imageUrl": "/assets/jjba/img/yukako_yamagishi.png",
     "status": "Alive",
     "stand": "Love Deluxe",
     "standType": "Bound",
@@ -992,7 +992,7 @@
   {
     "id": 67,
     "name": "Akira Otoishi",
-    "imageUrl": "/assets/jjba/img/Akira_Otoishi.png",
+    "imageUrl": "/assets/jjba/img/akira_otoishi.png",
     "status": "Alive",
     "stand": "Red Hot Chili Pepper",
     "standType": "Long-Distance",
@@ -1007,7 +1007,7 @@
   {
     "id": 68,
     "name": "Bug-Eaten",
-    "imageUrl": "/assets/jjba/img/Bug-Eaten.png",
+    "imageUrl": "/assets/jjba/img/bug-eaten.png",
     "status": "Deceased",
     "stand": "Ratt",
     "standType": "Long-Distance",
@@ -1022,7 +1022,7 @@
   {
     "id": 69,
     "name": "Shigekiyo Yangu",
-    "imageUrl": "/assets/jjba/img/Shigekiyo_Yangu.png",
+    "imageUrl": "/assets/jjba/img/shigekiyo_yangu.png",
     "status": "Deceased",
     "stand": "Harvest",
     "standType": "Long-Distance",
@@ -1037,7 +1037,7 @@
   {
     "id": 70,
     "name": "Yoshihiro Kira",
-    "imageUrl": "/assets/jjba/img/Yoshihiro_Kira.png",
+    "imageUrl": "/assets/jjba/img/yoshihiro_kira.png",
     "status": "Deceased",
     "stand": "Atom Heart Father",
     "standType": "Bound",
@@ -1052,7 +1052,7 @@
   {
     "id": 71,
     "name": "Ken Oyanagi",
-    "imageUrl": "/assets/jjba/img/Ken_Oyanagi.png",
+    "imageUrl": "/assets/jjba/img/ken_oyanagi.png",
     "status": "Alive",
     "stand": "Boy II Man",
     "standType": "Close-Range",
@@ -1067,7 +1067,7 @@
   {
     "id": 72,
     "name": "Yuya Fungami",
-    "imageUrl": "/assets/jjba/img/Yuya_Fungami.png",
+    "imageUrl": "/assets/jjba/img/yuya_fungami.png",
     "status": "Alive",
     "stand": "Highway Star",
     "standType": "Long-Distance",
@@ -1082,7 +1082,7 @@
   {
     "id": 73,
     "name": "Toyohiro Kanedaichi",
-    "imageUrl": "/assets/jjba/img/Toyohiro_Kanedaichi.png",
+    "imageUrl": "/assets/jjba/img/toyohiro_kanedaichi.png",
     "status": "Alive",
     "stand": "Super Fly",
     "standType": "Automatic",
@@ -1097,7 +1097,7 @@
   {
     "id": 74,
     "name": "Terunosuke Miyamoto",
-    "imageUrl": "/assets/jjba/img/Terunosuke_Miyamoto.png",
+    "imageUrl": "/assets/jjba/img/terunosuke_miyamoto.png",
     "status": "Retired",
     "stand": "Enigma",
     "standType": "Close-Range",
@@ -1112,7 +1112,7 @@
   {
     "id": 75,
     "name": "Masazo Kinoto",
-    "imageUrl": "/assets/jjba/img/Masazo_Kinoto.png",
+    "imageUrl": "/assets/jjba/img/masazo_kinoto.png",
     "status": "Deceased",
     "stand": "Cheap Trick",
     "standType": "Automatic",
@@ -1127,7 +1127,7 @@
   {
     "id": 76,
     "name": "Tomoko Higashikata",
-    "imageUrl": "/assets/jjba/img/Tomoko_Higashikata.png",
+    "imageUrl": "/assets/jjba/img/tomoko_higashikata.png",
     "status": "Alive",
     "stand": null,
     "standType": "",
@@ -1142,7 +1142,7 @@
   {
     "id": 77,
     "name": "Ryohei Higashikata",
-    "imageUrl": "/assets/jjba/img/Ryohei_Higashikata.png",
+    "imageUrl": "/assets/jjba/img/ryohei_higashikata.png",
     "status": "Deceased",
     "stand": null,
     "standType": "",
@@ -1157,7 +1157,7 @@
   {
     "id": 78,
     "name": "Tonio Trussardi",
-    "imageUrl": "/assets/jjba/img/Tonio_Trussardi.png",
+    "imageUrl": "/assets/jjba/img/tonio_trussardi.png",
     "status": "Alive",
     "stand": "Pearl Jam",
     "standType": "Long-Distance",
@@ -1172,7 +1172,7 @@
   {
     "id": 79,
     "name": "Shizuka Joestar",
-    "imageUrl": "/assets/jjba/img/Shizuka_Joestar.png",
+    "imageUrl": "/assets/jjba/img/shizuka_joestar.png",
     "status": "Alive",
     "stand": "Achtung Baby",
     "standType": "",
@@ -1187,7 +1187,7 @@
   {
     "id": 80,
     "name": "Aya Tsuji",
-    "imageUrl": "/assets/jjba/img/Aya_Tsuji.png",
+    "imageUrl": "/assets/jjba/img/aya_tsuji.png",
     "status": "Deceased",
     "stand": "Cinderella",
     "standType": "Close-Range",
@@ -1202,7 +1202,7 @@
   {
     "id": 81,
     "name": "Mikitaka Hazekura",
-    "imageUrl": "/assets/jjba/img/Mikitaka_Hazekura.png",
+    "imageUrl": "/assets/jjba/img/mikitaka_hazekura.png",
     "status": "Alive",
     "stand": "Earth Wind & Fire",
     "standType": "",
@@ -1217,7 +1217,7 @@
   {
     "id": 82,
     "name": "Giorno Giovanna",
-    "imageUrl": "/assets/jjba/img/Giorno_Giovanna.png",
+    "imageUrl": "/assets/jjba/img/giorno_giovanna.png",
     "status": "Alive",
     "stand": "Gold Experience",
     "standType": "Close-Range",
@@ -1232,7 +1232,7 @@
   {
     "id": 83,
     "name": "Bruno Bucciarati",
-    "imageUrl": "/assets/jjba/img/Bruno_Bucciarati.png",
+    "imageUrl": "/assets/jjba/img/bruno_bucciarati.png",
     "status": "Deceased",
     "stand": "Sticky Fingers",
     "standType": "Close-Range",
@@ -1247,7 +1247,7 @@
   {
     "id": 84,
     "name": "Leone Abbacchio",
-    "imageUrl": "/assets/jjba/img/Leone_Abbacchio.png",
+    "imageUrl": "/assets/jjba/img/leone_abbacchio.png",
     "status": "Deceased",
     "stand": "Moody Blues",
     "standType": "Close-Range",
@@ -1262,7 +1262,7 @@
   {
     "id": 85,
     "name": "Guido Mista",
-    "imageUrl": "/assets/jjba/img/Guido_Mista.png",
+    "imageUrl": "/assets/jjba/img/guido_mista.png",
     "status": "Alive",
     "stand": "Sex Pistols",
     "standType": "Long-Distance",
@@ -1277,7 +1277,7 @@
   {
     "id": 86,
     "name": "Narancia Ghirga",
-    "imageUrl": "/assets/jjba/img/Narancia_Ghirga.png",
+    "imageUrl": "/assets/jjba/img/narancia_ghirga.png",
     "status": "Deceased",
     "stand": "Aerosmith",
     "standType": "Long-Distance",
@@ -1292,7 +1292,7 @@
   {
     "id": 87,
     "name": "Pannacotta Fugo",
-    "imageUrl": "/assets/jjba/img/Pannacotta_Fugo.png",
+    "imageUrl": "/assets/jjba/img/pannacotta_fugo.png",
     "status": "Alive",
     "stand": "Purple Haze",
     "standType": "Close-Range",
@@ -1307,7 +1307,7 @@
   {
     "id": 88,
     "name": "Trish Una",
-    "imageUrl": "/assets/jjba/img/Trish_Una.png",
+    "imageUrl": "/assets/jjba/img/trish_una.png",
     "status": "Alive",
     "stand": "Spice Girl",
     "standType": "Close-Range",
@@ -1322,7 +1322,7 @@
   {
     "id": 89,
     "name": "Coco Jumbo",
-    "imageUrl": "/assets/jjba/img/Coco_Jumbo.png",
+    "imageUrl": "/assets/jjba/img/coco_jumbo.png",
     "status": "Alive",
     "stand": "Mr.President",
     "standType": "Range Irrelevant",
@@ -1337,7 +1337,7 @@
   {
     "id": 90,
     "name": "Diavolo",
-    "imageUrl": "/assets/jjba/img/Diavolo.png",
+    "imageUrl": "/assets/jjba/img/diavolo.png",
     "status": "",
     "stand": "King Crimson",
     "standType": "Close-Range",
@@ -1352,7 +1352,7 @@
   {
     "id": 91,
     "name": "Vinegar Doppio",
-    "imageUrl": "/assets/jjba/img/Vinegar_Doppio.png",
+    "imageUrl": "/assets/jjba/img/vinegar_doppio.png",
     "status": "Deceased",
     "stand": "King Crimson",
     "standType": "Close-Range",
@@ -1367,7 +1367,7 @@
   {
     "id": 92,
     "name": "Polpo",
-    "imageUrl": "/assets/jjba/img/Polpo.png",
+    "imageUrl": "/assets/jjba/img/polpo.png",
     "status": "Deceased",
     "stand": "Black Sabbath",
     "standType": "Automatic",
@@ -1382,7 +1382,7 @@
   {
     "id": 93,
     "name": "Mario Zucchero",
-    "imageUrl": "/assets/jjba/img/Mario_Zucchero.png",
+    "imageUrl": "/assets/jjba/img/mario_zucchero.png",
     "status": "Retired",
     "stand": "Soft Machine",
     "standType": "Close-Range",
@@ -1397,7 +1397,7 @@
   {
     "id": 94,
     "name": "Sale",
-    "imageUrl": "/assets/jjba/img/Sale.png",
+    "imageUrl": "/assets/jjba/img/sale.png",
     "status": "Retired",
     "stand": "Kraft Work",
     "standType": "Close-Range",
@@ -1412,7 +1412,7 @@
   {
     "id": 95,
     "name": "Risotto Nero",
-    "imageUrl": "/assets/jjba/img/Risotto_Nero.png",
+    "imageUrl": "/assets/jjba/img/risotto_nero.png",
     "status": "Deceased",
     "stand": "Metallica",
     "standType": "Close-Range",
@@ -1427,7 +1427,7 @@
   {
     "id": 96,
     "name": "Formaggio",
-    "imageUrl": "/assets/jjba/img/Formaggio.png",
+    "imageUrl": "/assets/jjba/img/formaggio.png",
     "status": "Deceased",
     "stand": "Little Feet",
     "standType": "Close-Range",
@@ -1442,7 +1442,7 @@
   {
     "id": 97,
     "name": "Illuso",
-    "imageUrl": "/assets/jjba/img/Illuso.png",
+    "imageUrl": "/assets/jjba/img/illuso.png",
     "status": "Deceased",
     "stand": "Man in the Mirror",
     "standType": "Long-Distance",
@@ -1457,7 +1457,7 @@
   {
     "id": 98,
     "name": "Prosciutto",
-    "imageUrl": "/assets/jjba/img/Prosciutto.png",
+    "imageUrl": "/assets/jjba/img/prosciutto.png",
     "status": "Deceased",
     "stand": "The Grateful Dead",
     "standType": "Long-Distance",
@@ -1472,7 +1472,7 @@
   {
     "id": 99,
     "name": "Pesci",
-    "imageUrl": "/assets/jjba/img/Pesci.png",
+    "imageUrl": "/assets/jjba/img/pesci.png",
     "status": "Deceased",
     "stand": "Beach Boy",
     "standType": "Close-Range",
@@ -1487,7 +1487,7 @@
   {
     "id": 100,
     "name": "Melone",
-    "imageUrl": "/assets/jjba/img/Melone.png",
+    "imageUrl": "/assets/jjba/img/melone.png",
     "status": "Deceased",
     "stand": "Baby Face",
     "standType": "Automatic",
@@ -1502,7 +1502,7 @@
   {
     "id": 101,
     "name": "Ghiaccio",
-    "imageUrl": "/assets/jjba/img/Ghiaccio.png",
+    "imageUrl": "/assets/jjba/img/ghiaccio.png",
     "status": "Deceased",
     "stand": "White Album",
     "standType": "Close-Range",
@@ -1517,7 +1517,7 @@
   {
     "id": 102,
     "name": "Squalo",
-    "imageUrl": "/assets/jjba/img/Squalo.png",
+    "imageUrl": "/assets/jjba/img/squalo.png",
     "status": "",
     "stand": "Aerosmith",
     "standType": "Long-Distance",
@@ -1532,7 +1532,7 @@
   {
     "id": 103,
     "name": "Carne",
-    "imageUrl": "/assets/jjba/img/Carne.png",
+    "imageUrl": "/assets/jjba/img/carne.png",
     "status": "Deceased",
     "stand": "Notorious B.I.G.",
     "standType": "Automatic",
@@ -1547,7 +1547,7 @@
   {
     "id": 104,
     "name": "Cioccolata",
-    "imageUrl": "/assets/jjba/img/Cioccolata.png",
+    "imageUrl": "/assets/jjba/img/cioccolata.png",
     "status": "Deceased",
     "stand": "Green Day",
     "standType": "Close-Range",
@@ -1562,7 +1562,7 @@
   {
     "id": 105,
     "name": "Secco",
-    "imageUrl": "/assets/jjba/img/Secco.png",
+    "imageUrl": "/assets/jjba/img/secco.png",
     "status": "Deceased",
     "stand": "Oasis",
     "standType": "Close-Range",
@@ -1577,7 +1577,7 @@
   {
     "id": 106,
     "name": "Jolyne Cujoh",
-    "imageUrl": "/assets/jjba/img/Jolyne_Cujoh.png",
+    "imageUrl": "/assets/jjba/img/jolyne_cujoh.png",
     "status": "Deceased",
     "stand": "Stone Free",
     "standType": "Close-Range",
@@ -1592,7 +1592,7 @@
   {
     "id": 107,
     "name": "Ermes Costello",
-    "imageUrl": "/assets/jjba/img/Ermes_Costello.png",
+    "imageUrl": "/assets/jjba/img/ermes_costello.png",
     "status": "Deceased",
     "stand": "Kiss",
     "standType": "Close-Range",
@@ -1607,7 +1607,7 @@
   {
     "id": 108,
     "name": "Emporio Alnino",
-    "imageUrl": "/assets/jjba/img/Emporio_Alnino.png",
+    "imageUrl": "/assets/jjba/img/emporio_alnino.png",
     "status": "",
     "stand": "Burning Down the House",
     "standType": "Bound",
@@ -1622,7 +1622,7 @@
   {
     "id": 109,
     "name": "Foo Fighters",
-    "imageUrl": "/assets/jjba/img/Foo_Fighters.png",
+    "imageUrl": "/assets/jjba/img/foo_fighters.png",
     "status": "Deceased",
     "stand": "Foo Fighters",
     "standType": "",
@@ -1637,7 +1637,7 @@
   {
     "id": 110,
     "name": "Weather Report",
-    "imageUrl": "/assets/jjba/img/Weather_Report.png",
+    "imageUrl": "/assets/jjba/img/weather_report.png",
     "status": "Deceased",
     "stand": "Weather Report",
     "standType": "",
@@ -1652,7 +1652,7 @@
   {
     "id": 111,
     "name": "Narciso Anasui",
-    "imageUrl": "/assets/jjba/img/Narciso_Anasui.png",
+    "imageUrl": "/assets/jjba/img/narciso_anasui.png",
     "status": "Deceased",
     "stand": "Diver Down",
     "standType": "Close-Range",
@@ -1667,7 +1667,7 @@
   {
     "id": 112,
     "name": "Enrico Pucci",
-    "imageUrl": "/assets/jjba/img/Enrico_Pucci.png",
+    "imageUrl": "/assets/jjba/img/enrico_pucci.png",
     "status": "Deceased",
     "stand": "Made in Heaven",
     "standType": "Close-Range",
@@ -1682,7 +1682,7 @@
   {
     "id": 113,
     "name": "Gwess",
-    "imageUrl": "/assets/jjba/img/Gwess.png",
+    "imageUrl": "/assets/jjba/img/gwess.png",
     "status": "Alive",
     "stand": "Goo Goo Dolls",
     "standType": "",
@@ -1712,7 +1712,7 @@
   {
     "id": 115,
     "name": "Thunder McQueen",
-    "imageUrl": "/assets/jjba/img/Thunder_McQueen.png",
+    "imageUrl": "/assets/jjba/img/thunder_mcqueen.png",
     "status": "Retired",
     "stand": "Highway to Hell",
     "standType": "Automatic",
@@ -1727,7 +1727,7 @@
   {
     "id": 116,
     "name": "Miraschon",
-    "imageUrl": "/assets/jjba/img/Miraschon.png",
+    "imageUrl": "/assets/jjba/img/miraschon.png",
     "status": "Retired",
     "stand": "Marilyn Manson",
     "standType": "Long-Distance",
@@ -1742,7 +1742,7 @@
   {
     "id": 117,
     "name": "Lang Rangler",
-    "imageUrl": "/assets/jjba/img/Lang_Rangler.png",
+    "imageUrl": "/assets/jjba/img/lang_rangler.png",
     "status": "Retired",
     "stand": "Jumpin' Jack Flash",
     "standType": "Close-Range",
@@ -1757,10 +1757,10 @@
   {
     "id": 118,
     "name": "Sports Maxx",
-    "imageUrl": "/assets/jjba/img/Sports_Maxx.png",
+    "imageUrl": "/assets/jjba/img/sports_maxx.png",
     "status": "Deceased",
-    "stand": "Sports Maxx",
-    "standType": "",
+    "stand": "Limp Bizkit",
+    "standType": "Automatic",
     "age": "",
     "gender": "Male",
     "nationality": "",
@@ -1772,7 +1772,7 @@
   {
     "id": 119,
     "name": "Viviano Westwood",
-    "imageUrl": "/assets/jjba/img/Viviano_Westwood.png",
+    "imageUrl": "/assets/jjba/img/viviano_westwood.png",
     "status": "Retired",
     "stand": "Planet Waves",
     "standType": "Close-Range",
@@ -1787,7 +1787,7 @@
   {
     "id": 120,
     "name": "Kenzou",
-    "imageUrl": "/assets/jjba/img/Kenzou.png",
+    "imageUrl": "/assets/jjba/img/kenzou.png",
     "status": "Retired",
     "stand": "Dragon's Dream",
     "standType": "Automatic",
@@ -1802,7 +1802,7 @@
   {
     "id": 121,
     "name": "D an G",
-    "imageUrl": "/assets/jjba/img/D_an_G.png",
+    "imageUrl": "/assets/jjba/img/d_an_g.png",
     "status": "Deceased",
     "stand": "Yo-Yo Ma",
     "standType": "Automatic",
@@ -1817,7 +1817,7 @@
   {
     "id": 122,
     "name": "Guccio",
-    "imageUrl": "/assets/jjba/img/Guccio.png",
+    "imageUrl": "/assets/jjba/img/guccio.png",
     "status": "Deceased",
     "stand": "Survivor",
     "standType": "Automatic",
@@ -1832,7 +1832,7 @@
   {
     "id": 123,
     "name": "The Green Baby",
-    "imageUrl": "/assets/jjba/img/The_Green_Baby.png",
+    "imageUrl": "/assets/jjba/img/the_green_baby.png",
     "status": "",
     "stand": "Green, Green Grass of Home",
     "standType": "Close-Range",
@@ -1847,7 +1847,7 @@
   {
     "id": 124,
     "name": "Miuccia Miuller",
-    "imageUrl": "/assets/jjba/img/Miuccia_Miuller.png",
+    "imageUrl": "/assets/jjba/img/miuccia_miuller.png",
     "status": "Retired",
     "stand": "Jail House Lock",
     "standType": "Close-Range",
@@ -1862,7 +1862,7 @@
   {
     "id": 125,
     "name": "Ungalo",
-    "imageUrl": "/assets/jjba/img/Ungalo.png",
+    "imageUrl": "/assets/jjba/img/ungalo.png",
     "status": "Retired",
     "stand": "Bohemian Rhapsody",
     "standType": "Automatic",
@@ -1877,7 +1877,7 @@
   {
     "id": 126,
     "name": "Rikiel",
-    "imageUrl": "/assets/jjba/img/Rikiel.png",
+    "imageUrl": "/assets/jjba/img/rikiel.png",
     "status": "Retired",
     "stand": "Sky High",
     "standType": "Close-Range",
@@ -1892,7 +1892,7 @@
   {
     "id": 127,
     "name": "Donatello Versus",
-    "imageUrl": "/assets/jjba/img/Donatello_Versus.png",
+    "imageUrl": "/assets/jjba/img/donatello_versus.png",
     "status": "Deceased",
     "stand": "Under World",
     "standType": "Close-Range",
@@ -1907,7 +1907,7 @@
   {
     "id": 128,
     "name": "Johnny Joestar",
-    "imageUrl": "/assets/jjba/img/Johnny_Joestar.png",
+    "imageUrl": "/assets/jjba/img/johnny_joestar.png",
     "status": "Deceased",
     "stand": "Tusk",
     "standType": "Close-Range",
@@ -1922,7 +1922,7 @@
   {
     "id": 129,
     "name": "Gyro Zeppeli",
-    "imageUrl": "/assets/jjba/img/Gyro_Zeppeli.png",
+    "imageUrl": "/assets/jjba/img/gyro_zeppeli.png",
     "status": "Deceased",
     "stand": "Ball Breaker",
     "standType": "Close-Range",
@@ -1937,7 +1937,7 @@
   {
     "id": 130,
     "name": "Lucy Steel",
-    "imageUrl": "/assets/jjba/img/Lucy_Steel.png",
+    "imageUrl": "/assets/jjba/img/lucy_steel.png",
     "status": "Deceased",
     "stand": "Ticket to Ride",
     "standType": "Close-Range",
@@ -1952,7 +1952,7 @@
   {
     "id": 131,
     "name": "Diego Brando",
-    "imageUrl": "/assets/jjba/img/Diego_Brando.png",
+    "imageUrl": "/assets/jjba/img/diego_brando.png",
     "status": "",
     "stand": "Scary Monsters",
     "standType": "Shared",
@@ -1967,7 +1967,7 @@
   {
     "id": 132,
     "name": "Hot Pants",
-    "imageUrl": "/assets/jjba/img/Hot_Pants.png",
+    "imageUrl": "/assets/jjba/img/hot_pants.png",
     "status": "Deceased",
     "stand": "Cream Starter",
     "standType": "Range Irrelevant",
@@ -1982,7 +1982,7 @@
   {
     "id": 133,
     "name": "Funny Valentine",
-    "imageUrl": "/assets/jjba/img/Funny_Valentine.png",
+    "imageUrl": "/assets/jjba/img/funny_valentine.png",
     "status": "Deceased",
     "stand": "Dirty Deeds Done Dirt Cheap",
     "standType": "Close-Range",
@@ -1997,7 +1997,7 @@
   {
     "id": 134,
     "name": "Sandman",
-    "imageUrl": "/assets/jjba/img/Sandman.png",
+    "imageUrl": "/assets/jjba/img/sandman.png",
     "status": "Deceased",
     "stand": "In a Silent Way",
     "standType": "Close-Range",
@@ -2057,7 +2057,7 @@
   {
     "id": 138,
     "name": "Oyecomova",
-    "imageUrl": "/assets/jjba/img/Oyecomova.png",
+    "imageUrl": "/assets/jjba/img/oyecomova.png",
     "status": "Retired",
     "stand": "Boku no Rhythm wo Kiitekure",
     "standType": "Close-Range",
@@ -2072,7 +2072,7 @@
   {
     "id": 139,
     "name": "Pork Pie Hat Kid",
-    "imageUrl": "/assets/jjba/img/Pork_Pie_Hat_Kid.png",
+    "imageUrl": "/assets/jjba/img/pork_pie_hat_kid.png",
     "status": "Retired",
     "stand": "Wired",
     "standType": "",
@@ -2087,7 +2087,7 @@
   {
     "id": 140,
     "name": "Dr. Ferdinand",
-    "imageUrl": "/assets/jjba/img/Dr._Ferdinand.png",
+    "imageUrl": "/assets/jjba/img/dr._ferdinand.png",
     "status": "Deceased",
     "stand": "Scary Monsters",
     "standType": "Shared",
@@ -2102,7 +2102,7 @@
   {
     "id": 141,
     "name": "Ringo Roadagain",
-    "imageUrl": "/assets/jjba/img/Ringo_Roadagain.png",
+    "imageUrl": "/assets/jjba/img/ringo_roadagain.png",
     "status": "Deceased",
     "stand": "Mandom",
     "standType": "",
@@ -2117,7 +2117,7 @@
   {
     "id": 142,
     "name": "Blackmore",
-    "imageUrl": "/assets/jjba/img/Blackmore.png",
+    "imageUrl": "/assets/jjba/img/blackmore.png",
     "status": "Deceased",
     "stand": "Catch the Rainbow",
     "standType": "Close-Range",
@@ -2132,7 +2132,7 @@
   {
     "id": 143,
     "name": "Eleven Men",
-    "imageUrl": "/assets/jjba/img/Eleven_Men.png",
+    "imageUrl": "/assets/jjba/img/eleven_men.png",
     "status": "Deceased",
     "stand": "Tatoo You",
     "standType": "",
@@ -2147,7 +2147,7 @@
   {
     "id": 144,
     "name": "Mike O.",
-    "imageUrl": "/assets/jjba/img/Mike_O..png",
+    "imageUrl": "/assets/jjba/img/mike_o..png",
     "status": "Deceased",
     "stand": "Tubular Bells",
     "standType": "",
@@ -2162,7 +2162,7 @@
   {
     "id": 145,
     "name": "Magent Magent",
-    "imageUrl": "/assets/jjba/img/Magent_Magent.png",
+    "imageUrl": "/assets/jjba/img/magent_magent.png",
     "status": "Retired",
     "stand": "20th Century Boy",
     "standType": "Close-Range",
@@ -2177,7 +2177,7 @@
   {
     "id": 146,
     "name": "Axl RO",
-    "imageUrl": "/assets/jjba/img/Axl_RO.png",
+    "imageUrl": "/assets/jjba/img/axl_ro.png",
     "status": "Deceased",
     "stand": "Civil War",
     "standType": "Long-Distance",
@@ -2192,7 +2192,7 @@
   {
     "id": 147,
     "name": "D-I-S-C-O",
-    "imageUrl": "/assets/jjba/img/D-I-S-C-O.png",
+    "imageUrl": "/assets/jjba/img/d-i-s-c-o.png",
     "status": "Retired",
     "stand": "Chocolate Disco",
     "standType": "Close-Range",
@@ -2207,7 +2207,7 @@
   {
     "id": 148,
     "name": "Mountain Tim",
-    "imageUrl": "/assets/jjba/img/Mountain_Tim.png",
+    "imageUrl": "/assets/jjba/img/mountain_tim.png",
     "status": "Deceased",
     "stand": "Oh! Lonesome Me",
     "standType": "",
@@ -2222,7 +2222,7 @@
   {
     "id": 149,
     "name": "Pocoloco",
-    "imageUrl": "/assets/jjba/img/Pocoloco.png",
+    "imageUrl": "/assets/jjba/img/pocoloco.png",
     "status": "Alive",
     "stand": "Hey Ya!",
     "standType": "Close-Range",
@@ -2237,7 +2237,7 @@
   {
     "id": 150,
     "name": "Yasuho Hirose",
-    "imageUrl": "/assets/jjba/img/Yasuho_Hirose.png",
+    "imageUrl": "/assets/jjba/img/yasuho_hirose.png",
     "status": "Alive",
     "stand": "Paisley Park",
     "standType": "Long-Distance",
@@ -2252,7 +2252,7 @@
   {
     "id": 151,
     "name": "Norisuke Higashikata IV",
-    "imageUrl": "/assets/jjba/img/Norisuke_Higashikata_IV.png",
+    "imageUrl": "/assets/jjba/img/norisuke_higashikata_iv.png",
     "status": "Alive",
     "stand": "King Nothing",
     "standType": "Long-Distance",
@@ -2267,7 +2267,7 @@
   {
     "id": 152,
     "name": "Jobin Higashikata",
-    "imageUrl": "/assets/jjba/img/Jobin_Higashikata.png",
+    "imageUrl": "/assets/jjba/img/jobin_higashikata.png",
     "status": "Deceased",
     "stand": "Speed King",
     "standType": "Close-Range",
@@ -2282,7 +2282,7 @@
   {
     "id": 153,
     "name": "Tsurugi Higashikata",
-    "imageUrl": "/assets/jjba/img/Tsurugi_Higashikata.png",
+    "imageUrl": "/assets/jjba/img/tsurugi_higashikata.png",
     "status": "Alive",
     "stand": "Paper Moon King",
     "standType": "Long-Distance",
@@ -2297,7 +2297,7 @@
   {
     "id": 154,
     "name": "Daiya Higashikata",
-    "imageUrl": "/assets/jjba/img/Daiya_Higashikata.png",
+    "imageUrl": "/assets/jjba/img/daiya_higashikata.png",
     "status": "Alive",
     "stand": "California King Bed",
     "standType": "Close-Range",
@@ -2312,7 +2312,7 @@
   {
     "id": 155,
     "name": "Hato Higashikata",
-    "imageUrl": "/assets/jjba/img/Hato_Higashikata.png",
+    "imageUrl": "/assets/jjba/img/hato_higashikata.png",
     "status": "Alive",
     "stand": "Walking Heart",
     "standType": "Close-Range",
@@ -2327,7 +2327,7 @@
   {
     "id": 156,
     "name": "Mitsuba Higashikata",
-    "imageUrl": "/assets/jjba/img/Mitsuba_Higashikata.png",
+    "imageUrl": "/assets/jjba/img/mitsuba_higashikata.png",
     "status": "Alive",
     "stand": "Awaking III Leaves",
     "standType": "Close-Range",
@@ -2342,7 +2342,7 @@
   {
     "id": 157,
     "name": "Kaato Higashikata",
-    "imageUrl": "/assets/jjba/img/Kaato_Higashikata.png",
+    "imageUrl": "/assets/jjba/img/kaato_higashikata.png",
     "status": "Deceased",
     "stand": "Space Trucking",
     "standType": "Close-Range",
@@ -2357,7 +2357,7 @@
   {
     "id": 158,
     "name": "Rai Mamezuku",
-    "imageUrl": "/assets/jjba/img/Rai_Mamezuku.png",
+    "imageUrl": "/assets/jjba/img/rai_mamezuku.png",
     "status": "Deceased",
     "stand": "Doggy Style",
     "standType": "Close-Range",
@@ -2372,7 +2372,7 @@
   {
     "id": 159,
     "name": "Toru",
-    "imageUrl": "/assets/jjba/img/Toru.png",
+    "imageUrl": "/assets/jjba/img/toru.png",
     "status": "Deceased",
     "stand": "Wonder of U",
     "standType": "Long-Distance",
@@ -2387,7 +2387,7 @@
   {
     "id": 160,
     "name": "Ojiro Sasame",
-    "imageUrl": "/assets/jjba/img/Ojiro_Sasame.png",
+    "imageUrl": "/assets/jjba/img/ojiro_sasame.png",
     "status": "Deceased",
     "stand": "Fun Fun Fun",
     "standType": "Close-Range",
@@ -2402,7 +2402,7 @@
   {
     "id": 161,
     "name": "Kei Nijimura",
-    "imageUrl": "/assets/jjba/img/Kei_Nijimura.png",
+    "imageUrl": "/assets/jjba/img/kei_nijimura.png",
     "status": "Deceased",
     "stand": "Born This Way",
     "standType": "Automatic",
@@ -2417,7 +2417,7 @@
   {
     "id": 162,
     "name": "Tamaki Damo",
-    "imageUrl": "/assets/jjba/img/Tamaki_Damo.png",
+    "imageUrl": "/assets/jjba/img/tamaki_damo.png",
     "status": "Deceased",
     "stand": "Vitamin C",
     "standType": "Close-Range",
@@ -2432,7 +2432,7 @@
   {
     "id": 163,
     "name": "Yotsuyu Yagiyama",
-    "imageUrl": "/assets/jjba/img/Yotsuyu_Yagiyama.png",
+    "imageUrl": "/assets/jjba/img/yotsuyu_yagiyama.png",
     "status": "Deceased",
     "stand": "I Am a Rock",
     "standType": "Close-Range",
@@ -2447,7 +2447,7 @@
   {
     "id": 164,
     "name": "Aisho Dainenjiyama",
-    "imageUrl": "/assets/jjba/img/Aisho_Dainenjiyama.png",
+    "imageUrl": "/assets/jjba/img/aisho_dainenjiyama.png",
     "status": "Deceased",
     "stand": "Doobie Wah!",
     "standType": "Automatic",
@@ -2462,7 +2462,7 @@
   {
     "id": 165,
     "name": "A. Phex Brothers",
-    "imageUrl": "/assets/jjba/img/A._Phex_Brothers.png",
+    "imageUrl": "/assets/jjba/img/a._phex_brothers.png",
     "status": "Deceased",
     "stand": "Schott Key No.1 and No.2",
     "standType": "",
@@ -2477,7 +2477,7 @@
   {
     "id": 166,
     "name": "Dolomite",
-    "imageUrl": "/assets/jjba/img/Dolomite.png",
+    "imageUrl": "/assets/jjba/img/dolomite.png",
     "status": "Retired",
     "stand": "Blue Hawaii",
     "standType": "Long-Distance",
@@ -2492,7 +2492,7 @@
   {
     "id": 167,
     "name": "Urban Guerrilla",
-    "imageUrl": "/assets/jjba/img/Urban_Guerrilla.png",
+    "imageUrl": "/assets/jjba/img/urban_guerrilla.png",
     "status": "Deceased",
     "stand": "Brain Storm",
     "standType": "Colony",
@@ -2507,7 +2507,7 @@
   {
     "id": 168,
     "name": "Poor Tom",
-    "imageUrl": "/assets/jjba/img/Poor_Tom.png",
+    "imageUrl": "/assets/jjba/img/poor_tom.png",
     "status": "Deceased",
     "stand": "Ozon Baby",
     "standType": "Automatic",
@@ -2522,7 +2522,7 @@
   {
     "id": 169,
     "name": "Wu Tomoki",
-    "imageUrl": "/assets/jjba/img/Wu_Tomoki.png",
+    "imageUrl": "/assets/jjba/img/wu_tomoki.png",
     "status": "Deceased",
     "stand": "Doctor Wu",
     "standType": "",
@@ -2537,7 +2537,7 @@
   {
     "id": 170,
     "name": "Holy Joestar-Kira",
-    "imageUrl": "/assets/jjba/img/Holy_Joestar-Kira.png",
+    "imageUrl": "/assets/jjba/img/holy_joestar-kira.png",
     "status": "Alive",
     "stand": "Unamed Stand",
     "standType": "",
@@ -2552,7 +2552,7 @@
   {
     "id": 171,
     "name": "Karera Sakunami",
-    "imageUrl": "/assets/jjba/img/Karera_Sakunami.png",
+    "imageUrl": "/assets/jjba/img/karera_sakunami.png",
     "status": "Alive",
     "stand": "Love Love Deluxe",
     "standType": "Close-Range",
@@ -2567,7 +2567,7 @@
   {
     "id": 172,
     "name": "Josefumi Kujo",
-    "imageUrl": "/assets/jjba/img/Josefumi_Kujo.png",
+    "imageUrl": "/assets/jjba/img/josefumi_kujo.png",
     "status": "",
     "stand": "Soft & Wet",
     "standType": "Close-Range",
@@ -2582,7 +2582,7 @@
   {
     "id": 173,
     "name": "Jodio Joestar",
-    "imageUrl": "/assets/jjba/img/Jodio_Joestar.png",
+    "imageUrl": "/assets/jjba/img/jodio_joestar.png",
     "status": "Alive",
     "stand": "November Rain",
     "standType": "Close-Range",
@@ -2597,7 +2597,7 @@
   {
     "id": 174,
     "name": "Dragona Joestar",
-    "imageUrl": "/assets/jjba/img/Dragona_Joestar.png",
+    "imageUrl": "/assets/jjba/img/dragona_joestar.png",
     "status": "Alive",
     "stand": "Smooth Operators",
     "standType": "Colony",
@@ -2612,7 +2612,7 @@
   {
     "id": 175,
     "name": "Paco Laburantes",
-    "imageUrl": "/assets/jjba/img/Paco_Laburantes.png",
+    "imageUrl": "/assets/jjba/img/paco_laburantes.png",
     "status": "Alive",
     "stand": "THE Hustle",
     "standType": "",
@@ -2627,7 +2627,7 @@
   {
     "id": 176,
     "name": "Usagi Alohaoe",
-    "imageUrl": "/assets/jjba/img/Usagi_Alohaoe.png",
+    "imageUrl": "/assets/jjba/img/usagi_alohaoe.png",
     "status": "",
     "stand": "THE MATTEKUDASAI",
     "standType": "Artificial Non-Humanoid",
@@ -2642,7 +2642,7 @@
   {
     "id": 177,
     "name": "Charming Man",
-    "imageUrl": "/assets/jjba/img/Charming_Man.png",
+    "imageUrl": "/assets/jjba/img/charming_man.png",
     "status": "",
     "stand": "Bigmouth Strikes Again",
     "standType": "",
@@ -2657,7 +2657,7 @@
   {
     "id": 178,
     "name": "Wild Cat Size",
-    "imageUrl": "/assets/jjba/img/Wild_Cat_Size.png",
+    "imageUrl": "/assets/jjba/img/wild_cat_size.png",
     "status": "",
     "stand": "Cat_Size",
     "standType": "Shared",
@@ -2672,7 +2672,7 @@
   {
     "id": 179,
     "name": "Barbara Ann Joestar",
-    "imageUrl": "/assets/jjba/img/Barbara_Ann_Joestar.png",
+    "imageUrl": "/assets/jjba/img/barbara_ann_joestar.png",
     "status": "Alive",
     "stand": null,
     "standType": "",

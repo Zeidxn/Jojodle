@@ -242,8 +242,8 @@ async function fetchAndDownloadCharacterImage(characterName) {
             .replace(/\/smart\/width\/\d+\/height\/\d+/g, '')
             .split('?')[0];
         
-        const ext = path.extname(imageUrl) || '.png';
-        const filename = sanitizeFilename(characterName) + ext;
+        const ext = path.extname(imageUrl).toLowerCase() || '.png';
+        const filename = sanitizeFilename(characterName).toLowerCase() + ext;
         const filepath = path.join(IMG_DIR, filename);
         
         if (await fs.pathExists(filepath)) {
