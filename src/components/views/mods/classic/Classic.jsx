@@ -4,6 +4,7 @@ import CharacterAutocomplete from "../../../character/CharacterAutocomplete.jsx"
 import './classic.css';
 import { Link } from "react-router-dom";
 import GameClues from "../../../game-clues/GameClues.jsx";
+import Success from "../../../success/Success.jsx";
 
 export default function Classic({ characters = [] }) {
     const [selectedChars, setSelectedChars] = useState([]);
@@ -42,6 +43,14 @@ export default function Classic({ characters = [] }) {
         }
     };
 
+    const handleReset = () => {
+        // Réinitialiser tous les états pour recommencer une nouvelle partie
+        setWinner(null);
+        setSelectedChars([]);
+        setAvailableChars(characters);
+        setRandomChar(null);
+    };
+
     return (
         <div className="w_100 h_100 flex flex_col items_center justify_center">
             <div className="h_100 w_75 flex flex_col items_center m_x_auto gap_3">
@@ -70,27 +79,26 @@ export default function Classic({ characters = [] }) {
                 )}
 
                 {winner && (
-                    <p className="text-green-400 font-bold mt-4">
-                        🎉 Bravo ! Vous avez trouvé le personnage aléatoire : {winner.name} !
-                    </p>
+                    <Success winner={winner} onReset={handleReset} />
                 )}
 
-                <div className="character-attributes-container w_75 flex flex_row flex_wrap justify_center gap_2 m-4">
-                    <span className="character-attribute status">Status</span>
-                    <span className="character-attribute stand">Stand</span>
-                    <span className="character-attribute standType">Stand Type</span>
-                    <span className="character-attribute age">Age</span>
-                    <span className="character-attribute gender">Gender</span>
-                    <span className="character-attribute nationality">Nationality</span>
-                    <span className="character-attribute hair_color">Hair Color</span>
-                    <span className="character-attribute occupation">Occupation</span>
-                    <span className="character-attribute part">Part</span>
-                </div>
-
                 <div className="character-cards-container w_75 flex flex_col flex_wrap justify_center gap_2 m-4">
-                    {[...selectedChars].reverse().map((char) => (
-                        <CharacterCard key={char.id} character={char} randomChar={randomChar}/>
-                    ))}
+                    <div className="flex flex_col justify_center gap-2">
+                        <div className="character-attributes-container w_75 flex flex_rowjustify_center gap_2 m_y_3">
+                            <span className="character-attribute status">Status</span>
+                            <span className="character-attribute stand">Stand</span>
+                            <span className="character-attribute standType">Stand Type</span>
+                            <span className="character-attribute age">Age</span>
+                            <span className="character-attribute gender">Gender</span>
+                            <span className="character-attribute nationality">Nationality</span>
+                            <span className="character-attribute hair_color">Hair Color</span>
+                            <span className="character-attribute occupation">Occupation</span>
+                            <span className="character-attribute part">Part</span>
+                        </div>
+                        {[...selectedChars].reverse().map((char) => (
+                            <CharacterCard key={char.id} character={char} randomChar={randomChar}/>
+                        ))}
+                    </div>
                 </div>
             </div>
         </div>

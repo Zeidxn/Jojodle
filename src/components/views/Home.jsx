@@ -4,7 +4,6 @@ import TextCascade from "../menacing_texts/MenacingTexts.jsx";
 function Home() {
     return (
         <div className="w_100 h_100 flex items_center justify_center">
-            <audio src={"/assets/jjba/soundtrack.mp3"} autoPlay loop />
             <TextCascade />
 
             <div className="h_75 w_50 flex flex_col items_center justify_center m_x_auto m_y_auto">

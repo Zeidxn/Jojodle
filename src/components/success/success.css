@@ -1,0 +1,95 @@
+.success_overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.85);
+    backdrop-filter: blur(8px);
+    z-index: 1000;
+}
+
+.success_card {
+    background: linear-gradient(135deg, rgba(86, 40, 80, 0.95) 0%, rgba(113, 8, 82, 0.95) 100%);
+    padding: 3rem;
+    border-radius: 16px;
+    border: 3px solid #e137b0;
+    box-shadow: 0 0 40px rgba(225, 55, 176, 0.8),
+                0 8px 32px rgba(0, 0, 0, 0.6),
+                inset 0 1px 0 rgba(255, 255, 255, 0.2);
+    text-align: center;
+    max-width: 500px;
+    min-height: 600px;
+    animation: successAppear 0.5s ease-out;
+}
+
+@keyframes successAppear {
+    0% {
+        transform: scale(0.8) translateY(-20px);
+        opacity: 0;
+    }
+    100% {
+        transform: scale(1) translateY(0);
+        opacity: 1;
+    }
+}
+
+.success_title {
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 1.5rem;
+    color: #fff;
+    text-shadow: 0 0 20px rgba(225, 55, 176, 1),
+                 0 0 40px rgba(255, 77, 210, 0.8),
+                 0 2px 8px rgba(0, 0, 0, 0.9);
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+.success_text {
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+    color: #fff;
+    text-shadow: 0 2px 8px rgba(0, 0, 0, 0.8);
+}
+
+.success_text .bold {
+    color: #ff4dd2;
+    font-weight: bold;
+    text-shadow: 0 0 10px rgba(255, 77, 210, 0.8);
+}
+
+.winner_image {
+    width: 250px;
+    height: 250px;
+    border-radius: 12px;
+    object-fit: cover;
+    border: 2px solid #e137b0;
+    margin-bottom: 20px;
+}
+
+
+@media screen and (max-width: 768px) {
+    .success_title {
+        font-size: 2.5rem;
+    }
+
+    .success_text {
+        font-size: 1.25rem;
+    }
+
+    .success_card {
+        padding: 2rem;
+        max-width: 90%;
+        min-height: 500px;
+    }
+
+    .winner_image {
+        width: 200px;
+        height: 200px;
+    }
+}

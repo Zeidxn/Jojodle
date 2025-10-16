@@ -1,12 +1,12 @@
 body {
   user-select: none;
   overflow-x: hidden;
-  cursor: url('/public/assets/jjba/assets/cursor/cursor.png'), auto;
+  /* cursor: url('/public/assets/jjba/assets/cursor/cursor.png'), auto; */
 }
 
-a:hover, button:hover {
+/* a:hover, button:hover {
   cursor: url('/public/assets/jjba/assets/cursor/cursor_hover.png'), auto;
-}
+} */
 
 .m_x_0 {
   margin-left: 0;
@@ -15,6 +15,21 @@ a:hover, button:hover {
 .m_y_0 {
   margin-top: 0;
   margin-bottom: 0;
+}
+
+.m_y_1 {
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
+}
+
+.m_y_2 {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.m_y_3 {
+  margin-top: 0.75rem;
+  margin-bottom: 0.75rem;
 }
 
 .m_x_auto {
@@ -35,6 +50,7 @@ a:hover, button:hover {
 .m_6 { margin: 1.5rem; }
 .m_7 { margin: 1.75rem; }
 .m_8 { margin: 2rem; }
+
 
 .gap_1 { gap: 0.25rem; }
 .gap_2 { gap: 0.5rem; }
@@ -388,3 +404,13 @@ a:hover, button:hover {
 }
 
 
+
+
+@media screen and (max-width: 768px) {
+  .button {
+    font-size: 1.2em;
+    padding: 0.75em 2em;
+    min-width: 250px;
+  }
+  
+}
