@@ -9,14 +9,15 @@
     border-radius: 12px;
     padding: 10px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+    align-items: center;
+    justify-content: center;
 }
 
 .character_img {
-    height: 95px;
-    width: 95px;
+    height: 100px;
+    width: 100px;
     border-radius: 8px;
     object-fit: cover;
-    flex-shrink: 0;
     border: 1px solid #e137b0;
 }
 
@@ -29,9 +30,12 @@
 
 .character_info {
     display: flex;
-    flex-wrap: wrap; /* retour à la ligne si besoin */
-    gap: 8px;
+    flex-wrap: wrap;
+    gap: 10px;
     font-size: 14px;
+    align-items: center;
+    justify-content: flex-start;
+    align-content: center;
 }
 .game_clues {
     display: flex;
@@ -72,9 +76,6 @@
 }
 .character_info_item strong {
     display: none;
-}
-.character_info {
-    gap: 10px;
 }
 
 .character-attributes-container {

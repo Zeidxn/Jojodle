@@ -1,47 +1,15 @@
 :root {
-  /* Couleurs principales */
-  --primary-pink: #e137b0;
-  --primary-pink-dark: #710852;
-  --primary-pink-hover: rgba(225, 55, 176, 0.6);
-  
-  /* Couleurs de fond */
-  --bg-overlay: rgba(0, 0, 0, 0.6);
-  --bg-overlay-dark: rgba(0, 0, 0, 0.9);
-  --bg-card: rgba(0, 0, 0, 0.6);
-  
-  /* Couleurs de texte */
-  --text-primary: #fff;
-  --text-secondary: rgba(255, 255, 255, 0.87);
-  --text-shadow: 0 0 5px black;
-  
-  /* Couleurs de bordure */
-  --border-primary: #e137b0;
-  --border-hover: #710852;
-  
-  /* Couleurs de statut */
-  --success-bg: #4caf50;
-  --success-border: #388e3c;
-  --error-bg: #f44336;
-  --error-border: #d32f2f;
-  
-  /* Ombres */
-  --shadow-card: 0 4px 12px rgba(0, 0, 0, 0.5);
-  --shadow-glow: 0 0 8px rgba(113, 8, 82, 0.6);
-  
-  /* Bordures arrondies */
-  --radius-sm: 8px;
-  --radius-md: 12px;
-
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   color-scheme: light dark;
-  color: var(--text-secondary);
-  background-image: url("/public/assets/jjba/bg.jpg");
+  color: rgba(255, 255, 255, 0.87);
+  background-image: url("/public/assets/jjba/assets/bg.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
   background-repeat: no-repeat;
-  background-color: var(--bg-overlay);
+  background-color: rgba(0, 0, 0, 0.6);
   background-blend-mode: darken;
+
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;

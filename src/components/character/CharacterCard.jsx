@@ -22,7 +22,7 @@ export default function CharacterCard({ character, randomChar }) {
             )}
 
             <div className="character_info">
-                <span className={`character_info_item text_center ${getClass("status")}`}>
+                <span className={`character_info_item ${getClass("status")}`}>
                     {formatValue(character.status)}
                 </span>
                 <span className={`character_info_item ${getClass("stand")}`}>

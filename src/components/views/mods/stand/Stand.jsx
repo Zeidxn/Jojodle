@@ -1,11 +1,10 @@
 import { useState, useEffect } from "react";
 import CharacterCard from "../../../character/CharacterCard.jsx";
 import CharacterAutocomplete from "../../../character/CharacterAutocomplete.jsx";
-import './classic.css';
 import { Link } from "react-router-dom";
 import GameClues from "../../../game-clues/GameClues.jsx";
 
-export default function Classic({ characters = [] }) {
+export default function Stand({ characters = [] }) {
     const [selectedChars, setSelectedChars] = useState([]);
     const [availableChars, setAvailableChars] = useState(characters); // Nouvel état pour les personnages disponibles
     const [winner, setWinner] = useState(null);
@@ -56,7 +55,7 @@ export default function Classic({ characters = [] }) {
                 {randomChar && (
                     <GameClues
                         randomChar={randomChar}
-                        title={ "Guess today's Jojo's Bizarre Adventure's character!" }
+                        title={ "Guess today's Jojo's Bizarre Adventure's stand!" }
                     />
                 )}
 
@@ -66,12 +65,12 @@ export default function Classic({ characters = [] }) {
                 />
 
                 {selectedChars.length > 0 && (
-                    <p>{selectedChars.length} personnage(s) sélectionné(s) !</p>
+                    <p>{selectedChars.length} stand(s) sélectionné(s) !</p>
                 )}
 
                 {winner && (
                     <p className="text-green-400 font-bold mt-4">
-                        🎉 Bravo ! Vous avez trouvé le personnage aléatoire : {winner.name} !
+                        🎉 Bravo ! Vous avez trouvé le stand aléatoire : {winner.name} !
                     </p>
                 )}
 

@@ -24,7 +24,7 @@ function FloatingText({ src, left, size, duration = 10, onEnd }) {
 }
 
 export default function TextCascade({
-                                        src = "/assets/jjba/menacing_text.png",
+                                        src = "/assets/jjba/assets/menacing_text.png",
                                         interval = 1000,
                                         maxImages = 15,
                                     }) {
