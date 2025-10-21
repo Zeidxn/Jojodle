@@ -11,6 +11,7 @@ export default function Classic({ characters = [] }) {
     const [availableChars, setAvailableChars] = useState(characters); // Nouvel état pour les personnages disponibles
     const [winner, setWinner] = useState(null);
     const [randomChar, setRandomChar] = useState(null);
+    const [attempts, setAttempts] = useState(0);
 
     // Synchronise la liste des personnages disponibles au premier chargement
     useEffect(() => {
@@ -29,10 +30,8 @@ export default function Classic({ characters = [] }) {
         if (!char) return;
 
         if (!selectedChars.some((c) => c.id === char.id)) {
-            // 1. Ajoutez le personnage à la liste des sélectionnés
             setSelectedChars([...selectedChars, char]);
-
-            // 2. Supprimez le personnage de la liste des disponibles
+            setAttempts(prev => prev + 1);
             setAvailableChars(availableChars.filter(c => c.id !== char.id));
         }
 
@@ -49,6 +48,7 @@ export default function Classic({ characters = [] }) {
         setSelectedChars([]);
         setAvailableChars(characters);
         setRandomChar(null);
+        setAttempts(0);
     };
 
     return (
@@ -65,6 +65,7 @@ export default function Classic({ characters = [] }) {
                 {randomChar && (
                     <GameClues
                         randomChar={randomChar}
+                        attempts={attempts}
                         title={ "Guess today's Jojo's Bizarre Adventure's character!" }
                     />
                 )}
@@ -78,14 +79,17 @@ export default function Classic({ characters = [] }) {
                     <p>{selectedChars.length} personnage(s) sélectionné(s) !</p>
                 )}
 
+                
+
                 {winner && (
                     <Success winner={winner} onReset={handleReset} />
                 )}
 
                 <div className="character-cards-container w_75 flex flex_col flex_wrap justify_center gap_2 m-4">
-                    <div className="flex flex_col justify_center gap-2">
-                        <div className="character-attributes-container w_75 flex flex_rowjustify_center gap_2 m_y_3">
+                    <div className="flex flex_col justify_centerx gap-2">
+                        <div className="character-attributes-container w_75 flex flex_row justify_center m_y_3">
                             <span className="character-attribute status">Status</span>
+                            <span className="character-attribute alignment">Alignment</span>
                             <span className="character-attribute stand">Stand</span>
                             <span className="character-attribute standType">Stand Type</span>
                             <span className="character-attribute age">Age</span>

@@ -77,7 +77,7 @@ export default function CharacterAutocomplete({ characters, onSelect }) {
                 },
             }}
             sx={{
-                width: 300,
+                width: 450,
                 marginBottom: "1rem",
                 "& .MuiOutlinedInput-root": {
                     borderRadius: "12px",

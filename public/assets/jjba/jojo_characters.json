@@ -3,1074 +3,1296 @@
     "name": "Jonathan Joestar",
     "stand": null,
     "hamon": true,
-    "part": "Phantom Blood"
+    "part": "Phantom Blood",
+    "alignment": "Protagonist"
   },
   {
     "name": "Dio Brando",
     "stand": "The World",
     "hamon": false,
-    "part": "Phantom Blood"
+    "part": "Phantom Blood",
+    "alignment": "Antagonist"
   },
   {
     "name": "Will Anthonio Zeppeli",
     "stand": null,
     "hamon": true,
-    "part": "Phantom Blood"
+    "part": "Phantom Blood",
+    "alignment": "Protagonist"
   },
   {
     "name": "Dire",
     "stand": null,
     "hamon": true,
-    "part": "Phantom Blood"
+    "part": "Phantom Blood",
+    "alignment": "Protagonist"
   },
   {
     "name": "Jack the Ripper",
     "stand": null,
     "hamon": false,
-    "part": "Phantom Blood"
+    "part": "Phantom Blood",
+    "alignment": "Antagonist"
   },
   {
     "name": "Tarkus",
     "stand": null,
     "hamon": false,
-    "part": "Phantom Blood"
+    "part": "Phantom Blood",
+    "alignment": "Antagonist"
   },
   {
     "name": "Bruford",
     "stand": null,
     "hamon": false,
-    "part": "Phantom Blood"
+    "part": "Phantom Blood",
+    "alignment": "Antagonist"
   },
   {
     "name": "Tonpetty",
     "stand": null,
     "hamon": true,
-    "part": "Phantom Blood"
+    "part": "Phantom Blood",
+    "alignment": "Protagonist"
   },
   {
     "name": "Straizo",
     "stand": null,
     "hamon": true,
-    "part": "Phantom Blood"
+    "part": "Phantom Blood",
+    "alignment": "Neutral"
   },
   {
     "name": "Robert E. O. Speedwagon",
     "stand": null,
     "hamon": false,
-    "part": "Phantom Blood"
+    "part": "Phantom Blood",
+    "alignment": "Protagonist"
   },
   {
     "name": "Wang Chan",
     "stand": null,
     "hamon": false,
-    "part": "Phantom Blood"
+    "part": "Phantom Blood",
+    "alignment": "Antagonist"
   },
   {
     "name": "Dario Brando",
     "stand": null,
     "hamon": false,
-    "part": "Phantom Blood"
+    "part": "Phantom Blood",
+    "alignment": "Neutral"
   },
   {
     "name": "Erina Pendleton",
     "stand": null,
     "hamon": false,
-    "part": "Phantom Blood"
+    "part": "Phantom Blood",
+    "alignment": "Protagonist"
   },
   {
     "name": "Danny",
     "stand": null,
     "hamon": false,
-    "part": "Phantom Blood"
+    "part": "Phantom Blood",
+    "alignment": "Neutral"
   },
   {
     "name": "Joseph Joestar",
     "stand": "Hermit Purple",
     "hamon": true,
-    "part": "Battle Tendency"
+    "part": "Battle Tendency",
+    "alignment": "Protagonist"
   },
   {
     "name": "Caesar Anthonio Zeppeli",
     "stand": null,
     "hamon": true,
-    "part": "Battle Tendency"
+    "part": "Battle Tendency",
+    "alignment": "Protagonist"
   },
   {
     "name": "Lisa Lisa",
     "stand": null,
     "hamon": true,
-    "part": "Battle Tendency"
+    "part": "Battle Tendency",
+    "alignment": "Protagonist"
   },
   {
     "name": "Rudol von Stroheim",
     "stand": null,
     "hamon": false,
-    "part": "Battle Tendency"
+    "part": "Battle Tendency",
+    "alignment": "Protagonist"
   },
   {
     "name": "Santana",
     "stand": null,
     "hamon": false,
-    "part": "Battle Tendency"
+    "part": "Battle Tendency",
+    "alignment": "Antagonist"
   },
   {
     "name": "Wamuu",
     "stand": null,
     "hamon": false,
-    "part": "Battle Tendency"
+    "part": "Battle Tendency",
+    "alignment": "Antagonist"
   },
   {
     "name": "Esidisi",
     "stand": null,
     "hamon": false,
-    "part": "Battle Tendency"
+    "part": "Battle Tendency",
+    "alignment": "Antagonist"
   },
   {
     "name": "Kars",
     "stand": null,
     "hamon": false,
-    "part": "Battle Tendency"
+    "part": "Battle Tendency",
+    "alignment": "Antagonist"
   },
   {
     "name": "Smokey Brown",
     "stand": null,
     "hamon": false,
-    "part": "Battle Tendency"
+    "part": "Battle Tendency",
+    "alignment": "Protagonist"
   },
   {
     "name": "Messina",
     "stand": null,
     "hamon": true,
-    "part": "Battle Tendency"
+    "part": "Battle Tendency",
+    "alignment": "Protagonist"
   },
   {
     "name": "Loggins",
     "stand": null,
     "hamon": true,
-    "part": "Battle Tendency"
+    "part": "Battle Tendency",
+    "alignment": "Protagonist"
   },
   {
     "name": "Suzi Q",
     "stand": null,
     "hamon": false,
-    "part": "Battle Tendency"
+    "part": "Battle Tendency",
+    "alignment": "Protagonist"
   },
   {
     "name": "Jotaro Kujo",
     "stand": "Star Platinum",
     "hamon": false,
-    "part": "Stardust Crusaders"
+    "part": "Stardust Crusaders",
+    "alignment": "Protagonist"
   },
   {
     "name": "Muhammad Avdol",
     "stand": "Magician's Red",
     "hamon": false,
-    "part": "Stardust Crusaders"
+    "part": "Stardust Crusaders",
+    "alignment": "Protagonist"
   },
   {
     "name": "Noriaki Kakyoin",
     "stand": "Hierophant Green",
     "hamon": false,
-    "part": "Stardust Crusaders"
+    "part": "Stardust Crusaders",
+    "alignment": "Protagonist"
   },
   {
     "name": "Jean Pierre Polnareff",
     "stand": "Silver Chariot",
     "hamon": false,
-    "part": "Stardust Crusaders"
+    "part": "Stardust Crusaders",
+    "alignment": "Protagonist"
   },
   {
     "name": "Iggy",
     "stand": "The Fool",
     "hamon": false,
-    "part": "Stardust Crusaders"
+    "part": "Stardust Crusaders",
+    "alignment": "Neutral"
   },
   {
     "name": "Gray Fly",
     "stand": "Tower of Gray",
     "hamon": false,
-    "part": "Stardust Crusaders"
+    "part": "Stardust Crusaders",
+    "alignment": "Antagonist"
   },
   {
     "name": "Imposter Captain Tennille",
     "stand": "Dark Blue Moon",
     "hamon": false,
-    "part": "Stardust Crusaders"
+    "part": "Stardust Crusaders",
+    "alignment": "Antagonist"
   },
   {
     "name": "Forever",
     "stand": "Strength",
     "hamon": false,
-    "part": "Stardust Crusaders"
+    "part": "Stardust Crusaders",
+    "alignment": "Antagonist"
   },
   {
     "name": "Devo the Cursed",
     "stand": "Ebony Devil",
     "hamon": false,
-    "part": "Stardust Crusaders"
+    "part": "Stardust Crusaders",
+    "alignment": "Antagonist"
   },
   {
     "name": "Rubber Soul",
     "stand": "Yellow Temperance",
     "hamon": false,
-    "part": "Stardust Crusaders"
+    "part": "Stardust Crusaders",
+    "alignment": "Antagonist"
   },
   {
     "name": "J. Geil",
     "stand": "Hanged Man",
     "hamon": false,
-    "part": "Stardust Crusaders"
+    "part": "Stardust Crusaders",
+    "alignment": "Antagonist"
   },
   {
     "name": "Hol Horse",
     "stand": "Emperor",
     "hamon": false,
-    "part": "Stardust Crusaders"
+    "part": "Stardust Crusaders",
+    "alignment": "Antagonist"
   },
   {
     "name": "Nena",
     "stand": "Empress",
     "hamon": false,
-    "part": "Stardust Crusaders"
+    "part": "Stardust Crusaders",
+    "alignment": "Antagonist"
   },
   {
     "name": "ZZ",
     "stand": "Wheel of Fortune",
     "hamon": false,
-    "part": "Stardust Crusaders"
+    "part": "Stardust Crusaders",
+    "alignment": "Antagonist"
   },
   {
     "name": "Enya the Hag",
     "stand": "Justice",
     "hamon": false,
-    "part": "Stardust Crusaders"
+    "part": "Stardust Crusaders",
+    "alignment": "Antagonist"
   },
   {
     "name": "Steely Dan",
     "stand": "Lovers",
     "hamon": false,
-    "part": "Stardust Crusaders"
+    "part": "Stardust Crusaders",
+    "alignment": "Antagonist"
   },
   {
     "name": "Arabia Fats",
     "stand": "Sun",
     "hamon": false,
-    "part": "Stardust Crusaders"
+    "part": "Stardust Crusaders",
+    "alignment": "Antagonist"
   },
   {
     "name": "Mannish Boy",
     "stand": "Death Thirteen",
     "hamon": false,
-    "part": "Stardust Crusaders"
+    "part": "Stardust Crusaders",
+    "alignment": "Antagonist"
   },
   {
     "name": "Cameo",
     "stand": "Judgement",
     "hamon": false,
-    "part": "Stardust Crusaders"
+    "part": "Stardust Crusaders",
+    "alignment": "Antagonist"
   },
   {
     "name": "Midler",
     "stand": "High Priestess",
     "hamon": false,
-    "part": "Stardust Crusaders"
+    "part": "Stardust Crusaders",
+    "alignment": "Antagonist"
   },
   {
     "name": "N'Doul",
     "stand": "Geb",
     "hamon": false,
-    "part": "Stardust Crusaders"
+    "part": "Stardust Crusaders",
+    "alignment": "Antagonist"
   },
   {
     "name": "Boingo",
     "stand": null,
     "hamon": false,
-    "part": "Stardust Crusaders"
+    "part": "Stardust Crusaders",
+    "alignment": "Antagonist"
   },
   {
     "name": "Anubis",
     "stand": "Userless Stand",
     "hamon": false,
-    "part": "Stardust Crusaders"
+    "part": "Stardust Crusaders",
+    "alignment": "Antagonist"
   },
   {
     "name": "Mariah",
     "stand": "Bastet",
     "hamon": false,
-    "part": "Stardust Crusaders"
+    "part": "Stardust Crusaders",
+    "alignment": "Antagonist"
   },
   {
     "name": "Alessi",
     "stand": "Sethan",
     "hamon": false,
-    "part": "Stardust Crusaders"
+    "part": "Stardust Crusaders",
+    "alignment": "Antagonist"
   },
   {
     "name": "Daniel J. D'Arby",
     "stand": "Osiris",
     "hamon": false,
-    "part": "Stardust Crusaders"
+    "part": "Stardust Crusaders",
+    "alignment": "Antagonist"
   },
   {
     "name": "Pet Shop",
     "stand": "Horus",
     "hamon": false,
-    "part": "Stardust Crusaders"
+    "part": "Stardust Crusaders",
+    "alignment": "Antagonist"
   },
   {
     "name": "Telence T. D'Arby",
     "stand": "Atum",
     "hamon": false,
-    "part": "Stardust Crusaders"
+    "part": "Stardust Crusaders",
+    "alignment": "Antagonist"
   },
   {
     "name": "Vanilla Ice",
     "stand": "Cream",
     "hamon": false,
-    "part": "Stardust Crusaders"
+    "part": "Stardust Crusaders",
+    "alignment": "Antagonist"
   },
   {
     "name": "Holy Kujo",
     "stand": "Holy's Stand",
     "hamon": false,
-    "part": "Stardust Crusaders"
+    "part": "Stardust Crusaders",
+    "alignment": "Protagonist"
   },
   {
     "name": "Josuke Higashikata",
     "stand": "Crazy Diamond",
     "hamon": false,
-    "part": "Diamond is Unbreakable"
+    "part": "Diamond is Unbreakable",
+    "alignment": "Protagonist"
   },
   {
     "name": "Koichi Hirose",
     "stand": "Echoes",
     "hamon": false,
-    "part": "Diamond is Unbreakable"
+    "part": "Diamond is Unbreakable",
+    "alignment": "Protagonist"
   },
   {
     "name": "Okuyasu Nijimura",
     "stand": "The Hand",
     "hamon": false,
-    "part": "Diamond is Unbreakable"
+    "part": "Diamond is Unbreakable",
+    "alignment": "Protagonist"
   },
   {
     "name": "Rohan Kishibe",
     "stand": "Heaven's Door",
     "hamon": false,
-    "part": "Diamond is Unbreakable"
+    "part": "Diamond is Unbreakable",
+    "alignment": "Neutral"
   },
   {
     "name": "Yoshikage Kira",
     "stand": "Killer Queen",
     "hamon": false,
-    "part": "Diamond is Unbreakable"
+    "part": "Diamond is Unbreakable",
+    "alignment": "Antagonist"
   },
   {
     "name": "Anjuro Katagiri",
     "stand": "Aqua Necklace",
     "hamon": false,
-    "part": "Diamond is Unbreakable"
+    "part": "Diamond is Unbreakable",
+    "alignment": "Antagonist"
   },
   {
     "name": "Keicho Nijimura",
     "stand": "Bad Company",
     "hamon": false,
-    "part": "Diamond is Unbreakable"
+    "part": "Diamond is Unbreakable",
+    "alignment": "Antagonist"
   },
   {
     "name": "Tamami Kobayashi",
     "stand": "The Lock",
     "hamon": false,
-    "part": "Diamond is Unbreakable"
+    "part": "Diamond is Unbreakable",
+    "alignment": "Neutral"
   },
   {
     "name": "Toshikazu Hazamada",
     "stand": "Surface",
     "hamon": false,
-    "part": "Diamond is Unbreakable"
+    "part": "Diamond is Unbreakable",
+    "alignment": "Neutral"
   },
   {
     "name": "Yukako Yamagishi",
     "stand": "Love Deluxe",
     "hamon": false,
-    "part": "Diamond is Unbreakable"
+    "part": "Diamond is Unbreakable",
+    "alignment": "Neutral"
   },
   {
     "name": "Akira Otoishi",
     "stand": "Red Hot Chili Pepper",
     "hamon": false,
-    "part": "Diamond is Unbreakable"
+    "part": "Diamond is Unbreakable",
+    "alignment": "Antagonist"
   },
   {
     "name": "Bug-Eaten",
     "stand": "Ratt",
     "hamon": false,
-    "part": "Diamond is Unbreakable"
+    "part": "Diamond is Unbreakable",
+    "alignment": "Antagonist"
   },
   {
     "name": "Shigekiyo Yangu",
     "stand": "Harvest",
     "hamon": false,
-    "part": "Diamond is Unbreakable"
+    "part": "Diamond is Unbreakable",
+    "alignment": "Protagonist"
   },
   {
     "name": "Yoshihiro Kira",
     "stand": "Atom Heart Father",
     "hamon": false,
-    "part": "Diamond is Unbreakable"
+    "part": "Diamond is Unbreakable",
+    "alignment": "Antagonist"
   },
   {
     "name": "Ken Oyanagi",
     "stand": "Boy II Man",
     "hamon": false,
-    "part": "Diamond is Unbreakable"
+    "part": "Diamond is Unbreakable",
+    "alignment": "Antagonist"
   },
   {
     "name": "Yuya Fungami",
     "stand": "Highway Star",
     "hamon": false,
-    "part": "Diamond is Unbreakable"
+    "part": "Diamond is Unbreakable",
+    "alignment": "Antagonist"
   },
   {
     "name": "Toyohiro Kanedaichi",
     "stand": "Super Fly",
     "hamon": false,
-    "part": "Diamond is Unbreakable"
+    "part": "Diamond is Unbreakable",
+    "alignment": "Antagonist"
   },
   {
     "name": "Terunosuke Miyamoto",
     "stand": "Enigma",
     "hamon": false,
-    "part": "Diamond is Unbreakable"
+    "part": "Diamond is Unbreakable",
+    "alignment": "Antagonist"
   },
   {
     "name": "Masazo Kinoto",
     "stand": "Cheap Trick",
     "hamon": false,
-    "part": "Diamond is Unbreakable"
+    "part": "Diamond is Unbreakable",
+    "alignment": "Antagonist"
   },
   {
     "name": "Tomoko Higashikata",
     "stand": null,
     "hamon": false,
-    "part": "Diamond is Unbreakable"
+    "part": "Diamond is Unbreakable",
+    "alignment": "Protagonist"
   },
   {
     "name": "Ryohei Higashikata",
     "stand": null,
     "hamon": false,
-    "part": "Diamond is Unbreakable"
+    "part": "Diamond is Unbreakable",
+    "alignment": "Antagonist"
   },
   {
     "name": "Tonio Trussardi",
     "stand": "Pearl Jam",
     "hamon": false,
-    "part": "Diamond is Unbreakable"
+    "part": "Diamond is Unbreakable",
+    "alignment": "Neutral"
   },
   {
     "name": "Shizuka Joestar",
     "stand": "Achtung Baby",
     "hamon": false,
-    "part": "Diamond is Unbreakable"
+    "part": "Diamond is Unbreakable",
+    "alignment": "Protagonist"
   },
   {
     "name": "Aya Tsuji",
     "stand": "Cinderella",
     "hamon": false,
-    "part": "Diamond is Unbreakable"
+    "part": "Diamond is Unbreakable",
+    "alignment": "Antagonist"
   },
   {
     "name": "Mikitaka Hazekura",
     "stand": "Earth Wind & Fire",
     "hamon": false,
-    "part": "Diamond is Unbreakable"
+    "part": "Diamond is Unbreakable",
+    "alignment": "Protagonist"
   },
   {
     "name": "Giorno Giovanna",
     "stand": "Gold Experience",
     "hamon": false,
-    "part": "Vento Aureo"
+    "part": "Vento Aureo",
+    "alignment": "Protagonist"
   },
   {
     "name": "Bruno Bucciarati",
     "stand": "Sticky Fingers",
     "hamon": false,
-    "part": "Vento Aureo"
+    "part": "Vento Aureo",
+    "alignment": "Protagonist"
   },
   {
     "name": "Leone Abbacchio",
     "stand": "Moody Blues",
     "hamon": false,
-    "part": "Vento Aureo"
+    "part": "Vento Aureo",
+    "alignment": "Protagonist"
   },
   {
     "name": "Guido Mista",
     "stand": "Sex Pistols",
     "hamon": false,
-    "part": "Vento Aureo"
+    "part": "Vento Aureo",
+    "alignment": "Protagonist"
   },
   {
     "name": "Narancia Ghirga",
     "stand": "Aerosmith",
     "hamon": false,
-    "part": "Vento Aureo"
+    "part": "Vento Aureo",
+    "alignment": "Protagonist"
   },
   {
     "name": "Pannacotta Fugo",
     "stand": "Purple Haze",
     "hamon": false,
-    "part": "Vento Aureo"
+    "part": "Vento Aureo",
+    "alignment": "Protagonist"
   },
   {
     "name": "Trish Una",
     "stand": "Spice Girl",
     "hamon": false,
-    "part": "Vento Aureo"
+    "part": "Vento Aureo",
+    "alignment": "Protagonist"
   },
   {
     "name": "Coco Jumbo",
     "stand": "Mr.President",
     "hamon": false,
-    "part": "Vento Aureo"
+    "part": "Vento Aureo",
+    "alignment": "Protagonist"
   },
   {
     "name": "Diavolo",
     "stand": "King Crimson",
     "hamon": false,
-    "part": "Vento Aureo"
+    "part": "Vento Aureo",
+    "alignment": "Antagonist"
   },
   {
     "name": "Vinegar Doppio",
     "stand": "King Crimson",
     "hamon": false,
-    "part": "Vento Aureo"
+    "part": "Vento Aureo",
+    "alignment": "Antagonist"
   },
   {
     "name": "Polpo",
     "stand": "Black Sabbath",
     "hamon": false,
-    "part": "Vento Aureo"
+    "part": "Vento Aureo",
+    "alignment": "Antagonist"
   },
   {
     "name": "Mario Zucchero",
     "stand": "Soft Machine",
     "hamon": false,
-    "part": "Vento Aureo"
+    "part": "Vento Aureo",
+    "alignment": "Antagonist"
   },
   {
     "name": "Sale",
     "stand": "Kraft Work",
     "hamon": false,
-    "part": "Vento Aureo"
+    "part": "Vento Aureo",
+    "alignment": "Antagonist"
   },
   {
     "name": "Risotto Nero",
     "stand": "Metallica",
     "hamon": false,
-    "part": "Vento Aureo"
+    "part": "Vento Aureo",
+    "alignment": "Antagonist"
   },
   {
     "name": "Formaggio",
     "stand": "Little Feet",
     "hamon": false,
-    "part": "Vento Aureo"
+    "part": "Vento Aureo",
+    "alignment": "Antagonist"
   },
   {
     "name": "Illuso",
     "stand": "Man in the Mirror",
     "hamon": false,
-    "part": "Vento Aureo"
+    "part": "Vento Aureo",
+    "alignment": "Antagonist"
   },
   {
     "name": "Prosciutto",
     "stand": "The Grateful Dead",
     "hamon": false,
-    "part": "Vento Aureo"
+    "part": "Vento Aureo",
+    "alignment": "Antagonist"
   },
   {
     "name": "Pesci",
     "stand": "Beach Boy",
     "hamon": false,
-    "part": "Vento Aureo"
+    "part": "Vento Aureo",
+    "alignment": "Antagonist"
   },
   {
     "name": "Melone",
     "stand": "Baby Face",
     "hamon": false,
-    "part": "Vento Aureo"
+    "part": "Vento Aureo",
+    "alignment": "Antagonist"
   },
   {
     "name": "Ghiaccio",
     "stand": "White Album",
     "hamon": false,
-    "part": "Vento Aureo"
+    "part": "Vento Aureo",
+    "alignment": "Antagonist"
   },
   {
     "name": "Squalo",
     "stand": "Aerosmith",
     "hamon": false,
-    "part": "Vento Aureo"
+    "part": "Vento Aureo",
+    "alignment": "Antagonist"
   },
   {
     "name": "Carne",
     "stand": "Notorious B.I.G.",
     "hamon": false,
-    "part": "Vento Aureo"
+    "part": "Vento Aureo",
+    "alignment": "Antagonist"
   },
   {
     "name": "Cioccolata",
     "stand": "Green Day",
     "hamon": false,
-    "part": "Vento Aureo"
+    "part": "Vento Aureo",
+    "alignment": "Antagonist"
   },
   {
     "name": "Secco",
     "stand": "Oasis",
     "hamon": false,
-    "part": "Vento Aureo"
+    "part": "Vento Aureo",
+    "alignment": "Antagonist"
+  },
+  {
+    "name": "Scolippi",
+    "stand": "Rolling Stones",
+    "hamon": false,
+    "part": "Vento Aureo",
+    "alignment": "Neutral"
   },
   {
     "name": "Jolyne Cujoh",
     "stand": "Stone Free",
     "hamon": false,
-    "part": "Stone Ocean"
+    "part": "Stone Ocean",
+    "alignment": "Protagonist"
   },
   {
     "name": "Ermes Costello",
     "stand": "Kiss",
     "hamon": false,
-    "part": "Stone Ocean"
+    "part": "Stone Ocean",
+    "alignment": "Protagonist"
   },
   {
     "name": "Emporio Alnino",
     "stand": "Burning Down the House",
     "hamon": false,
-    "part": "Stone Ocean"
+    "part": "Stone Ocean",
+    "alignment": "Protagonist"
   },
   {
     "name": "Foo Fighters",
     "stand": "Foo Fighters",
     "hamon": false,
-    "part": "Stone Ocean"
+    "part": "Stone Ocean",
+    "alignment": "Protagonist"
   },
   {
     "name": "Weather Report",
     "stand": "Weather Report",
     "hamon": false,
-    "part": "Stone Ocean"
+    "part": "Stone Ocean",
+    "alignment": "Protagonist"
   },
   {
     "name": "Narciso Anasui",
     "stand": "Diver Down",
     "hamon": false,
-    "part": "Stone Ocean"
+    "part": "Stone Ocean",
+    "alignment": "Protagonist"
   },
   {
     "name": "Enrico Pucci",
     "stand": "Made in Heaven",
     "hamon": false,
-    "part": "Stone Ocean"
+    "part": "Stone Ocean",
+    "alignment": "Antagonist"
   },
   {
     "name": "Gwess",
     "stand": "Goo Goo Dolls",
     "hamon": false,
-    "part": "Stone Ocean"
+    "part": "Stone Ocean",
+    "alignment": "Neutral"
   },
   {
     "name": "Johngalli A.",
     "stand": "Manhattan Transfer",
     "hamon": false,
-    "part": "Stone Ocean"
+    "part": "Stone Ocean",
+    "alignment": "Protagonist"
   },
   {
     "name": "Thunder McQueen",
     "stand": "Highway to Hell",
     "hamon": false,
-    "part": "Stone Ocean"
+    "part": "Stone Ocean",
+    "alignment": "Antagonist"
   },
   {
     "name": "Miraschon",
     "stand": "Marilyn Manson",
     "hamon": false,
-    "part": "Stone Ocean"
+    "part": "Stone Ocean",
+    "alignment": "Antagonist"
   },
   {
     "name": "Lang Rangler",
     "stand": "Jumpin' Jack Flash",
     "hamon": false,
-    "part": "Stone Ocean"
+    "part": "Stone Ocean",
+    "alignment": "Antagonist"
   },
   {
     "name": "Sports Maxx",
     "stand": "Limp Bizkit",
     "hamon": false,
-    "part": "Stone Ocean"
+    "part": "Stone Ocean",
+    "alignment": "Antagonist"
   },
   {
     "name": "Viviano Westwood",
     "stand": "Planet Waves",
     "hamon": false,
-    "part": "Stone Ocean"
+    "part": "Stone Ocean",
+    "alignment": "Antagonist"
   },
   {
     "name": "Kenzou",
     "stand": "Dragon's Dream",
     "hamon": false,
-    "part": "Stone Ocean"
+    "part": "Stone Ocean",
+    "alignment": "Antagonist"
   },
   {
     "name": "D an G",
     "stand": "Yo-Yo Ma",
     "hamon": false,
-    "part": "Stone Ocean"
+    "part": "Stone Ocean",
+    "alignment": "Antagonist"
   },
   {
     "name": "Guccio",
     "stand": "Survivor",
     "hamon": false,
-    "part": "Stone Ocean"
+    "part": "Stone Ocean",
+    "alignment": "Antagonist"
   },
   {
     "name": "The Green Baby",
     "stand": "Green, Green Grass of Home",
     "hamon": false,
-    "part": "Stone Ocean"
+    "part": "Stone Ocean",
+    "alignment": "Antagonist"
   },
   {
     "name": "Miuccia Miuller",
     "stand": "Jail House Lock",
     "hamon": false,
-    "part": "Stone Ocean"
+    "part": "Stone Ocean",
+    "alignment": "Antagonist"
   },
   {
     "name": "Ungalo",
     "stand": "Bohemian Rhapsody",
     "hamon": false,
-    "part": "Stone Ocean"
+    "part": "Stone Ocean",
+    "alignment": "Antagonist"
   },
   {
     "name": "Rikiel",
     "stand": "Sky High",
     "hamon": false,
-    "part": "Stone Ocean"
+    "part": "Stone Ocean",
+    "alignment": "Antagonist"
   },
   {
     "name": "Donatello Versus",
     "stand": "Under World",
     "hamon": false,
-    "part": "Stone Ocean"
+    "part": "Stone Ocean",
+    "alignment": "Antagonist"
   },
   {
     "name": "Johnny Joestar",
     "stand": "Tusk",
     "hamon": false,
-    "part": "Jojolion"
+    "part": "Steel Ball Run",
+    "alignment": "Protagonist"
   },
   {
     "name": "Gyro Zeppeli",
     "stand": "Ball Breaker",
     "hamon": false,
-    "part": "Steel Ball Run"
+    "part": "Steel Ball Run",
+    "alignment": "Protagonist"
   },
   {
     "name": "Lucy Steel",
     "stand": "Ticket to Ride",
     "hamon": false,
-    "part": "Steel Ball Run"
+    "part": "Steel Ball Run",
+    "alignment": "Protagonist"
   },
   {
     "name": "Diego Brando",
     "stand": "Scary Monsters",
     "hamon": false,
-    "part": "Steel Ball Run"
+    "part": "Steel Ball Run",
+    "alignment": "Antagonist"
+  },
+  {
+    "name": "Diego Brando (THE_WORLD)",
+    "stand": "THE WORLD",
+    "hamon": false,
+    "part": "Steel Ball Run",
+    "alignment": "Antagonist"
   },
   {
     "name": "Hot Pants",
     "stand": "Cream Starter",
     "hamon": false,
-    "part": "Steel Ball Run"
+    "part": "Steel Ball Run",
+    "alignment": "Protagonist"
   },
   {
     "name": "Funny Valentine",
     "stand": "Dirty Deeds Done Dirt Cheap",
     "hamon": false,
-    "part": "Steel Ball Run"
+    "part": "Steel Ball Run",
+    "alignment": "Antagonist"
   },
   {
     "name": "Sandman",
     "stand": "In a Silent Way",
     "hamon": false,
-    "part": "Steel Ball Run"
+    "part": "Steel Ball Run",
+    "alignment": "Antagonist"
   },
   {
     "name": "Benjamin Boomboom",
     "stand": "Tomb of the Boom 1",
     "hamon": false,
-    "part": "Steel Ball Run"
+    "part": "Steel Ball Run",
+    "alignment": "Antagonist"
   },
   {
     "name": "Andre Boomboom",
     "stand": "Tomb of the Boom 2",
     "hamon": false,
-    "part": "Steel Ball Run"
+    "part": "Steel Ball Run",
+    "alignment": "Antagonist"
   },
   {
     "name": "L.A. Boomboom",
     "stand": "Tomb of the Boom 3",
     "hamon": false,
-    "part": "Steel Ball Run"
+    "part": "Steel Ball Run",
+    "alignment": "Antagonist"
   },
   {
     "name": "Oyecomova",
     "stand": "Boku no Rhythm wo Kiitekure",
     "hamon": false,
-    "part": "Steel Ball Run"
+    "part": "Steel Ball Run",
+    "alignment": "Antagonist"
   },
   {
     "name": "Pork Pie Hat Kid",
     "stand": "Wired",
     "hamon": false,
-    "part": "Steel Ball Run"
+    "part": "Steel Ball Run",
+    "alignment": "Antagonist"
   },
   {
     "name": "Dr. Ferdinand",
     "stand": "Scary Monsters",
     "hamon": false,
-    "part": "Steel Ball Run"
+    "part": "Steel Ball Run",
+    "alignment": "Antagonist"
   },
   {
     "name": "Ringo Roadagain",
     "stand": "Mandom",
     "hamon": false,
-    "part": "Steel Ball Run"
+    "part": "Steel Ball Run",
+    "alignment": "Antagonist"
   },
   {
     "name": "Blackmore",
     "stand": "Catch the Rainbow",
     "hamon": false,
-    "part": "Steel Ball Run"
+    "part": "Steel Ball Run",
+    "alignment": "Antagonist"
   },
   {
     "name": "Eleven Men",
     "stand": "Tatoo You",
     "hamon": false,
-    "part": "Steel Ball Run"
+    "part": "Steel Ball Run",
+    "alignment": "Antagonist"
   },
   {
     "name": "Mike O.",
     "stand": "Tubular Bells",
     "hamon": false,
-    "part": "Steel Ball Run"
+    "part": "Steel Ball Run",
+    "alignment": "Antagonist"
   },
   {
     "name": "Magent Magent",
     "stand": "20th Century Boy",
     "hamon": false,
-    "part": "Steel Ball Run"
+    "part": "Steel Ball Run",
+    "alignment": "Antagonist"
   },
   {
     "name": "Axl RO",
     "stand": "Civil War",
     "hamon": false,
-    "part": "Steel Ball Run"
+    "part": "Steel Ball Run",
+    "alignment": "Antagonist"
   },
   {
     "name": "D-I-S-C-O",
     "stand": "Chocolate Disco",
     "hamon": false,
-    "part": "Steel Ball Run"
+    "part": "Steel Ball Run",
+    "alignment": "Antagonist"
   },
   {
     "name": "Mountain Tim",
     "stand": "Oh! Lonesome Me",
     "hamon": false,
-    "part": "Steel Ball Run"
+    "part": "Steel Ball Run",
+    "alignment": "Protagonist"
   },
   {
     "name": "Pocoloco",
     "stand": "Hey Ya!",
     "hamon": false,
-    "part": "Steel Ball Run"
+    "part": "Steel Ball Run",
+    "alignment": "Neutral"
+  },
+  {
+    "name": "Sugar Mountain",
+    "stand": "Sugar Mountain",
+    "hamon": false,
+    "part": "Steel Ball Run",
+    "alignment": "Neutral"
+  },
+  {
+    "name": "Jesus",
+    "stand": null,
+    "hamon": false,
+    "part": "Steel Ball Run",
+    "alignment": "Neutral"
+  },
+  {
+    "name": "Josuke Higashikata (JJL)",
+    "stand": "Soft & Wet",
+    "hamon": false,
+    "part": "Jojolion",
+    "alignment": "Protagonist"
   },
   {
     "name": "Yasuho Hirose",
     "stand": "Paisley Park",
     "hamon": false,
-    "part": "Jojolion"
+    "part": "Jojolion",
+    "alignment": "Protagonist"
+  },
+  {
+    "name": "Joshu Higashikata",
+    "stand": "Nut King Call",
+    "hamon": false,
+    "part": "Jojolion",
+    "alignment": "Antagonist"
   },
   {
     "name": "Norisuke Higashikata IV",
     "stand": "King Nothing",
     "hamon": false,
-    "part": "Jojolion"
+    "part": "Jojolion",
+    "alignment": "Protagonist"
   },
   {
     "name": "Jobin Higashikata",
     "stand": "Speed King",
     "hamon": false,
-    "part": "Jojolion"
+    "part": "Jojolion",
+    "alignment": "Antagonist"
   },
   {
     "name": "Tsurugi Higashikata",
     "stand": "Paper Moon King",
     "hamon": false,
-    "part": "Jojolion"
+    "part": "Jojolion",
+    "alignment": "Protagonist"
   },
   {
     "name": "Daiya Higashikata",
     "stand": "California King Bed",
     "hamon": false,
-    "part": "Jojolion"
+    "part": "Jojolion",
+    "alignment": "Protagonist"
   },
   {
     "name": "Hato Higashikata",
     "stand": "Walking Heart",
     "hamon": false,
-    "part": "Jojolion"
+    "part": "Jojolion",
+    "alignment": "Protagonist"
   },
   {
     "name": "Mitsuba Higashikata",
     "stand": "Awaking III Leaves",
     "hamon": false,
-    "part": "Jojolion"
+    "part": "Jojolion",
+    "alignment": "Protagonist"
   },
   {
     "name": "Kaato Higashikata",
     "stand": "Space Trucking",
     "hamon": false,
-    "part": "Jojolion"
+    "part": "Jojolion",
+    "alignment": "Neutral"
+  },
+  {
+    "name": "Yoshikage Kira (JoJolion)",
+    "stand": "Killer Queen",
+    "hamon": false,
+    "part": "Jojolion",
+    "alignment": "Protagonist"
   },
   {
     "name": "Rai Mamezuku",
     "stand": "Doggy Style",
     "hamon": false,
-    "part": "Jojolion"
+    "part": "Jojolion",
+    "alignment": "Protagonist"
   },
   {
     "name": "Toru",
     "stand": "Wonder of U",
     "hamon": false,
-    "part": "Jojolion"
+    "part": "Jojolion",
+    "alignment": "Antagonist"
   },
   {
     "name": "Ojiro Sasame",
     "stand": "Fun Fun Fun",
     "hamon": false,
-    "part": "Jojolion"
+    "part": "Jojolion",
+    "alignment": "Antagonist"
   },
   {
     "name": "Kei Nijimura",
     "stand": "Born This Way",
     "hamon": false,
-    "part": "Jojolion"
+    "part": "Jojolion",
+    "alignment": "Protagonist"
   },
   {
     "name": "Tamaki Damo",
     "stand": "Vitamin C",
     "hamon": false,
-    "part": "Jojolion"
+    "part": "Jojolion",
+    "alignment": "Antagonist"
   },
   {
     "name": "Yotsuyu Yagiyama",
     "stand": "I Am a Rock",
     "hamon": false,
-    "part": "Jojolion"
+    "part": "Jojolion",
+    "alignment": "Antagonist"
   },
   {
     "name": "Aisho Dainenjiyama",
     "stand": "Doobie Wah!",
     "hamon": false,
-    "part": "Jojolion"
+    "part": "Jojolion",
+    "alignment": "Antagonist"
   },
   {
     "name": "A. Phex Brothers",
     "stand": "Schott Key No.1 and No.2",
     "hamon": false,
-    "part": "Jojolion"
+    "part": "Jojolion",
+    "alignment": "Antagonist"
   },
   {
     "name": "Dolomite",
     "stand": "Blue Hawaii",
     "hamon": false,
-    "part": "Jojolion"
+    "part": "Jojolion",
+    "alignment": "Antagonist"
   },
   {
     "name": "Urban Guerrilla",
     "stand": "Brain Storm",
     "hamon": false,
-    "part": "Jojolion"
+    "part": "Jojolion",
+    "alignment": "Antagonist"
   },
   {
     "name": "Poor Tom",
     "stand": "Ozon Baby",
     "hamon": false,
-    "part": "Jojolion"
+    "part": "Jojolion",
+    "alignment": "Antagonist"
   },
   {
     "name": "Wu Tomoki",
     "stand": "Doctor Wu",
     "hamon": false,
-    "part": "Jojolion"
+    "part": "Jojolion",
+    "alignment": "Antagonist"
   },
   {
     "name": "Holy Joestar-Kira",
-    "stand": "Unamed Stand",
+    "stand": "Unnamed Stand",
     "hamon": false,
-    "part": "Jojolion"
+    "part": "Jojolion",
+    "alignment": "Protagonist"
   },
   {
     "name": "Karera Sakunami",
     "stand": "Love Love Deluxe",
     "hamon": false,
-    "part": "Jojolion"
+    "part": "Jojolion",
+    "alignment": "Protagonist"
   },
   {
     "name": "Josefumi Kujo",
     "stand": "Soft & Wet",
     "hamon": false,
-    "part": "Jojolion"
+    "part": "Jojolion",
+    "alignment": "Protagonist"
   },
   {
     "name": "Jodio Joestar",
     "stand": "November Rain",
     "hamon": false,
-    "part": "The JOJOLands"
+    "part": "The JOJOLands",
+    "alignment": "Protagonist"
   },
   {
     "name": "Dragona Joestar",
     "stand": "Smooth Operators",
     "hamon": false,
-    "part": "The JOJOLands"
+    "part": "The JOJOLands",
+    "alignment": "Protagonist"
   },
   {
     "name": "Paco Laburantes",
     "stand": "THE Hustle",
     "hamon": false,
-    "part": "The JOJOLands"
+    "part": "The JOJOLands",
+    "alignment": "Protagonist"
   },
   {
     "name": "Usagi Alohaoe",
     "stand": "THE MATTEKUDASAI",
     "hamon": false,
-    "part": "The JOJOLands"
+    "part": "The JOJOLands",
+    "alignment": "Protagonist"
   },
   {
     "name": "Charming Man",
     "stand": "Bigmouth Strikes Again",
     "hamon": false,
-    "part": "The JOJOLands"
-  },
-  {
-    "name": "Wild Cat Size",
-    "stand": "Cat_Size",
-    "hamon": false,
-    "part": "The JOJOLands"
+    "part": "The JOJOLands",
+    "alignment": "Antagonist"
   },
   {
     "name": "Barbara Ann Joestar",
     "stand": null,
     "hamon": false,
-    "part": "The JOJOLands"
+    "part": "The JOJOLands",
+    "alignment": "Protagonist"
   }
 ]
+    

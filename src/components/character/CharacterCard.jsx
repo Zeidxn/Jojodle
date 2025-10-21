@@ -10,12 +10,6 @@ export default function CharacterCard({ character, randomChar }) {
         return val1 === val2 ? "match" : "no-match";
     };
 
-    const characterLink = `https://jojo.fandom.com/wiki/${character.name.replace(" ", "_")}`;
-
-    const handleCardClick = () => {
-        window.open(characterLink, '_blank');
-    }
-
 
     return (
         <div className="character_card scale_hover place_items_center justify_center">
@@ -27,7 +21,7 @@ export default function CharacterCard({ character, randomChar }) {
                 />
             )}
 
-            <div className="character_info" onClick={handleCardClick}>
+            <div className="character_info">
                 <span className={`character_info_item ${getClass("status")}`}>
                     {formatValue(character.status)}
                 </span>

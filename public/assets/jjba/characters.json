@@ -12,6 +12,7 @@
     "hair_color": "Brown",
     "occupation": "Archaeologist",
     "part": "Phantom Blood",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Jonathan_Joestar"
   },
   {
@@ -27,6 +28,7 @@
     "hair_color": "Blond",
     "occupation": "Lawyer",
     "part": "Phantom Blood",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Dio_Brando"
   },
   {
@@ -42,6 +44,7 @@
     "hair_color": "Black",
     "occupation": "",
     "part": "Phantom Blood",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Will_Anthonio_Zeppeli"
   },
   {
@@ -57,6 +60,7 @@
     "hair_color": "White",
     "occupation": "",
     "part": "Phantom Blood",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Dire"
   },
   {
@@ -72,6 +76,7 @@
     "hair_color": "Blond",
     "occupation": "Zombie subordinate Serial killer",
     "part": "Phantom Blood",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Jack_the_Ripper"
   },
   {
@@ -87,6 +92,7 @@
     "hair_color": "Brown",
     "occupation": "Zombie subordinate Royal retainer",
     "part": "Phantom Blood",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Tarkus"
   },
   {
@@ -102,6 +108,7 @@
     "hair_color": "Black",
     "occupation": "Zombie subordinate Royal retainer",
     "part": "Phantom Blood",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Bruford"
   },
   {
@@ -117,6 +124,7 @@
     "hair_color": "White",
     "occupation": "Ripple Master",
     "part": "Phantom Blood",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Tonpetty"
   },
   {
@@ -132,6 +140,7 @@
     "hair_color": "Black",
     "occupation": "Ripple Monk",
     "part": "Phantom Blood",
+    "alignment": "Neutral",
     "url": "https://jojo.fandom.com/wiki/Straizo"
   },
   {
@@ -147,6 +156,7 @@
     "hair_color": "Blond",
     "occupation": "",
     "part": "Phantom Blood",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Robert_E._O._Speedwagon"
   },
   {
@@ -162,6 +172,7 @@
     "hair_color": "Black",
     "occupation": "Fortune Teller",
     "part": "Phantom Blood",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Wang_Chan"
   },
   {
@@ -177,6 +188,7 @@
     "hair_color": "",
     "occupation": "",
     "part": "Phantom Blood",
+    "alignment": "Neutral",
     "url": "https://jojo.fandom.com/wiki/Dario_Brando"
   },
   {
@@ -192,6 +204,7 @@
     "hair_color": "Blond",
     "occupation": "English teacher",
     "part": "Phantom Blood",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Erina_Pendleton"
   },
   {
@@ -207,6 +220,7 @@
     "hair_color": "Black",
     "occupation": "",
     "part": "Phantom Blood",
+    "alignment": "Neutral",
     "url": "https://jojo.fandom.com/wiki/Danny"
   },
   {
@@ -222,6 +236,7 @@
     "hair_color": "",
     "occupation": "Real Estate",
     "part": "Battle Tendency",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Joseph_Joestar"
   },
   {
@@ -237,6 +252,7 @@
     "hair_color": "Blond",
     "occupation": "",
     "part": "Battle Tendency",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Caesar_Anthonio_Zeppeli"
   },
   {
@@ -252,6 +268,7 @@
     "hair_color": "Brown",
     "occupation": "",
     "part": "Battle Tendency",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Lisa_Lisa"
   },
   {
@@ -267,6 +284,7 @@
     "hair_color": "Blond",
     "occupation": "",
     "part": "Battle Tendency",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Rudol_von_Stroheim"
   },
   {
@@ -282,6 +300,7 @@
     "hair_color": "Blond",
     "occupation": "",
     "part": "Battle Tendency",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Santana"
   },
   {
@@ -297,6 +316,7 @@
     "hair_color": "",
     "occupation": "",
     "part": "Battle Tendency",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Wamuu"
   },
   {
@@ -312,6 +332,7 @@
     "hair_color": "Blue",
     "occupation": "",
     "part": "Battle Tendency",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Esidisi"
   },
   {
@@ -327,6 +348,7 @@
     "hair_color": "Purple",
     "occupation": "",
     "part": "Battle Tendency",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Kars"
   },
   {
@@ -342,6 +364,7 @@
     "hair_color": "Black",
     "occupation": "Mayor",
     "part": "Battle Tendency",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Smokey_Brown"
   },
   {
@@ -357,6 +380,7 @@
     "hair_color": "",
     "occupation": "",
     "part": "Battle Tendency",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Messina"
   },
   {
@@ -372,6 +396,7 @@
     "hair_color": "",
     "occupation": "",
     "part": "Battle Tendency",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Loggins"
   },
   {
@@ -387,6 +412,7 @@
     "hair_color": "Blond",
     "occupation": "",
     "part": "Battle Tendency",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Suzi_Q"
   },
   {
@@ -402,6 +428,7 @@
     "hair_color": "Black",
     "occupation": "Student",
     "part": "Stardust Crusaders",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Jotaro_Kujo"
   },
   {
@@ -417,6 +444,7 @@
     "hair_color": "Black",
     "occupation": "Astrologer",
     "part": "Stardust Crusaders",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Muhammad_Avdol"
   },
   {
@@ -432,6 +460,7 @@
     "hair_color": "Red",
     "occupation": "Student",
     "part": "Stardust Crusaders",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Noriaki_Kakyoin"
   },
   {
@@ -447,6 +476,7 @@
     "hair_color": "Silver",
     "occupation": "Independent Investigator",
     "part": "Stardust Crusaders",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Jean_Pierre_Polnareff"
   },
   {
@@ -462,6 +492,7 @@
     "hair_color": "Black",
     "occupation": "Homeless Dog",
     "part": "Stardust Crusaders",
+    "alignment": "Neutral",
     "url": "https://jojo.fandom.com/wiki/Iggy"
   },
   {
@@ -477,6 +508,7 @@
     "hair_color": "",
     "occupation": "Mercenary",
     "part": "Stardust Crusaders",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Gray_Fly"
   },
   {
@@ -492,6 +524,7 @@
     "hair_color": "",
     "occupation": "",
     "part": "Stardust Crusaders",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Imposter_Captain_Tennille"
   },
   {
@@ -507,6 +540,7 @@
     "hair_color": "",
     "occupation": "Mercenary",
     "part": "Stardust Crusaders",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Forever"
   },
   {
@@ -522,6 +556,7 @@
     "hair_color": "",
     "occupation": "",
     "part": "Stardust Crusaders",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Devo_the_Cursed"
   },
   {
@@ -537,6 +572,7 @@
     "hair_color": "Black",
     "occupation": "Mercenary",
     "part": "Stardust Crusaders",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Rubber_Soul"
   },
   {
@@ -552,6 +588,7 @@
     "hair_color": "",
     "occupation": "Mercenary",
     "part": "Stardust Crusaders",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/J._Geil"
   },
   {
@@ -567,6 +604,7 @@
     "hair_color": "Blond",
     "occupation": "Mercenary",
     "part": "Stardust Crusaders",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Hol_Horse"
   },
   {
@@ -582,6 +620,7 @@
     "hair_color": "Brown",
     "occupation": "Mercenary",
     "part": "Stardust Crusaders",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Nena"
   },
   {
@@ -597,6 +636,7 @@
     "hair_color": "Black",
     "occupation": "Mercenary",
     "part": "Stardust Crusaders",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/ZZ"
   },
   {
@@ -612,6 +652,7 @@
     "hair_color": "",
     "occupation": "",
     "part": "Stardust Crusaders",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Enya_the_Hag"
   },
   {
@@ -627,6 +668,7 @@
     "hair_color": "Black",
     "occupation": "Mercenary",
     "part": "Stardust Crusaders",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Steely_Dan"
   },
   {
@@ -642,6 +684,7 @@
     "hair_color": "Black",
     "occupation": "Mercenary",
     "part": "Stardust Crusaders",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Arabia_Fats"
   },
   {
@@ -657,6 +700,7 @@
     "hair_color": "",
     "occupation": "",
     "part": "Stardust Crusaders",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Mannish_Boy"
   },
   {
@@ -672,6 +716,7 @@
     "hair_color": "",
     "occupation": "Mercenary",
     "part": "Stardust Crusaders",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Cameo"
   },
   {
@@ -687,6 +732,7 @@
     "hair_color": "Purple",
     "occupation": "Assassin",
     "part": "Stardust Crusaders",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Midler"
   },
   {
@@ -702,6 +748,7 @@
     "hair_color": "Black",
     "occupation": "Assassin",
     "part": "Stardust Crusaders",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/N%27Doul"
   },
   {
@@ -717,6 +764,7 @@
     "hair_color": "Black",
     "occupation": "",
     "part": "Stardust Crusaders",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Boingo"
   },
   {
@@ -732,6 +780,7 @@
     "hair_color": "",
     "occupation": "",
     "part": "Stardust Crusaders",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Anubis"
   },
   {
@@ -747,6 +796,7 @@
     "hair_color": "Blond",
     "occupation": "Assassin",
     "part": "Stardust Crusaders",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Mariah"
   },
   {
@@ -762,6 +812,7 @@
     "hair_color": "Red",
     "occupation": "Mercenary",
     "part": "Stardust Crusaders",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Alessi"
   },
   {
@@ -777,6 +828,7 @@
     "hair_color": "Red",
     "occupation": "Professional Gambler",
     "part": "Stardust Crusaders",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Daniel_J._D%27Arby"
   },
   {
@@ -792,6 +844,7 @@
     "hair_color": "Brown",
     "occupation": "Guard of DIO's Mansion",
     "part": "Stardust Crusaders",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Pet_Shop"
   },
   {
@@ -807,6 +860,7 @@
     "hair_color": "Brown",
     "occupation": "",
     "part": "Stardust Crusaders",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Telence_T._D%27Arby"
   },
   {
@@ -822,6 +876,7 @@
     "hair_color": "Blue",
     "occupation": "",
     "part": "Stardust Crusaders",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Vanilla_Ice"
   },
   {
@@ -837,6 +892,7 @@
     "hair_color": "Blond",
     "occupation": "",
     "part": "Stardust Crusaders",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Holy_Kujo"
   },
   {
@@ -852,6 +908,7 @@
     "hair_color": "Black",
     "occupation": "Student",
     "part": "Diamond is Unbreakable",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Josuke_Higashikata"
   },
   {
@@ -867,6 +924,7 @@
     "hair_color": "Blue",
     "occupation": "",
     "part": "Diamond is Unbreakable",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Koichi_Hirose"
   },
   {
@@ -882,6 +940,7 @@
     "hair_color": "Black",
     "occupation": "",
     "part": "Diamond is Unbreakable",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Okuyasu_Nijimura"
   },
   {
@@ -897,6 +956,7 @@
     "hair_color": "",
     "occupation": "",
     "part": "Diamond is Unbreakable",
+    "alignment": "Neutral",
     "url": "https://jojo.fandom.com/wiki/Rohan_Kishibe"
   },
   {
@@ -912,6 +972,7 @@
     "hair_color": "",
     "occupation": "Office worker Mercenary",
     "part": "Diamond is Unbreakable",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Yoshikage_Kira"
   },
   {
@@ -927,6 +988,7 @@
     "hair_color": "Red",
     "occupation": "",
     "part": "Diamond is Unbreakable",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Anjuro_Katagiri"
   },
   {
@@ -942,6 +1004,7 @@
     "hair_color": "Blond",
     "occupation": "",
     "part": "Diamond is Unbreakable",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Keicho_Nijimura"
   },
   {
@@ -957,6 +1020,7 @@
     "hair_color": "Black",
     "occupation": "Loan Shark Con Artist",
     "part": "Diamond is Unbreakable",
+    "alignment": "Neutral",
     "url": "https://jojo.fandom.com/wiki/Tamami_Kobayashi"
   },
   {
@@ -972,6 +1036,7 @@
     "hair_color": "Black",
     "occupation": "Student",
     "part": "Diamond is Unbreakable",
+    "alignment": "Neutral",
     "url": "https://jojo.fandom.com/wiki/Toshikazu_Hazamada"
   },
   {
@@ -987,6 +1052,7 @@
     "hair_color": "Black",
     "occupation": "Student",
     "part": "Diamond is Unbreakable",
+    "alignment": "Neutral",
     "url": "https://jojo.fandom.com/wiki/Yukako_Yamagishi"
   },
   {
@@ -1002,6 +1068,7 @@
     "hair_color": "Purple",
     "occupation": "Guitarist",
     "part": "Diamond is Unbreakable",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Akira_Otoishi"
   },
   {
@@ -1017,6 +1084,7 @@
     "hair_color": "Black",
     "occupation": "",
     "part": "Diamond is Unbreakable",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Bug-Eaten"
   },
   {
@@ -1032,6 +1100,7 @@
     "hair_color": "",
     "occupation": "",
     "part": "Diamond is Unbreakable",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Shigekiyo_Yangu"
   },
   {
@@ -1047,6 +1116,7 @@
     "hair_color": "",
     "occupation": "",
     "part": "Diamond is Unbreakable",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Yoshihiro_Kira"
   },
   {
@@ -1062,6 +1132,7 @@
     "hair_color": "",
     "occupation": "",
     "part": "Diamond is Unbreakable",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Ken_Oyanagi"
   },
   {
@@ -1077,6 +1148,7 @@
     "hair_color": "Black",
     "occupation": "",
     "part": "Diamond is Unbreakable",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Yuya_Fungami"
   },
   {
@@ -1092,6 +1164,7 @@
     "hair_color": "Blue",
     "occupation": "",
     "part": "Diamond is Unbreakable",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Toyohiro_Kanedaichi"
   },
   {
@@ -1107,6 +1180,7 @@
     "hair_color": "White",
     "occupation": "",
     "part": "Diamond is Unbreakable",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Terunosuke_Miyamoto"
   },
   {
@@ -1122,6 +1196,7 @@
     "hair_color": "",
     "occupation": "Architect",
     "part": "Diamond is Unbreakable",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Masazo_Kinoto"
   },
   {
@@ -1137,6 +1212,7 @@
     "hair_color": "Black",
     "occupation": "Teacher",
     "part": "Diamond is Unbreakable",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Tomoko_Higashikata"
   },
   {
@@ -1152,6 +1228,7 @@
     "hair_color": "",
     "occupation": "Police Officer",
     "part": "Diamond is Unbreakable",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Ryohei_Higashikata"
   },
   {
@@ -1167,6 +1244,7 @@
     "hair_color": "Brown",
     "occupation": "Professional Chef",
     "part": "Diamond is Unbreakable",
+    "alignment": "Neutral",
     "url": "https://jojo.fandom.com/wiki/Tonio_Trussardi"
   },
   {
@@ -1182,6 +1260,7 @@
     "hair_color": "",
     "occupation": "",
     "part": "Diamond is Unbreakable",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Shizuka_Joestar"
   },
   {
@@ -1197,6 +1276,7 @@
     "hair_color": "Blond",
     "occupation": "Manager",
     "part": "Diamond is Unbreakable",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Aya_Tsuji"
   },
   {
@@ -1212,6 +1292,7 @@
     "hair_color": "Silver",
     "occupation": "Intergalactic Pilot",
     "part": "Diamond is Unbreakable",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Mikitaka_Hazekura"
   },
   {
@@ -1227,6 +1308,7 @@
     "hair_color": "Black",
     "occupation": "Passione",
     "part": "Vento Aureo",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Giorno_Giovanna"
   },
   {
@@ -1242,6 +1324,7 @@
     "hair_color": "Black",
     "occupation": "Passione",
     "part": "Vento Aureo",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Bruno_Bucciarati"
   },
   {
@@ -1257,6 +1340,7 @@
     "hair_color": "White",
     "occupation": "Passione",
     "part": "Vento Aureo",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Leone_Abbacchio"
   },
   {
@@ -1272,6 +1356,7 @@
     "hair_color": "",
     "occupation": "Team Bucciarati",
     "part": "Vento Aureo",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Guido_Mista"
   },
   {
@@ -1287,6 +1372,7 @@
     "hair_color": "Black",
     "occupation": "Passione",
     "part": "Vento Aureo",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Narancia_Ghirga"
   },
   {
@@ -1302,6 +1388,7 @@
     "hair_color": "Blond",
     "occupation": "Passione",
     "part": "Vento Aureo",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Pannacotta_Fugo"
   },
   {
@@ -1317,6 +1404,7 @@
     "hair_color": "Pink",
     "occupation": "Student Pop Star",
     "part": "Vento Aureo",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Trish_Una"
   },
   {
@@ -1332,6 +1420,7 @@
     "hair_color": "",
     "occupation": "",
     "part": "Vento Aureo",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Coco_Jumbo"
   },
   {
@@ -1347,6 +1436,7 @@
     "hair_color": "Red",
     "occupation": "Passione",
     "part": "Vento Aureo",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Diavolo"
   },
   {
@@ -1362,6 +1452,7 @@
     "hair_color": "Pink",
     "occupation": "Passione",
     "part": "Vento Aureo",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Vinegar_Doppio"
   },
   {
@@ -1377,6 +1468,7 @@
     "hair_color": "",
     "occupation": "Passione",
     "part": "Vento Aureo",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Polpo"
   },
   {
@@ -1392,6 +1484,7 @@
     "hair_color": "",
     "occupation": "",
     "part": "Vento Aureo",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Mario_Zucchero"
   },
   {
@@ -1407,6 +1500,7 @@
     "hair_color": "",
     "occupation": "",
     "part": "Vento Aureo",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Sale"
   },
   {
@@ -1422,6 +1516,7 @@
     "hair_color": "Purple",
     "occupation": "Passione Hitman",
     "part": "Vento Aureo",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Risotto_Nero"
   },
   {
@@ -1437,6 +1532,7 @@
     "hair_color": "",
     "occupation": "Passione Hitman",
     "part": "Vento Aureo",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Formaggio"
   },
   {
@@ -1452,6 +1548,7 @@
     "hair_color": "Black",
     "occupation": "Passione Hitman",
     "part": "Vento Aureo",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Illuso"
   },
   {
@@ -1467,6 +1564,7 @@
     "hair_color": "Blond",
     "occupation": "Passione Hitman",
     "part": "Vento Aureo",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Prosciutto"
   },
   {
@@ -1482,6 +1580,7 @@
     "hair_color": "Green",
     "occupation": "Passione Hitman",
     "part": "Vento Aureo",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Pesci"
   },
   {
@@ -1497,6 +1596,7 @@
     "hair_color": "Blond",
     "occupation": "Passione Hitman",
     "part": "Vento Aureo",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Melone"
   },
   {
@@ -1512,6 +1612,7 @@
     "hair_color": "Blue",
     "occupation": "Passione Hitman",
     "part": "Vento Aureo",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Ghiaccio"
   },
   {
@@ -1527,6 +1628,7 @@
     "hair_color": "",
     "occupation": "",
     "part": "Vento Aureo",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Squalo"
   },
   {
@@ -1542,6 +1644,7 @@
     "hair_color": "Green",
     "occupation": "",
     "part": "Vento Aureo",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Carne"
   },
   {
@@ -1557,6 +1660,7 @@
     "hair_color": "Green",
     "occupation": "Unita Speciale",
     "part": "Vento Aureo",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Cioccolata"
   },
   {
@@ -1572,10 +1676,27 @@
     "hair_color": "",
     "occupation": "",
     "part": "Vento Aureo",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Secco"
   },
   {
     "id": 106,
+    "name": "Scolippi",
+    "imageUrl": "/assets/jjba/img/scolippi.png",
+    "status": "Alive",
+    "stand": "Rolling Stones",
+    "standType": "Automatic",
+    "age": "",
+    "gender": "Male",
+    "nationality": "Italian",
+    "hair_color": "Purple",
+    "occupation": "Sculptor",
+    "part": "Vento Aureo",
+    "alignment": "Neutral",
+    "url": "https://jojo.fandom.com/wiki/Scolippi"
+  },
+  {
+    "id": 107,
     "name": "Jolyne Cujoh",
     "imageUrl": "/assets/jjba/img/jolyne_cujoh.png",
     "status": "Deceased",
@@ -1587,10 +1708,11 @@
     "hair_color": "Blue",
     "occupation": "",
     "part": "Stone Ocean",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Jolyne_Cujoh"
   },
   {
-    "id": 107,
+    "id": 108,
     "name": "Ermes Costello",
     "imageUrl": "/assets/jjba/img/ermes_costello.png",
     "status": "Deceased",
@@ -1602,10 +1724,11 @@
     "hair_color": "Black",
     "occupation": "",
     "part": "Stone Ocean",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Ermes_Costello"
   },
   {
-    "id": 108,
+    "id": 109,
     "name": "Emporio Alnino",
     "imageUrl": "/assets/jjba/img/emporio_alnino.png",
     "status": "",
@@ -1617,10 +1740,11 @@
     "hair_color": "",
     "occupation": "",
     "part": "Stone Ocean",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Emporio_Alnino"
   },
   {
-    "id": 109,
+    "id": 110,
     "name": "Foo Fighters",
     "imageUrl": "/assets/jjba/img/foo_fighters.png",
     "status": "Deceased",
@@ -1632,10 +1756,11 @@
     "hair_color": "Green",
     "occupation": "",
     "part": "Stone Ocean",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Foo_Fighters"
   },
   {
-    "id": 110,
+    "id": 111,
     "name": "Weather Report",
     "imageUrl": "/assets/jjba/img/weather_report.png",
     "status": "Deceased",
@@ -1647,10 +1772,11 @@
     "hair_color": "White",
     "occupation": "Delivery Boy",
     "part": "Stone Ocean",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Weather_Report"
   },
   {
-    "id": 111,
+    "id": 112,
     "name": "Narciso Anasui",
     "imageUrl": "/assets/jjba/img/narciso_anasui.png",
     "status": "Deceased",
@@ -1662,10 +1788,11 @@
     "hair_color": "Pink",
     "occupation": "Student",
     "part": "Stone Ocean",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Narciso_Anasui"
   },
   {
-    "id": 112,
+    "id": 113,
     "name": "Enrico Pucci",
     "imageUrl": "/assets/jjba/img/enrico_pucci.png",
     "status": "Deceased",
@@ -1677,10 +1804,11 @@
     "hair_color": "White",
     "occupation": "",
     "part": "Stone Ocean",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Enrico_Pucci"
   },
   {
-    "id": 113,
+    "id": 114,
     "name": "Gwess",
     "imageUrl": "/assets/jjba/img/gwess.png",
     "status": "Alive",
@@ -1692,10 +1820,11 @@
     "hair_color": "Black",
     "occupation": "",
     "part": "Stone Ocean",
+    "alignment": "Neutral",
     "url": "https://jojo.fandom.com/wiki/Gwess"
   },
   {
-    "id": 114,
+    "id": 115,
     "name": "Johngalli A.",
     "imageUrl": "",
     "status": "",
@@ -1707,10 +1836,11 @@
     "hair_color": "",
     "occupation": "",
     "part": "Stone Ocean",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Johngalli_A."
   },
   {
-    "id": 115,
+    "id": 116,
     "name": "Thunder McQueen",
     "imageUrl": "/assets/jjba/img/thunder_mcqueen.png",
     "status": "Retired",
@@ -1722,10 +1852,11 @@
     "hair_color": "Blond",
     "occupation": "",
     "part": "Stone Ocean",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Thunder_McQueen"
   },
   {
-    "id": 116,
+    "id": 117,
     "name": "Miraschon",
     "imageUrl": "/assets/jjba/img/miraschon.png",
     "status": "Retired",
@@ -1737,10 +1868,11 @@
     "hair_color": "",
     "occupation": "",
     "part": "Stone Ocean",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Miraschon"
   },
   {
-    "id": 117,
+    "id": 118,
     "name": "Lang Rangler",
     "imageUrl": "/assets/jjba/img/lang_rangler.png",
     "status": "Retired",
@@ -1752,10 +1884,11 @@
     "hair_color": "",
     "occupation": "",
     "part": "Stone Ocean",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Lang_Rangler"
   },
   {
-    "id": 118,
+    "id": 119,
     "name": "Sports Maxx",
     "imageUrl": "/assets/jjba/img/sports_maxx.png",
     "status": "Deceased",
@@ -1767,10 +1900,11 @@
     "hair_color": "Blond",
     "occupation": "Car Dealer",
     "part": "Stone Ocean",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Sports_Maxx"
   },
   {
-    "id": 119,
+    "id": 120,
     "name": "Viviano Westwood",
     "imageUrl": "/assets/jjba/img/viviano_westwood.png",
     "status": "Retired",
@@ -1782,10 +1916,11 @@
     "hair_color": "Black",
     "occupation": "GDSJ Corrections Officer",
     "part": "Stone Ocean",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Viviano_Westwood"
   },
   {
-    "id": 120,
+    "id": 121,
     "name": "Kenzou",
     "imageUrl": "/assets/jjba/img/kenzou.png",
     "status": "Retired",
@@ -1797,10 +1932,11 @@
     "hair_color": "Gray",
     "occupation": "",
     "part": "Stone Ocean",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Kenzou"
   },
   {
-    "id": 121,
+    "id": 122,
     "name": "D an G",
     "imageUrl": "/assets/jjba/img/d_an_g.png",
     "status": "Deceased",
@@ -1812,10 +1948,11 @@
     "hair_color": "",
     "occupation": "Police Officer",
     "part": "Stone Ocean",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/D_an_G"
   },
   {
-    "id": 122,
+    "id": 123,
     "name": "Guccio",
     "imageUrl": "/assets/jjba/img/guccio.png",
     "status": "Deceased",
@@ -1827,10 +1964,11 @@
     "hair_color": "Black",
     "occupation": "",
     "part": "Stone Ocean",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Guccio"
   },
   {
-    "id": 123,
+    "id": 124,
     "name": "The Green Baby",
     "imageUrl": "/assets/jjba/img/the_green_baby.png",
     "status": "",
@@ -1842,10 +1980,11 @@
     "hair_color": "",
     "occupation": "",
     "part": "Stone Ocean",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/The_Green_Baby"
   },
   {
-    "id": 124,
+    "id": 125,
     "name": "Miuccia Miuller",
     "imageUrl": "/assets/jjba/img/miuccia_miuller.png",
     "status": "Retired",
@@ -1857,10 +1996,11 @@
     "hair_color": "Blond",
     "occupation": "Chief Guard of GDSJ",
     "part": "Stone Ocean",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Miuccia_Miuller"
   },
   {
-    "id": 125,
+    "id": 126,
     "name": "Ungalo",
     "imageUrl": "/assets/jjba/img/ungalo.png",
     "status": "Retired",
@@ -1872,10 +2012,11 @@
     "hair_color": "Green",
     "occupation": "",
     "part": "Stone Ocean",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Ungalo"
   },
   {
-    "id": 126,
+    "id": 127,
     "name": "Rikiel",
     "imageUrl": "/assets/jjba/img/rikiel.png",
     "status": "Retired",
@@ -1887,10 +2028,11 @@
     "hair_color": "Black",
     "occupation": "",
     "part": "Stone Ocean",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Rikiel"
   },
   {
-    "id": 127,
+    "id": 128,
     "name": "Donatello Versus",
     "imageUrl": "/assets/jjba/img/donatello_versus.png",
     "status": "Deceased",
@@ -1902,10 +2044,11 @@
     "hair_color": "Blond",
     "occupation": "Unemployed",
     "part": "Stone Ocean",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Donatello_Versus"
   },
   {
-    "id": 128,
+    "id": 129,
     "name": "Johnny Joestar",
     "imageUrl": "/assets/jjba/img/johnny_joestar.png",
     "status": "Deceased",
@@ -1916,11 +2059,12 @@
     "nationality": "American-Japanese",
     "hair_color": "Blond",
     "occupation": "Jockey",
-    "part": "Jojolion",
+    "part": "Steel Ball Run",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Johnny_Joestar"
   },
   {
-    "id": 129,
+    "id": 130,
     "name": "Gyro Zeppeli",
     "imageUrl": "/assets/jjba/img/gyro_zeppeli.png",
     "status": "Deceased",
@@ -1932,10 +2076,11 @@
     "hair_color": "Blond",
     "occupation": "Neapolitan Executioner",
     "part": "Steel Ball Run",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Gyro_Zeppeli"
   },
   {
-    "id": 130,
+    "id": 131,
     "name": "Lucy Steel",
     "imageUrl": "/assets/jjba/img/lucy_steel.png",
     "status": "Deceased",
@@ -1947,10 +2092,11 @@
     "hair_color": "Blond",
     "occupation": "Paranormal Investigator",
     "part": "Steel Ball Run",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Lucy_Steel"
   },
   {
-    "id": 131,
+    "id": 132,
     "name": "Diego Brando",
     "imageUrl": "/assets/jjba/img/diego_brando.png",
     "status": "",
@@ -1962,10 +2108,27 @@
     "hair_color": "",
     "occupation": "",
     "part": "Steel Ball Run",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Diego_Brando"
   },
   {
-    "id": 132,
+    "id": 133,
+    "name": "Diego Brando (THE_WORLD)",
+    "imageUrl": "/assets/jjba/img/diego_brando_the_world.png",
+    "status": "Deceased",
+    "stand": "THE WORLD",
+    "standType": "Close-Range",
+    "age": "20-30",
+    "gender": "Male",
+    "nationality": "British",
+    "hair_color": "Blond",
+    "occupation": "Jockey",
+    "part": "Steel Ball Run",
+    "alignment": "Antagonist",
+    "url": "https://jojo.fandom.com/wiki/Diego_Brando_(THE_WORLD)"
+  },
+  {
+    "id": 134,
     "name": "Hot Pants",
     "imageUrl": "/assets/jjba/img/hot_pants.png",
     "status": "Deceased",
@@ -1977,10 +2140,11 @@
     "hair_color": "Pink",
     "occupation": "Nun",
     "part": "Steel Ball Run",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Hot_Pants"
   },
   {
-    "id": 133,
+    "id": 135,
     "name": "Funny Valentine",
     "imageUrl": "/assets/jjba/img/funny_valentine.png",
     "status": "Deceased",
@@ -1992,10 +2156,11 @@
     "hair_color": "Blond",
     "occupation": "23rd President of the United States of America",
     "part": "Steel Ball Run",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Funny_Valentine"
   },
   {
-    "id": 134,
+    "id": 136,
     "name": "Sandman",
     "imageUrl": "/assets/jjba/img/sandman.png",
     "status": "Deceased",
@@ -2007,10 +2172,11 @@
     "hair_color": "Black",
     "occupation": "",
     "part": "Steel Ball Run",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Sandman"
   },
   {
-    "id": 135,
+    "id": 137,
     "name": "Benjamin Boomboom",
     "imageUrl": "",
     "status": "",
@@ -2022,10 +2188,11 @@
     "hair_color": "",
     "occupation": "",
     "part": "Steel Ball Run",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Benjamin_Boomboom"
   },
   {
-    "id": 136,
+    "id": 138,
     "name": "Andre Boomboom",
     "imageUrl": "",
     "status": "",
@@ -2037,10 +2204,11 @@
     "hair_color": "",
     "occupation": "",
     "part": "Steel Ball Run",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Andre_Boomboom"
   },
   {
-    "id": 137,
+    "id": 139,
     "name": "L.A. Boomboom",
     "imageUrl": "",
     "status": "",
@@ -2052,10 +2220,11 @@
     "hair_color": "",
     "occupation": "",
     "part": "Steel Ball Run",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/L.A._Boomboom"
   },
   {
-    "id": 138,
+    "id": 140,
     "name": "Oyecomova",
     "imageUrl": "/assets/jjba/img/oyecomova.png",
     "status": "Retired",
@@ -2067,10 +2236,11 @@
     "hair_color": "Black",
     "occupation": "Terrorist",
     "part": "Steel Ball Run",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Oyecomova"
   },
   {
-    "id": 139,
+    "id": 141,
     "name": "Pork Pie Hat Kid",
     "imageUrl": "/assets/jjba/img/pork_pie_hat_kid.png",
     "status": "Retired",
@@ -2082,10 +2252,11 @@
     "hair_color": "",
     "occupation": "Assassin",
     "part": "Steel Ball Run",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Pork_Pie_Hat_Kid"
   },
   {
-    "id": 140,
+    "id": 142,
     "name": "Dr. Ferdinand",
     "imageUrl": "/assets/jjba/img/dr._ferdinand.png",
     "status": "Deceased",
@@ -2097,10 +2268,11 @@
     "hair_color": "Blond",
     "occupation": "",
     "part": "Steel Ball Run",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Dr._Ferdinand"
   },
   {
-    "id": 141,
+    "id": 143,
     "name": "Ringo Roadagain",
     "imageUrl": "/assets/jjba/img/ringo_roadagain.png",
     "status": "Deceased",
@@ -2112,10 +2284,11 @@
     "hair_color": "White",
     "occupation": "Gunslinger",
     "part": "Steel Ball Run",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Ringo_Roadagain"
   },
   {
-    "id": 142,
+    "id": 144,
     "name": "Blackmore",
     "imageUrl": "/assets/jjba/img/blackmore.png",
     "status": "Deceased",
@@ -2127,10 +2300,11 @@
     "hair_color": "Blond",
     "occupation": "Assassin",
     "part": "Steel Ball Run",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Blackmore"
   },
   {
-    "id": 143,
+    "id": 145,
     "name": "Eleven Men",
     "imageUrl": "/assets/jjba/img/eleven_men.png",
     "status": "Deceased",
@@ -2142,10 +2316,11 @@
     "hair_color": "White",
     "occupation": "",
     "part": "Steel Ball Run",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Eleven_Men"
   },
   {
-    "id": 144,
+    "id": 146,
     "name": "Mike O.",
     "imageUrl": "/assets/jjba/img/mike_o..png",
     "status": "Deceased",
@@ -2157,10 +2332,11 @@
     "hair_color": "Black",
     "occupation": "Presidential Bodyguard",
     "part": "Steel Ball Run",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Mike_O."
   },
   {
-    "id": 145,
+    "id": 147,
     "name": "Magent Magent",
     "imageUrl": "/assets/jjba/img/magent_magent.png",
     "status": "Retired",
@@ -2172,10 +2348,11 @@
     "hair_color": "Black",
     "occupation": "Assassin",
     "part": "Steel Ball Run",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Magent_Magent"
   },
   {
-    "id": 146,
+    "id": 148,
     "name": "Axl RO",
     "imageUrl": "/assets/jjba/img/axl_ro.png",
     "status": "Deceased",
@@ -2187,10 +2364,11 @@
     "hair_color": "Brown",
     "occupation": "Former Soldier",
     "part": "Steel Ball Run",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Axl_RO"
   },
   {
-    "id": 147,
+    "id": 149,
     "name": "D-I-S-C-O",
     "imageUrl": "/assets/jjba/img/d-i-s-c-o.png",
     "status": "Retired",
@@ -2202,10 +2380,11 @@
     "hair_color": "Brown",
     "occupation": "Assassin",
     "part": "Steel Ball Run",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/D-I-S-C-O"
   },
   {
-    "id": 148,
+    "id": 150,
     "name": "Mountain Tim",
     "imageUrl": "/assets/jjba/img/mountain_tim.png",
     "status": "Deceased",
@@ -2217,10 +2396,11 @@
     "hair_color": "Blond",
     "occupation": "",
     "part": "Steel Ball Run",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Mountain_Tim"
   },
   {
-    "id": 149,
+    "id": 151,
     "name": "Pocoloco",
     "imageUrl": "/assets/jjba/img/pocoloco.png",
     "status": "Alive",
@@ -2232,10 +2412,59 @@
     "hair_color": "Black",
     "occupation": "Farmer",
     "part": "Steel Ball Run",
+    "alignment": "Neutral",
     "url": "https://jojo.fandom.com/wiki/Pocoloco"
   },
   {
-    "id": 150,
+    "id": 152,
+    "name": "Sugar Mountain",
+    "imageUrl": "/assets/jjba/img/sugar_mountain.png",
+    "status": "Alive",
+    "stand": "Sugar Mountain",
+    "standType": "",
+    "age": "60-70",
+    "gender": "Female",
+    "nationality": "",
+    "hair_color": "Black",
+    "occupation": "",
+    "part": "Steel Ball Run",
+    "alignment": "Neutral",
+    "url": "https://jojo.fandom.com/wiki/Sugar_Mountain"
+  },
+  {
+    "id": 153,
+    "name": "Jesus",
+    "imageUrl": "/assets/jjba/img/jesus.png",
+    "status": "Unknown",
+    "stand": null,
+    "standType": "",
+    "age": "",
+    "gender": "Male",
+    "nationality": "Galilean",
+    "hair_color": "Brown",
+    "occupation": "Carpenter Prophet",
+    "part": "Steel Ball Run",
+    "alignment": "Neutral",
+    "url": "https://jojo.fandom.com/wiki/Jesus"
+  },
+  {
+    "id": 154,
+    "name": "Josuke Higashikata (JJL)",
+    "imageUrl": "/assets/jjba/img/josuke_higashikata_jjl.png",
+    "status": "Alive",
+    "stand": "Soft & Wet",
+    "standType": "Close-Range",
+    "age": "10-20",
+    "gender": "Male",
+    "nationality": "Japanese",
+    "hair_color": "Black",
+    "occupation": "",
+    "part": "Jojolion",
+    "alignment": "Protagonist",
+    "url": "https://jojo.fandom.com/wiki/Josuke_Higashikata_(JJL)"
+  },
+  {
+    "id": 155,
     "name": "Yasuho Hirose",
     "imageUrl": "/assets/jjba/img/yasuho_hirose.png",
     "status": "Alive",
@@ -2247,10 +2476,27 @@
     "hair_color": "Pink",
     "occupation": "University Student",
     "part": "Jojolion",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Yasuho_Hirose"
   },
   {
-    "id": 151,
+    "id": 156,
+    "name": "Joshu Higashikata",
+    "imageUrl": "/assets/jjba/img/joshu_higashikata.png",
+    "status": "Alive",
+    "stand": "Nut King Call",
+    "standType": "Close-Range",
+    "age": "10-20",
+    "gender": "Male",
+    "nationality": "Japanese",
+    "hair_color": "Black",
+    "occupation": "College Student",
+    "part": "Jojolion",
+    "alignment": "Antagonist",
+    "url": "https://jojo.fandom.com/wiki/Joshu_Higashikata"
+  },
+  {
+    "id": 157,
     "name": "Norisuke Higashikata IV",
     "imageUrl": "/assets/jjba/img/norisuke_higashikata_iv.png",
     "status": "Alive",
@@ -2262,10 +2508,11 @@
     "hair_color": "Blond",
     "occupation": "",
     "part": "Jojolion",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Norisuke_Higashikata_IV"
   },
   {
-    "id": 152,
+    "id": 158,
     "name": "Jobin Higashikata",
     "imageUrl": "/assets/jjba/img/jobin_higashikata.png",
     "status": "Deceased",
@@ -2277,10 +2524,11 @@
     "hair_color": "Blond",
     "occupation": "",
     "part": "Jojolion",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Jobin_Higashikata"
   },
   {
-    "id": 153,
+    "id": 159,
     "name": "Tsurugi Higashikata",
     "imageUrl": "/assets/jjba/img/tsurugi_higashikata.png",
     "status": "Alive",
@@ -2292,10 +2540,11 @@
     "hair_color": "Green",
     "occupation": "",
     "part": "Jojolion",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Tsurugi_Higashikata"
   },
   {
-    "id": 154,
+    "id": 160,
     "name": "Daiya Higashikata",
     "imageUrl": "/assets/jjba/img/daiya_higashikata.png",
     "status": "Alive",
@@ -2307,10 +2556,11 @@
     "hair_color": "Black",
     "occupation": "",
     "part": "Jojolion",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Daiya_Higashikata"
   },
   {
-    "id": 155,
+    "id": 161,
     "name": "Hato Higashikata",
     "imageUrl": "/assets/jjba/img/hato_higashikata.png",
     "status": "Alive",
@@ -2322,10 +2572,11 @@
     "hair_color": "Blond",
     "occupation": "Model",
     "part": "Jojolion",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Hato_Higashikata"
   },
   {
-    "id": 156,
+    "id": 162,
     "name": "Mitsuba Higashikata",
     "imageUrl": "/assets/jjba/img/mitsuba_higashikata.png",
     "status": "Alive",
@@ -2337,10 +2588,11 @@
     "hair_color": "Red",
     "occupation": "",
     "part": "Jojolion",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Mitsuba_Higashikata"
   },
   {
-    "id": 157,
+    "id": 163,
     "name": "Kaato Higashikata",
     "imageUrl": "/assets/jjba/img/kaato_higashikata.png",
     "status": "Deceased",
@@ -2352,10 +2604,27 @@
     "hair_color": "Black",
     "occupation": "Housewife",
     "part": "Jojolion",
+    "alignment": "Neutral",
     "url": "https://jojo.fandom.com/wiki/Kaato_Higashikata"
   },
   {
-    "id": 158,
+    "id": 164,
+    "name": "Yoshikage Kira (JoJolion)",
+    "imageUrl": "/assets/jjba/img/yoshikage_kira_jojolion.png",
+    "status": "Deceased",
+    "stand": "Killer Queen",
+    "standType": "Close-Range",
+    "age": "20-30",
+    "gender": "Male",
+    "nationality": "Japanese",
+    "hair_color": "Black",
+    "occupation": "Marine surgeon",
+    "part": "Jojolion",
+    "alignment": "Protagonist",
+    "url": "https://jojo.fandom.com/wiki/Yoshikage_Kira_(JoJolion)"
+  },
+  {
+    "id": 165,
     "name": "Rai Mamezuku",
     "imageUrl": "/assets/jjba/img/rai_mamezuku.png",
     "status": "Deceased",
@@ -2367,10 +2636,11 @@
     "hair_color": "Black",
     "occupation": "Plant Appraiser",
     "part": "Jojolion",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Rai_Mamezuku"
   },
   {
-    "id": 159,
+    "id": 166,
     "name": "Toru",
     "imageUrl": "/assets/jjba/img/toru.png",
     "status": "Deceased",
@@ -2382,10 +2652,11 @@
     "hair_color": "Black",
     "occupation": "Part-Time Employee at TG University Hospital",
     "part": "Jojolion",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Toru"
   },
   {
-    "id": 160,
+    "id": 167,
     "name": "Ojiro Sasame",
     "imageUrl": "/assets/jjba/img/ojiro_sasame.png",
     "status": "Deceased",
@@ -2397,10 +2668,11 @@
     "hair_color": "Blond",
     "occupation": "Surfer",
     "part": "Jojolion",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Ojiro_Sasame"
   },
   {
-    "id": 161,
+    "id": 168,
     "name": "Kei Nijimura",
     "imageUrl": "/assets/jjba/img/kei_nijimura.png",
     "status": "Deceased",
@@ -2412,10 +2684,11 @@
     "hair_color": "",
     "occupation": "Higashikata Family Housekeeper",
     "part": "Jojolion",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Kei_Nijimura"
   },
   {
-    "id": 162,
+    "id": 169,
     "name": "Tamaki Damo",
     "imageUrl": "/assets/jjba/img/tamaki_damo.png",
     "status": "Deceased",
@@ -2427,10 +2700,11 @@
     "hair_color": "Blond",
     "occupation": "Owner of Damo Can Cleaning service",
     "part": "Jojolion",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Tamaki_Damo"
   },
   {
-    "id": 163,
+    "id": 170,
     "name": "Yotsuyu Yagiyama",
     "imageUrl": "/assets/jjba/img/yotsuyu_yagiyama.png",
     "status": "Deceased",
@@ -2442,10 +2716,11 @@
     "hair_color": "Black",
     "occupation": "Architect",
     "part": "Jojolion",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Yotsuyu_Yagiyama"
   },
   {
-    "id": 164,
+    "id": 171,
     "name": "Aisho Dainenjiyama",
     "imageUrl": "/assets/jjba/img/aisho_dainenjiyama.png",
     "status": "Deceased",
@@ -2457,10 +2732,11 @@
     "hair_color": "Black",
     "occupation": "Baseball Stadium Security Guard",
     "part": "Jojolion",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Aisho_Dainenjiyama"
   },
   {
-    "id": 165,
+    "id": 172,
     "name": "A. Phex Brothers",
     "imageUrl": "/assets/jjba/img/a._phex_brothers.png",
     "status": "Deceased",
@@ -2472,10 +2748,11 @@
     "hair_color": "Brown",
     "occupation": "",
     "part": "Jojolion",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/A._Phex_Brothers"
   },
   {
-    "id": 166,
+    "id": 173,
     "name": "Dolomite",
     "imageUrl": "/assets/jjba/img/dolomite.png",
     "status": "Retired",
@@ -2487,10 +2764,11 @@
     "hair_color": "",
     "occupation": "Hermit",
     "part": "Jojolion",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Dolomite"
   },
   {
-    "id": 167,
+    "id": 174,
     "name": "Urban Guerrilla",
     "imageUrl": "/assets/jjba/img/urban_guerrilla.png",
     "status": "Deceased",
@@ -2502,10 +2780,11 @@
     "hair_color": "",
     "occupation": "Doctor specialised in gastrointestinal diseases",
     "part": "Jojolion",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Urban_Guerrilla"
   },
   {
-    "id": 168,
+    "id": 175,
     "name": "Poor Tom",
     "imageUrl": "/assets/jjba/img/poor_tom.png",
     "status": "Deceased",
@@ -2517,10 +2796,11 @@
     "hair_color": "Gray",
     "occupation": "Doctor in obstetrics",
     "part": "Jojolion",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Poor_Tom"
   },
   {
-    "id": 169,
+    "id": 176,
     "name": "Wu Tomoki",
     "imageUrl": "/assets/jjba/img/wu_tomoki.png",
     "status": "Deceased",
@@ -2532,14 +2812,15 @@
     "hair_color": "",
     "occupation": "Orthopedic surgeon",
     "part": "Jojolion",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Wu_Tomoki"
   },
   {
-    "id": 170,
+    "id": 177,
     "name": "Holy Joestar-Kira",
     "imageUrl": "/assets/jjba/img/holy_joestar-kira.png",
     "status": "Alive",
-    "stand": "Unamed Stand",
+    "stand": "Unnamed Stand",
     "standType": "",
     "age": "50-60",
     "gender": "Female",
@@ -2547,10 +2828,11 @@
     "hair_color": "Brown",
     "occupation": "Ophthalmologist",
     "part": "Jojolion",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Holy_Joestar-Kira"
   },
   {
-    "id": 171,
+    "id": 178,
     "name": "Karera Sakunami",
     "imageUrl": "/assets/jjba/img/karera_sakunami.png",
     "status": "Alive",
@@ -2562,10 +2844,11 @@
     "hair_color": "Black",
     "occupation": "Unemployed",
     "part": "Jojolion",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Karera_Sakunami"
   },
   {
-    "id": 172,
+    "id": 179,
     "name": "Josefumi Kujo",
     "imageUrl": "/assets/jjba/img/josefumi_kujo.png",
     "status": "",
@@ -2577,10 +2860,11 @@
     "hair_color": "Purple",
     "occupation": "T Academy Student",
     "part": "Jojolion",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Josefumi_Kujo"
   },
   {
-    "id": 173,
+    "id": 180,
     "name": "Jodio Joestar",
     "imageUrl": "/assets/jjba/img/jodio_joestar.png",
     "status": "Alive",
@@ -2592,10 +2876,11 @@
     "hair_color": "",
     "occupation": "Student",
     "part": "The JOJOLands",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Jodio_Joestar"
   },
   {
-    "id": 174,
+    "id": 181,
     "name": "Dragona Joestar",
     "imageUrl": "/assets/jjba/img/dragona_joestar.png",
     "status": "Alive",
@@ -2607,10 +2892,11 @@
     "hair_color": "",
     "occupation": "Iko Iko Boutique Employee",
     "part": "The JOJOLands",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Dragona_Joestar"
   },
   {
-    "id": 175,
+    "id": 182,
     "name": "Paco Laburantes",
     "imageUrl": "/assets/jjba/img/paco_laburantes.png",
     "status": "Alive",
@@ -2622,10 +2908,11 @@
     "hair_color": "",
     "occupation": "Student Thief",
     "part": "The JOJOLands",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Paco_Laburantes"
   },
   {
-    "id": 176,
+    "id": 183,
     "name": "Usagi Alohaoe",
     "imageUrl": "/assets/jjba/img/usagi_alohaoe.png",
     "status": "",
@@ -2637,10 +2924,11 @@
     "hair_color": "",
     "occupation": "Student",
     "part": "The JOJOLands",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Usagi_Alohaoe"
   },
   {
-    "id": 177,
+    "id": 184,
     "name": "Charming Man",
     "imageUrl": "/assets/jjba/img/charming_man.png",
     "status": "",
@@ -2652,25 +2940,11 @@
     "hair_color": "Black",
     "occupation": "",
     "part": "The JOJOLands",
+    "alignment": "Antagonist",
     "url": "https://jojo.fandom.com/wiki/Charming_Man"
   },
   {
-    "id": 178,
-    "name": "Wild Cat Size",
-    "imageUrl": "/assets/jjba/img/wild_cat_size.png",
-    "status": "",
-    "stand": "Cat_Size",
-    "standType": "Shared",
-    "age": "",
-    "gender": "",
-    "nationality": "",
-    "hair_color": "",
-    "occupation": "",
-    "part": "The JOJOLands",
-    "url": "https://jojo.fandom.com/wiki/Wild_Cat_Size"
-  },
-  {
-    "id": 179,
+    "id": 185,
     "name": "Barbara Ann Joestar",
     "imageUrl": "/assets/jjba/img/barbara_ann_joestar.png",
     "status": "Alive",
@@ -2682,6 +2956,7 @@
     "hair_color": "",
     "occupation": "Airport Duty-Free Shop Employee",
     "part": "The JOJOLands",
+    "alignment": "Protagonist",
     "url": "https://jojo.fandom.com/wiki/Barbara_Ann_Joestar"
   }
 ]

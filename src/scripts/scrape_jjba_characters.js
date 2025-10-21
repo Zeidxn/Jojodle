@@ -267,7 +267,7 @@ async function fetchAndDownloadCharacterImage(characterName) {
 
 // ========== CHARACTER DATA BUILDER ==========
 async function getCharacterData(id, characterData) {
-    const { name, stand, part } = characterData;
+    const { name, stand, part, alignment } = characterData;
     
     const wikicode = await fetchWikicode(name);
     
@@ -299,7 +299,7 @@ async function getCharacterData(id, characterData) {
         hair_color,
         occupation,
         part: part || "",
-        birthday,
+        alignment: alignment || "",
         url: buildCharacterUrl(name)
     });
 }

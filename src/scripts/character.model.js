@@ -12,6 +12,7 @@ class Character {
                     hair_color = "",
                     occupation = "",
                     part = "",
+                    alignment = "",
                     url = ""
                 }) {
         this.id = id;
@@ -26,6 +27,7 @@ class Character {
         this.hair_color = hair_color;
         this.occupation = occupation;
         this.part = part;
+        this.alignment = alignment;
         this.url = url;
     }
 
@@ -47,6 +49,7 @@ class Character {
             hair_color: this.hair_color,
             occupation: this.occupation,
             part: this.part,
+            alignment: this.alignment,
             url: this.url
         };
     }
