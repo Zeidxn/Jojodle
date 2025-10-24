@@ -99,8 +99,8 @@ export default function Classic({ characters = [] }) {
                 )}
 
                 <div className="character-cards-container w_75 flex flex_col flex_wrap justify_center gap_2 m-4">
-                    <div className="flex flex_col justify_centerx gap-2">
-                        <div className="character-attributes-container w_75 flex flex_row justify_center m_y_3">
+                    <div className="flex flex_col gap-2">
+                        <div className="character-attributes-container">
                             <span className="character-attribute status">Status</span>
                             <span className="character-attribute alignment">Alignment</span>
                             <span className="character-attribute stand">Stand</span>
