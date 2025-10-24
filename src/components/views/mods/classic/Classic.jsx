@@ -5,13 +5,16 @@ import './classic.css';
 import { Link } from "react-router-dom";
 import GameClues from "../../../game-clues/GameClues.jsx";
 import Success from "../../../success/Success.jsx";
+import Failure from "../../../failure/Failure.jsx";
 
 export default function Classic({ characters = [] }) {
     const [selectedChars, setSelectedChars] = useState([]);
     const [availableChars, setAvailableChars] = useState(characters); // Nouvel état pour les personnages disponibles
     const [winner, setWinner] = useState(null);
+    const [loser, setLoser] = useState(null);
     const [randomChar, setRandomChar] = useState(null);
     const [attempts, setAttempts] = useState(0);
+    const MAX_ATTEMPTS = 20;
 
     // Synchronise la liste des personnages disponibles au premier chargement
     useEffect(() => {
@@ -40,11 +43,18 @@ export default function Classic({ characters = [] }) {
             setWinner(char);
             setAvailableChars([]);
         }
+
+        // Vérifier si le nombre maximum de tentatives est atteint
+        if (attempts + 1 >= MAX_ATTEMPTS && (!randomChar || char.id !== randomChar.id)) {
+            setAvailableChars([]);
+            setLoser(char);
+        }
     };
 
     const handleReset = () => {
         // Réinitialiser tous les états pour recommencer une nouvelle partie
         setWinner(null);
+        setLoser(null);
         setSelectedChars([]);
         setAvailableChars(characters);
         setRandomChar(null);
@@ -76,13 +86,16 @@ export default function Classic({ characters = [] }) {
                 />
 
                 {selectedChars.length > 0 && (
-                    <p>{selectedChars.length} personnage(s) sélectionné(s) !</p>
+                    <p className="attempts-left">Attempts left: {MAX_ATTEMPTS - attempts}</p>
                 )}
-
                 
 
                 {winner && (
                     <Success winner={winner} onReset={handleReset} />
+                )}
+
+                {loser && (
+                    <Failure loser={loser} correctChar={randomChar} onReset={handleReset} />
                 )}
 
                 <div className="character-cards-container w_75 flex flex_col flex_wrap justify_center gap_2 m-4">

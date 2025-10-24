@@ -10,6 +10,7 @@
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
     align-items: center;
     justify-content: center;
+    margin-bottom: 6px;
 }
 
 .character_img {
@@ -66,7 +67,6 @@
     padding-left: 130px; /* 95px (image) + 12px (gap) + 10px (padding card) */
     margin-top: 10px;
     text-align: center;
-    justify-self: center;
     gap: 10px;
     width: 91%;
 }
@@ -74,13 +74,13 @@
 .character-attribute {
     display: flex;
     align-items: center;
-    justify-content: center;
     width: 110px;
     height: 30px;
     font-size: 15px;
     padding: 0;
     color: #fff;
     font-weight: bold;
+    text-transform: uppercase;
     transition: background-color 0.3s ease, border-color 0.3s ease;
 }
 
@@ -115,6 +115,18 @@
 
 .button-success:hover {
     background-color: #45a049;
+}
+
+.attempts-left {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 1.2rem;
+    color: #fff;
+    text-shadow: 0 0 20px rgb(255, 255, 255),
+                 0 0 40px rgba(122, 122, 122, 0.8),
+                 0 2px 8px rgba(0, 0, 0, 0.9);
+    text-transform: uppercase;
+    letter-spacing: 3px;
 }
 
 @media (max-width: 768px) {

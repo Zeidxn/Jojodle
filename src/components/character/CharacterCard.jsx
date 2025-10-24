@@ -25,6 +25,9 @@ export default function CharacterCard({ character, randomChar }) {
                 <span className={`character_info_item ${getClass("status")}`}>
                     {formatValue(character.status)}
                 </span>
+                <span className={`character_info_item ${getClass("alignment")}`}>
+                    {formatValue(character.alignment)}
+                </span>
                 <span className={`character_info_item ${getClass("stand")}`}>
                     {formatValue(character.stand)}
                 </span>
