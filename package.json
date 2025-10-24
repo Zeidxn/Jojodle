@@ -7,7 +7,10 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "scrape:characters": "node scripts/scrapers/scrape_jjba_characters.js",
+    "scrape:stands": "node scripts/scrapers/scrape_stands.js",
+    "scrape:all": "node scripts/scrapers/scrape_jjba_characters.js && node scripts/scrapers/scrape_stands.js"    
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",

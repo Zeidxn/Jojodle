@@ -8,6 +8,10 @@
 
 # production build
 /build
+/dist
+
+# backup
+.backup-old-architecture/
 
 # misc
 .DS_Store

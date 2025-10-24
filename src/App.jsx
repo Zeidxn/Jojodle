@@ -1,26 +1,34 @@
-import { useEffect, useState } from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import './App.css';
-import Home from "./components/views/Home.jsx";
-import Classic from "./components/views/mods/classic/Classic.jsx";
-import Stand from "./components/views/mods/stand/Stand.jsx";
+import { useFetchCharacters, useFetchStands } from './hooks/index.js';
+import { Home } from './features/home/index.js';
+import { CharacterGame } from './features/character-game/index.js';
+import { StandGame } from './features/stand-game/index.js';
+import { ROUTES } from './constants/index.js';
 
+/**
+ * Application principale
+ */
 function App() {
-    const [characters, setCharacters] = useState([]);
-
-    useEffect(() => {
-        fetch("/assets/jjba/characters.json")
-            .then((res) => res.json())
-            .then((data) => setCharacters(data))
-            .catch((err) => console.error("Erreur JSON:", err));
-    }, []);
+    const { characters, loading: loadingChars } = useFetchCharacters();
+    const { stands, loading: loadingStands } = useFetchStands();
 
     return (
         <Router>
             <Routes>
-                <Route path="/" element={<Home characters={characters} />} />
-                <Route path="/classic" element={<Classic characters={characters} />} />
-                <Route path="/stand" element={<Stand characters={characters} />} />
+                <Route path={ROUTES.HOME} element={<Home />} />
+                <Route 
+                    path={ROUTES.CLASSIC} 
+                    element={
+                        loadingChars ? <div>Loading...</div> : <CharacterGame characters={characters} />
+                    } 
+                />
+                <Route 
+                    path={ROUTES.STAND} 
+                    element={
+                        loadingStands ? <div>Loading...</div> : <StandGame stands={stands} />
+                    } 
+                />
             </Routes>
         </Router>
     );
