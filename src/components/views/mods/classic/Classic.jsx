@@ -32,7 +32,7 @@ export default function Classic({ characters = [] }) {
     const handleSelect = (char) => {
         if (!char) return;
 
-        if (!selectedChars.some((c) => c.id === char.id)) {
+        if (!selectedChars.some((c) => c.id === char.id)) { 
             setSelectedChars([...selectedChars, char]);
             setAttempts(prev => prev + 1);
             setAvailableChars(availableChars.filter(c => c.id !== char.id));

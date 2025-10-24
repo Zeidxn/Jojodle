@@ -18,6 +18,7 @@
     width: 100px;
     border-radius: 8px;
     object-fit: cover;
+    object-position: top left;
     border: 1px solid #e137b0;
 }
 

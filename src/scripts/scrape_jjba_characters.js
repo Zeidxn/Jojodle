@@ -316,6 +316,19 @@ async function scrapeCharacter(characterData, index, total) {
     }
 }
 
+function getAllStand(characters) {
+    const standsSet = new Set();
+    characters.forEach(char => {
+        if (char.stand) {
+            standsSet.add(char.stand);
+        }
+    });
+    return Array.from(standsSet).map((standName, index) => ({
+        name: standName,
+        id: index + 1 + characters.length
+    }));
+}
+
 async function scrapeAll() {
     const characters = await readCharactersFromJson();
     console.log(`${characters.length} personnages trouvés`);
