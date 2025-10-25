@@ -34,9 +34,11 @@ export default function StandGame({ stands = [] }) {
                     />
                 </Link>
 
-                {randomStand && (
-                    <StandShape imageUrl={randomStand.imageUrl} />
-                )}
+                <div className="clue-stand-shape">
+                    {randomStand && (
+                        <StandShape imageUrl={randomStand.imageUrl} />
+                    )}
+                </div>
 
                 <StandAutocomplete
                     stands={availableStands}

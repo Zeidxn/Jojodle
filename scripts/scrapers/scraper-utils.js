@@ -103,6 +103,103 @@ export async function downloadImage(imageUrl, filepath) {
     }
 }
 
+export async function fetchAndDownloadStandImageFromJojoWiki(standName, imgDir) {
+    try {
+        // Construire l'URL pour jojowiki.com
+        const encodedName = standName.split("").map(c => MAP_REPLACE_CHARS[c] || c).join("");
+        const jojoWikiUrl = `${JOJOWIKI_URL}/${encodedName}`;
+        
+        const $ = await fetchHtmlPage(jojoWikiUrl);
+        
+        // Chercher la section "Appearance"
+        let imageUrl = null;
+        
+        // Chercher le heading "Appearance"
+        $('h2, h3').each((i, heading) => {
+            const headingText = $(heading).text().trim().toLowerCase();
+            if (headingText.includes('appearance') && !imageUrl) {
+                // Trouver l'image dans la section suivante
+                let nextElement = $(heading).next();
+                let attempts = 0;
+                
+                while (nextElement.length && attempts < 10 && !imageUrl) {
+                    // Chercher les images PNG dans cet élément
+                    const imgs = nextElement.find('img');
+                    imgs.each((j, img) => {
+                        const src = $(img).attr('src') || $(img).attr('data-src');
+                        if (src && src.includes('.png') && !imageUrl) {
+                            imageUrl = src;
+                            return false; // break
+                        }
+                    });
+                    
+                    // Vérifier si l'élément lui-même est une image
+                    if (nextElement.is('img')) {
+                        const src = nextElement.attr('src') || nextElement.attr('data-src');
+                        if (src && src.includes('.png')) {
+                            imageUrl = src;
+                            break;
+                        }
+                    }
+                    
+                    nextElement = nextElement.next();
+                    attempts++;
+                }
+            }
+        });
+        
+        // Si pas trouvé dans Appearance, chercher dans l'infobox
+        if (!imageUrl) {
+            const infoboxImg = $('.infobox img, .portable-infobox img').first();
+            if (infoboxImg.length) {
+                const src = infoboxImg.attr('src') || infoboxImg.attr('data-src');
+                if (src && src.includes('.png')) {
+                    imageUrl = src;
+                }
+            }
+        }
+        
+        // Si toujours pas trouvé, chercher la première image PNG sur la page
+        if (!imageUrl) {
+            $('img').each((i, img) => {
+                const src = $(img).attr('src') || $(img).attr('data-src');
+                if (src && src.includes('.png') && !src.includes('icon') && !src.includes('logo')) {
+                    imageUrl = src;
+                    return false; // break
+                }
+            });
+        }
+        
+        if (!imageUrl) {
+            console.log(`  ⚠️  Pas d'image PNG trouvée pour ${standName} sur jojowiki.com`);
+            return "";
+        }
+        
+        // S'assurer que l'URL est complète
+        imageUrl = imageUrl.startsWith('http') ? imageUrl : `https:${imageUrl}`;
+        
+        // Obtenir l'URL complète (pas le thumbnail)
+        imageUrl = imageUrl.replace(/\/thumb\//g, '/').replace(/\/\d+px-[^/]+$/, '');
+        
+        const filename = sanitizeFilename(standName).toLowerCase() + '.png';
+        const filepath = path.join(imgDir, filename);
+        const relativePath = `/assets/jjba/img/stands/${filename}`;
+        
+        // Télécharger l'image
+        const success = await downloadImage(imageUrl, filepath);
+        
+        if (success) {
+            console.log(`  ✓ Image téléchargée: ${filename}`);
+            return relativePath;
+        }
+        
+        return "";
+    } catch (err) {
+        console.error(`  ✗ Erreur récupération image pour ${standName}:`, err.message);
+        return "";
+    }
+}
+
 export async function fetchAndDownloadImage(entityName, entityUrl, imgDir) {
     try {
         const $ = await fetchHtmlPage(entityUrl);

@@ -1,4 +1,4 @@
-.game_clues {
+.game_clues, .clue-stand-shape {
     display: flex;
     flex-direction: column;
     width: 400px;
@@ -11,7 +11,7 @@
     background-size: cover;
     background-position: center;
     background-blend-mode: overlay;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.7);
     border: 1px solid #e137b0;
     border-radius: 12px;
     transition: border-color 0.3s ease, box-shadow 0.3s ease;
@@ -137,10 +137,17 @@
 }
 
 
+.clue-stand-shape {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.5);
+
+}
+
 .stand_silhouette {
-    width: 300px;
-    height: 300px;
-    object-fit: cover;
+    width: 400px;
+    height: 400px;
+    object-fit: contain;
     filter: grayscale(100%) brightness(0);
     transition: filter 0.3s ease;
 }

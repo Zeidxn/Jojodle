@@ -5,7 +5,7 @@ import {
     buildUrl,
     fetchHtmlPage,
     matchStandType,
-    fetchAndDownloadImage
+    fetchAndDownloadStandImageFromJojoWiki
 } from "./scraper-utils.js";
 
 // ========== CONFIGURATION ==========
@@ -19,7 +19,6 @@ async function readCharactersFromJson() {
         return await fs.readJson(INPUT_FILE);
     } catch (err) {
         console.error("Erreur lecture fichier:", err);
-        return [];
     }
 }
 
@@ -92,8 +91,9 @@ async function fetchStandData(standName, userName, part) {
             });
         }
         
-        // Extraire l'image du Stand
-        const localImagePath = await fetchAndDownloadImage(standName, standUrl, IMG_DIR);
+        // Extraire l'image du Stand depuis jojowiki.com (PNG uniquement)
+        console.log(`  Téléchargement image pour ${standName}...`);
+        const localImagePath = await fetchAndDownloadStandImageFromJojoWiki(standName, IMG_DIR);
         
         return {
             type: standType,

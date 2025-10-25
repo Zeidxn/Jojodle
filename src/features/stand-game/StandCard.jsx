@@ -16,7 +16,7 @@ export default function StandCard({ stand, randomStand }) {
                 <img
                     src={stand.imageUrl}
                     alt={stand.name}
-                    className="character_img"
+                    className="stand_img"
                 />
             )}
 

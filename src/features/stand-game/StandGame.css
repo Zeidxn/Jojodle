@@ -18,8 +18,16 @@
     width: 100px;
     border-radius: 8px;
     object-fit: cover;
-    object-position: top center;
     border: 1px solid #e137b0;
+}
+
+.stand_img {
+    height: 100px;
+    width: 100px;
+    border-radius: 8px;
+    object-fit: contain;
+    border: 1px solid #e137b0;
+    background-color: rgba(0, 0, 0, 0.3);
 }
 
 .character_name {

@@ -6,7 +6,7 @@
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-image: url("/public/assets/jjba/assets/bg.jpg");
+  background-image: url("/assets/jjba/assets/bg.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
